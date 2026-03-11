@@ -1,0 +1,25 @@
+# SEMPRE A ULTIMA REGRA É A QUE VALE (OU SEJA, SOBRESCREVE A ANTERIOR) verificação de cima para baixo
+
+# 1. Bloqueio Total (Ninguém entra por padrão)
+/*
+
+# 2. Exceções de Pastas (VIPs)
+# Tudo o que estiver aqui dentro (inclusive .py) será levado
+!base/
+!lists/
+!colab/
+
+# 3. Exceções de Arquivos na Raiz
+# Aqui permitimos apenas o que você realmente quer na raiz
+!*.txt
+!README.md
+!.gitignore
+
+# 4. Contra-exceções (O "filtro do filtro" para logs)
+vulp_sync_log.txt
+merged.txt
+
+# 5. Lixo eletrônico
+__pycache__/
+*.pyc
+.DS_Store
