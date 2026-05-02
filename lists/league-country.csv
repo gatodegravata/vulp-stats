@@ -258,7 +258,7 @@ Brazil Matches;Brazil
 Brazil Campeonato Acreano;Brazil
 Brazil Campeonato U20 Women;Brazil
 Brazil Serie A Women;Brazil
-Peru Campeonato Nacional Women;Brazil
+Peru Campeonato Nacional Women;Peru
 Brazil Serie A U20;Brazil
 Brazil Campeonato Paulista U20;Brazil
 Brazil Campeonato Brasileiro A3 Women;Brazil
@@ -283,7 +283,7 @@ Brazil Catarinense 2;Brazil
 Brazil Campeonato Baiano 2;Brazil
 Brazil Paulista Cup;Brazil
 Brazil Campeonato Pernambucano A2;Brazil
-Bolivia Campeonato Integracion Women;Brazil
+Bolivia Campeonato Integracion Women;Bolivia
 Brazil Campeonato Sergipano A2;Brazil
 Brazil Copa Rio;Brazil
 Copa do Brasil;Brazil
@@ -542,7 +542,7 @@ Denmark Jyllandsserien P4;Denmark
 Djibouti Premier League;Djibouti
 Dominica Premier League;Dominica
 Dominica President Cup;Dominica
-Dominican Republic Cup;Dominica
+Dominican Republic Cup;Dominican Republic
 Dominican Republic Liga;Dominican Republic
 Ecuador LigaPro Serie A;Ecuador
 Ecuador LigaPro Serie B;Ecuador
@@ -1834,7 +1834,7 @@ USA College Cup;USA
 USA NISA Pro Cup;USA
 USA USL Super League Women;USA
 University Tournament;University
-Viareggio Cup Women;University
+Viareggio Cup Women;Italy
 Uruguay Cup;Uruguay
 Uruguay Amateur Cup;Uruguay
 Uruguay Apertura;Uruguay
@@ -1911,7 +1911,7 @@ Zimbabwe Cup;Zimbabwe
 AFC Asian Cup Women;International (Asia)
 AFC Solidarity Cup;International (Asia)
 African Football League;International (Africa)
-Algarve Cup;Portugal
+Algarve Cup;International (World)
 Algeria League Cup;Algeria
 Algeria U19 Cup;Algeria
 Algeria Youth League;Algeria
@@ -2386,3 +2386,18 @@ USA USL Cup;USA
 Brazil Campeonato Acreano U20;Brazil
 Israel Cup Women;Israel
 Northern Ireland Premier Play-Offs;Northern Ireland
+Αγγλία - Νάσιοναλ Λιγκ;England
+Αγγλία - Νάσιοναλ Λιγκ - Βορράς;England
+Αγγλία - Νάσιοναλ Λιγκ Πρέμιερ Γυναικών;England
+Αγγλία - Πρέμιερ Λιγκ 2;England
+Приятелски Мачове;International
+伊朗甲级联赛;Iran
+南非盃;South Africa
+印度MFA超级杯;India
+墨西哥乙級聯賽;Mexico
+巴西聖保羅州錦標賽A2;Brazil
+日本J2/J3百年構想聯賽;Japan
+科威特联赛;Kuwait
+科特迪瓦乙级联赛;Ivory Coast
+荷兰乙级联赛;Netherlands
+阿曼联赛;Oman
