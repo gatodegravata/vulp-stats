@@ -21,6 +21,7 @@
 # 4. Contra-exceções (O "filtro do filtro" para logs)
 vulp_sync_log.txt
 merged.txt
+ops/
 
 # 5. Lixo eletrônico
 __pycache__/

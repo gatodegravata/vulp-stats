@@ -5,7 +5,6 @@ on:
     - cron: '0 3 * * *' # Roda todo dia às 03:00 UTC (Meia-noite BRT)
   workflow_dispatch: # Permite rodar manualmente
 
-# ESTA É A PARTE QUE CORRIGE O ERRO 403
 permissions:
   contents: write
 
@@ -16,7 +15,6 @@ jobs:
       - name: Checkout do repositório
         uses: actions/checkout@v3
         with:
-          # Garante que o token usado no checkout tenha permissões de escrita
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Configurar Python
@@ -35,6 +33,12 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add complementos/*.csv
-          # O comando abaixo evita erros se não houver nada novo para commitar
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update complementos [skip ci]" && git push)
+          
+          # Cria a pasta ops se ela não existir
+          mkdir -p ops
+          
+          # Força o rastreio da pasta ops ignorando o .gitignore do seu PC
+          git add -f ops/
+          
+          # Só commita se houver mudanças reais
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update ops [skip ci]" && git push)
