@@ -10,6 +10,7 @@
 !complementos/
 !scripts/
 !colab/
+!.github
 
 # 3. Exceções de Arquivos na Raiz
 # Aqui permitimos apenas o que você realmente quer na raiz

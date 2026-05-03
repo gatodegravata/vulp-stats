@@ -1,0 +1,32 @@
+name: Sync Database Diário
+
+on:
+  schedule:
+    - cron: '0 3 * * *' # Roda todo dia às 03:00 UTC (Meia-noite BRT)
+  workflow_dispatch: # Permite que você rode manualmente clicando num botão
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Instalar dependências
+        run: |
+          pip install pandas pyarrow fastparquet
+
+      - name: Rodar script de verificação
+        run: python scripts/verifica-base.py
+
+      - name: Commitar e dar Push nos arquivos gerados
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add complementos/*.csv
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update complementos [skip ci]" && git push)
