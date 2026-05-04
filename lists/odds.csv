@@ -1,4 +1,4 @@
-"Data","Horario","tournament_slug","category_slug","participant1_id","participant1_name","participant2_id","participant2_name","fixture_id","1_abertura","1_fechamento","X_abertura","X_fechamento","2_abertura","2_fechamento","yes_abertura","yes_fechamento"
+"Data","Horario","tournament_slug","category_slug","participant1_id","participant1_name","participant2_id","participant2_name","fixture_id","1_abertura","1_fechamento","X_abertura","X_fechamento","2_abertura","2_fechamento","odd_yes_abertura","odd_yes_fechamento"
 "2026-01-13","10:00","turkiye-kupasi","turkiye",6362,"Alanyaspor",4954,"Fatih Karagumruk Istanbul","id1000009666493006","1.55","1.55","3.9","3.9","5","5","1.833","1.833"
 "2026-01-13","12:30","turkiye-kupasi","turkiye",3086,"Istanbul Basaksehir",6414,"Boluspor","id1000009666493002","1.25","1.004","5","41","11","501","1.833","1.833"
 "2026-01-13","15:00","turkiye-kupasi","turkiye",5138,"Gaziantep FK",3065,"Kocaelispor","id1000009666457322","2.35","1.02","3.4","19","2.55","501","1.727","1.727"
