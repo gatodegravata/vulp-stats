@@ -30,3 +30,42 @@
 [19:11:54] 💾 Salvando CSV Master... (Inseridos: 282 | Atualizados: 195)
 [19:12:17] 💎 Gerando Parquet...
 [19:12:21] ✅ Tudo pronto!
+[08:52:20] 📂 Carregando Base Mestre...
+[08:52:28] 🚀 Lendo: schedule_matches.csv
+[08:52:30] 💾 Salvando CSV Master... (Inseridos: 26 | Atualizados: 369)
+[08:52:48] 💎 Gerando Parquet...
+[08:52:52] ✅ Tudo pronto!
+[09:11:19] 📂 Carregando Base Mestre...
+[09:11:27] 🚀 Lendo: schedule_matches-01e02.csv
+[09:11:28] 🚀 Lendo: schedule_matches03.csv
+[09:11:28] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches03.csv:
+[09:11:28]    - [ ] Spain Kings League - 36 mins play inc. Match Ball
+[09:11:28]    - [ ] Brazil Kings League - 36 mins play inc. Match Ball
+[09:11:30] 🚀 Lendo: schedule_matches04e05.csv
+[09:11:30] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches04e05.csv:
+[09:11:30]    - [ ] Brazil Kings League - 36 mins play inc. Match Ball
+[09:11:30]    - [ ] South Korea League Cup
+[09:11:30]    - [ ] China League One Women
+[09:11:30]    - [ ] South Korea K3/K4 Championship
+[09:11:30]    - [ ] Brazil Recopa Gaucha
+[09:11:32] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 495)
+[09:12:06] 💎 Gerando Parquet...
+[09:12:10] ✅ Tudo pronto!
+[09:14:02] 📂 Carregando Base Mestre...
+[09:14:10] 🚀 Lendo: schedule_matches-01e02.csv
+[09:14:12] 🚀 Lendo: schedule_matches03.csv
+[09:14:12] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches03.csv:
+[09:14:12]    - [ ] Spain Kings League - 36 mins play inc. Match Ball
+[09:14:12]    - [ ] Brazil Kings League - 36 mins play inc. Match Ball
+[09:14:13] 🚀 Lendo: schedule_matches04e05.csv
+[09:14:13] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches04e05.csv:
+[09:14:13]    - [ ] Brazil Kings League - 36 mins play inc. Match Ball
+[09:14:15] 🚀 Lendo: schedule_matches29.csv
+[09:14:15] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches29.csv:
+[09:14:15]    - [ ] Baller League USA - 30 mins play
+[09:14:16] 🚀 Lendo: schedule_matches30.csv
+[09:14:16] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches30.csv:
+[09:14:16]    - [ ] Baller League USA - 30 mins play
+[09:14:18] 💾 Salvando CSV Master... (Inseridos: 5 | Atualizados: 592)
+[09:14:37] 💎 Gerando Parquet...
+[09:14:41] ✅ Tudo pronto!
