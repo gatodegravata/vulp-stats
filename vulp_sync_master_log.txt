@@ -151,3 +151,12 @@
 [16:24:55] 💾 Salvando CSV Master... (Inseridos: 791 | Atualizados: 819)
 [16:25:17] 💎 Gerando Parquet...
 [16:25:22] ✅ Tudo pronto!
+[15:40:25] 📂 Carregando Base Mestre...
+[15:40:42] 🚀 Lendo: schedule_matches-dom.csv
+[15:40:42] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches-dom.csv:
+[15:40:42]    - [ ] Spain Kings League - 36 mins play inc. Match Ball
+[15:40:44] 🚀 Lendo: schedule_matches-sab.csv
+[15:40:46] 🚀 Lendo: schedule_matches-seg.csv
+[15:40:47] 💾 Salvando CSV Master... (Inseridos: 208 | Atualizados: 1121)
+[15:41:10] 💎 Gerando Parquet...
+[15:41:14] ✅ Tudo pronto!
