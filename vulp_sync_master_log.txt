@@ -216,3 +216,17 @@
 [18:23:01] 💾 Salvando CSV Master... (Inseridos: 194 | Atualizados: 225)
 [18:23:42] 💎 Gerando Parquet...
 [18:23:48] ✅ Tudo pronto!
+[18:57:11] 📂 Carregando Base Mestre...
+[18:57:35] 🚀 Lendo: schedule_matches.csv
+[18:57:35] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches.csv:
+[18:57:35]    - [ ] Baller League USA - 30 mins play
+[18:57:41] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 287)
+[18:58:33] 💎 Gerando Parquet...
+[18:58:41] ✅ Tudo pronto!
+[19:05:25] 📂 Carregando Base Mestre...
+[19:05:39] 🚀 Lendo: schedule_matches.csv
+[19:05:39] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches.csv:
+[19:05:39]    - [ ] Baller League USA - 30 mins play
+[19:05:42] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 287)
+[19:06:29] 💎 Gerando Parquet...
+[19:06:40] ✅ Tudo pronto!
