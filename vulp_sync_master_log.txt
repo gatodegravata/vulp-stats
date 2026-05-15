@@ -254,3 +254,20 @@
 [16:15:55] 💾 Salvando CSV Master... (Inseridos: 312 | Atualizados: 197)
 [16:16:20] 💎 Gerando Parquet...
 [16:16:26] ✅ Tudo pronto!
+[09:55:51] 📂 Carregando Base Mestre...
+[09:56:08] 🚀 Lendo: schedule_matches.csv
+[09:56:08] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches.csv:
+[09:56:08]    - [ ] Baller League USA - 30 mins play
+[09:56:08]    - [ ] Brazil Campeonato Maranhense U20
+[09:56:08]    - [ ] Brazil Kings League - 36 mins play inc. Match Ball
+[09:56:13] 💾 Salvando CSV Master... (Inseridos: 22 | Atualizados: 370)
+[09:56:53] 💎 Gerando Parquet...
+[09:56:59] ✅ Tudo pronto!
+[09:57:08] 📂 Carregando Base Mestre...
+[09:57:26] 🚀 Lendo: schedule_matches.csv
+[09:57:26] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches.csv:
+[09:57:26]    - [ ] Baller League USA - 30 mins play
+[09:57:26]    - [ ] Brazil Kings League - 36 mins play inc. Match Ball
+[09:57:32] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 292)
+[09:58:15] 💎 Gerando Parquet...
+[09:58:22] ✅ Tudo pronto!
