@@ -271,3 +271,21 @@
 [09:57:32] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 292)
 [09:58:15] 💎 Gerando Parquet...
 [09:58:22] ✅ Tudo pronto!
+[18:16:39] 📂 Carregando Base Mestre...
+[18:16:56] 🚀 Lendo: schedule_matches-dom.csv
+[18:17:00] 🚀 Lendo: schedule_matches-sab.csv
+[18:17:00] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches-sab.csv:
+[18:17:00]    - [ ] Brazil Kings League - 36 mins play inc. Match Ball
+[18:17:00]    - [ ] Brazil Campeonato Brasiliense U20
+[18:17:00]    - [ ] Albania Championship Play-Offs
+[18:17:08] 💾 Salvando CSV Master... (Inseridos: 1215 | Atualizados: 277)
+[18:17:44] 💎 Gerando Parquet...
+[18:17:53] ✅ Tudo pronto!
+[18:17:59] 📂 Carregando Base Mestre...
+[18:18:13] 🚀 Lendo: schedule_matches-dom.csv
+[18:18:17] 🚀 Lendo: schedule_matches-sab.csv
+[18:18:17] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches-sab.csv:
+[18:18:17]    - [ ] Brazil Kings League - 36 mins play inc. Match Ball
+[18:18:19] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 1301)
+[18:18:46] 💎 Gerando Parquet...
+[18:18:51] ✅ Tudo pronto!
