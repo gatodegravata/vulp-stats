@@ -307,3 +307,17 @@
 [18:17:27] 💾 Salvando CSV Master... (Inseridos: 187 | Atualizados: 1317)
 [18:17:52] 💎 Gerando Parquet...
 [18:17:58] ✅ Tudo pronto!
+[13:42:17] 📂 Carregando Base Mestre...
+[13:42:27] 🚀 Lendo: schedule_matches-dom.csv
+[13:42:28] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches-dom.csv:
+[13:42:28]    - [ ] Spain Tercera - Play-Offs
+[13:42:30] 🚀 Lendo: schedule_matches16.csv
+[13:42:33] 💾 Salvando CSV Master... (Inseridos: 27 | Atualizados: 977)
+[13:42:55] 💎 Gerando Parquet...
+[13:42:59] ✅ Tudo pronto!
+[13:43:22] 📂 Carregando Base Mestre...
+[13:43:32] 🚀 Lendo: schedule_matches-dom.csv
+[13:43:36] 🚀 Lendo: schedule_matches16.csv
+[13:43:41] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 660)
+[13:44:02] 💎 Gerando Parquet...
+[13:44:06] ✅ Tudo pronto!
