@@ -271,7 +271,7 @@ DATA,Time,BTTS,IN LIVE?,Odd J,Odd M,Juice,EV,Stake,Lucro Max,Profit,Jogo,Liga,Re
 09/05/2026,00:00,Sim,,"1,64","1,72","0,00%","4,88%","R$ 1,00","0,72","R$ 0,72",Stal Mielec vs Puszcza Niepolomice,,,,"60,98%",
 09/05/2026,00:00,Sim,,"1,55","1,61","0,00%","3,87%","R$ 1,00","0,61","R$ 0,61",Znicz Pruszków vs Polonia Bytom,,,,"64,52%",
 09/05/2026,00:00,Sim,,"1,87","1,90","0,00%","1,60%","R$ 1,00","0,90","-R$ 1,00",Tudelano vs Real Oviedo Vetusta,,,,"53,48%",
-09/05/2026,00:00,Sim,,"2,47","3,00","0,00%","21,46%","R$ 1,00","2,00","-R$ 1,00",CD Moron vs Los Ande,,,,"40,49%",
+09/05/2026,00:00,Sim,,"2,47","3,00","0,00%","21,46%","R$ 1,00","2,00","-R$ 1,00",CD Moron vs Los Andes,,,,"40,49%",
 09/05/2026,00:00,Sim,,"2,46","2,75","0,00%","11,79%","R$ 1,00","1,75","R$ 1,75",CA San Miguel vs CA Estudiantes Caseros,,,,"40,65%",
 09/05/2026,00:00,Sim,,"2,19","2,50","0,00%","14,16%","R$ 1,00","1,50","-R$ 1,00",Talleres Remedios vs Villa San Carlos,,,,"45,66%",
 09/05/2026,00:00,Sim,,"2,23","2,50","0,00%","12,11%","R$ 1,00","1,50","R$ 1,50",Deportivo Armenio vs Deportivo Camioneros,,,,"44,84%",
@@ -384,7 +384,7 @@ DATA,Time,BTTS,IN LIVE?,Odd J,Odd M,Juice,EV,Stake,Lucro Max,Profit,Jogo,Liga,Re
 13/05/2026,00:00,Sim,,"1,68","1,75","0,00%","4,17%","R$ 1,00","0,75","R$ 0,75",Cruz Azul vs Chivas Guadalajara,,,,"59,52%",
 13/05/2026,00:00,Sim,,"1,94","2,10","0,00%","8,25%","R$ 1,00","1,10","-R$ 1,00",Carabobo vs Estudiantes Merida,,,,"51,55%",
 13/05/2026,00:00,Sim,,"1,85","2,00","0,00%","8,11%","R$ 1,00","1,00","R$ 1,00",Academia Puerto Cabello vs Portuguesa FC,,,,"54,05%",
-13/05/2026,00:00,Sim,,"1,36","1,50","0,00%","10,29%","R$ 1,00","0,50","R$ 0,50",Honefoss vs Stjørdals/Blink,,,,"73,53%",
+13/05/2026,00:00,Sim,,"1,36","1,50","0,00%","10,29%","R$ 1,00","0,50","R$ 0,50",Honefoss vs Stjørdals/Blink,,,194527580,"73,53%",
 14/05/2026,00:00,Sim,,"1,39","1,57","0,00%","12,95%","R$ 1,00","0,57","-R$ 1,00",Vasalunds IF vs Gefle IF,,,,"71,94%",
 14/05/2026,00:00,Sim,,"1,41","1,50","0,00%","6,38%","R$ 1,00","0,50","R$ 0,50",Assyriska Föreningen vs Umea FC,,,,"70,92%",
 14/05/2026,00:00,Sim,,"1,51","1,61","0,00%","6,62%","R$ 1,00","0,61","-R$ 1,00",Tvååkers IF vs BK Olympic,,,,"66,23%",
@@ -420,8 +420,8 @@ DATA,Time,BTTS,IN LIVE?,Odd J,Odd M,Juice,EV,Stake,Lucro Max,Profit,Jogo,Liga,Re
 15/05/2026,00:00,Sim,,"1,75","1,90","0,00%","8,57%","R$ 1,00","0,90","R$ 0,90",Sportivo Trinidense vs Cerro Porteno,,,,"57,14%",
 15/05/2026,00:00,Sim,S,"1,56","1,80","0,00%","15,38%","R$ 1,00","0,80","R$ 0,80",FC Cajamarca vs Sporting Cristal,,,,"64,10%",
 15/05/2026,00:00,Sim,,"1,52","1,72","0,00%","13,16%","R$ 1,00","0,72","R$ 0,72",Montevideo City Torque vs Nacional De Football,,,,"65,79%",
-15/05/2026,00:00,Sim,,"1,69","1,83","0,00%","8,28%","R$ 1,00","0,83","-R$ 1,00",Coquimbo Unido vs Audax Italiano,Chile Liga de Primera,Chile,---,"59,17%",Reality Scanner V4
-15/05/2026,00:00,Sim,,"2,77","3,00","0,00%","8,30%","R$ 1,00","2,00","R$ 2,00",Racing de Cordoba vs Central Norte,Argentina Nacional B,Argentina,---,"36,10%",Reality Scanner V4
+15/05/2026,00:00,Sim,,"1,69","1,83","0,00%","8,28%","R$ 1,00","0,83","-R$ 1,00",Coquimbo Unido vs Audax Italiano,Chile Liga de Primera,Chile,,"59,17%",Reality Scanner V4
+15/05/2026,00:00,Sim,,"2,77","3,00","0,00%","8,30%","R$ 1,00","2,00","R$ 2,00",Racing de Cordoba vs Central Norte,Argentina Nacional B,Argentina,,"36,10%",Reality Scanner V4
 15/05/2026,00:00,Sim,,"1,74","1,83","0,00%","5,17%","R$ 1,00","0,83","R$ 0,83",Bay FC (W) vs Boston Legacy FC (W),USA NWSL Women,USA,194538173,"57,47%",Reality Scanner V4
 15/05/2026,00:00,Sim,,"1,89","2,00","0,00%","5,82%","R$ 1,00","1,00","-R$ 1,00",Seattle Reign (W) vs Gotham FC (W),USA NWSL Women,USA,194538169,"52,91%",Reality Scanner V4
 15/05/2026,00:00,Sim,,"2,04","2,20","0,00%","7,84%","R$ 1,00","1,20","-R$ 1,00",Universitario de Deportes vs Atletico Grau,Peru Liga 1,Peru,193715860,"49,02%",Reality Scanner V4
