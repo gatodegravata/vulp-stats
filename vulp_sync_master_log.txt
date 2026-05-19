@@ -357,3 +357,11 @@
 [09:04:57] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 137)
 [09:05:41] 💎 Gerando Parquet...
 [09:05:49] ✅ Tudo pronto!
+[19:49:25] 📂 Carregando Base Mestre...
+[19:49:36] 🚀 Lendo: schedule_matches.csv
+[19:49:38] 🚀 Lendo: schedule_matches18.csv
+[19:49:39] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches18.csv:
+[19:49:39]    - [ ] Brazil Kings League - 36 mins play inc. Match Ball
+[19:49:40] 💾 Salvando CSV Master... (Inseridos: 260 | Atualizados: 171)
+[19:49:59] 💎 Gerando Parquet...
+[19:50:03] ✅ Tudo pronto!
