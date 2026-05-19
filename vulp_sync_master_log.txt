@@ -335,3 +335,25 @@
 [09:01:07] 💾 Salvando CSV Master... (Inseridos: 25 | Atualizados: 225)
 [09:01:40] 💎 Gerando Parquet...
 [09:01:48] ✅ Tudo pronto!
+[08:59:00] 📂 Carregando Base Mestre...
+[09:00:01] 🚀 Lendo: schedule_matches18.csv
+[09:00:02] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches18.csv:
+[09:00:02]    - [ ] Switzerland Super League Play-Offs
+[09:00:02]    - [ ] Brazil Kings League - 36 mins play inc. Match Ball
+[09:00:19] 💾 Salvando CSV Master... (Inseridos: 151 | Atualizados: 117)
+[09:01:24] 💎 Gerando Parquet...
+[09:01:31] ✅ Tudo pronto!
+[09:01:39] 📂 Carregando Base Mestre...
+[09:01:49] 🚀 Lendo: schedule_matches18.csv
+[09:01:49] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches18.csv:
+[09:01:49]    - [ ] Brazil Kings League - 36 mins play inc. Match Ball
+[09:01:53] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 137)
+[09:02:43] 💎 Gerando Parquet...
+[09:02:52] ✅ Tudo pronto!
+[09:04:38] 📂 Carregando Base Mestre...
+[09:04:53] 🚀 Lendo: schedule_matches18.csv
+[09:04:53] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches18.csv:
+[09:04:53]    - [ ] Brazil Kings League - 36 mins play inc. Match Ball
+[09:04:57] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 137)
+[09:05:41] 💎 Gerando Parquet...
+[09:05:49] ✅ Tudo pronto!
