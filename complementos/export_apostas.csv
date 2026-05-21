@@ -1,0 +1,549 @@
+﻿Match ID,Date,Time,IN_LIVE,Odd_Ent,Juice,Stake,Lucro_Max,Jogo,Liga,Região,OBS
+193284037,2026-04-24,19:30,True,2.25,0.0,1.0,1.25,Montevideo City Torque vs Boston River,Uruguay Apertura,Uruguay,
+192612583,2026-04-24,21:30,True,2.75,0.0,1.0,1.75,Racing Club v Barracas Central,Argentina Liga Profesional,Argentina,
+193116534,2026-04-25,01:00,False,2.0,0.0,1.0,1.0,Jubilo Iwata vs FC Gifu,Japan J2/J3 Centennial League,Japan,
+192940712,2026-04-25,02:00,False,2.2,0.0,1.0,1.2,Fagiano Okayama vs Avispa Fukuoka,Japan J-League,Japan,
+193451533,2026-04-25,08:30,False,2.1,0.0,1.0,1.1,Guangxi Hengchen vs Nanjing City,China Division 1,China,
+193377337,2026-04-25,08:30,False,2.1,0.0,1.0,1.1,BG Pathum United vs Nakhon Ratchasima,Thailand Premier League,Thailand,
+193387188,2026-04-25,08:45,False,2.2,0.0,1.0,1.2,HNK Cibalia vs Bijelo Brdo,Croatia 1.NL,Croatia,
+193190489,2026-04-25,10:00,False,2.25,0.0,1.0,1.25,CSKA Sofia vs Levski Sofia,Bulgaria First League,Bulgaria,
+192613392,2026-04-25,10:00,True,2.2,0.0,1.0,1.2,Parma vs Pisa,Italy Serie A,Italy,
+192940673,2026-04-25,10:00,True,2.2,0.0,1.0,1.2,Virtus Entella vs Padova,Italy Serie B,Italy,
+193113492,2026-04-25,10:00,False,2.2,0.0,1.0,1.2,Amazulu vs Chippa United,South Africa Premier,South Africa,
+192941055,2026-04-25,11:00,False,2.0,0.0,1.0,1.0,Omonia Aradippou vs Krasava ENY Ypsonas,Cyprus Division 1,Cyprus,
+193445086,2026-04-25,11:00,False,2.5,0.0,1.0,1.5,Eibar (W) vs Levante UD (W),Spain Primera Women,Spain,
+193398646,2026-04-25,12:00,False,2.2,0.0,1.0,1.2,NK Dubrava Zagreb vs NK Sesvete,Croatia 1.NL,Croatia,
+193376565,2026-04-25,12:00,False,2.1,0.0,1.0,1.1,FC Rukh Lviv vs Karpaty Lviv,Ukraine Vyscha Liga,Ukraine,
+192612871,2026-04-25,13:30,True,2.2,0.0,1.0,1.2,Burgos v Deportivo La Coruna,Spain Segunda,Spain,
+193445267,2026-04-25,14:00,False,2.25,0.0,1.0,1.25,UTS Rabat vs OC Safi,Morocco GNF 1,Morocco,
+193438024,2026-04-25,14:00,False,2.25,0.0,1.0,1.25,Gotham FC (W) vs Bay FC (W),USA NWSL Women,USA,
+193439921,2026-04-25,15:00,False,2.1,0.0,1.0,1.1,CA Brown de Adrogue vs Villa San Carlos,Argentina Primera B Metropolitana,Argentina,
+192937273,2026-04-25,15:30,False,2.37,0.0,1.0,1.37,CA San Telmo vs All Boys,Argentina Nacional B,Argentina,
+193449965,2026-04-25,15:30,False,2.25,0.0,1.0,1.25,CSD Flandria vs Sportivo Italiano,Argentina Primera B Metropolitana,Argentina,
+193496111,2026-04-25,15:30,False,2.25,0.0,1.0,1.25,CA Lugano vs Club Leandro N. Alem,Argentina Primera C Metropolitana,Argentina,
+193441307,2026-04-25,16:00,False,2.1,0.0,1.0,1.1,ABECAT Ouvidorense vs CRAC,Brazil Serie D,Brazil,
+193494786,2026-04-25,16:00,False,2.1,0.0,1.0,1.1,Fluminense PI vs CEFAT Tirol,Brazil Serie D,Brazil,
+193494782,2026-04-25,16:00,False,2.37,0.0,1.0,1.37,Iguatu vs Maracanã,Brazil Serie D,Brazil,
+193441339,2026-04-25,16:30,False,2.25,0.0,1.0,1.25,Manauara vs Nacional AM,Brazil Serie D,Brazil,
+193386729,2026-04-25,17:00,False,2.2,0.0,1.0,1.2,Itabaiana vs Paysandu,Brazil Serie C,Brazil,
+193447813,2026-04-25,17:00,False,2.2,0.0,1.0,1.2,Sergipe vs Lagarto,Brazil Serie D,Brazil,
+193494814,2026-04-25,17:00,False,2.0,0.0,1.0,1.0,Treze vs Serra Branca,Brazil Serie D,Brazil,
+192937313,2026-04-25,17:30,False,2.37,0.0,1.0,1.37,San Martin SJ vs Quilmes,Argentina Nacional B,Argentina,
+193503200,2026-04-25,17:30,False,2.2,0.0,1.0,1.2,Defensores Puerto Vilelas vs Juventud Antoniana,Argentina Torneo A,Argentina,
+192943469,2026-04-25,17:30,False,2.1,0.0,1.0,1.1,Comerciantes Unidos vs Sporting Cristal,Peru Liga 1,Peru,
+192937279,2026-04-25,18:00,False,2.25,0.0,1.0,1.25,Atletico Rafaela vs Gimnasia Jujuy,Argentina Nacional B,Argentina,
+193494808,2026-04-25,18:00,False,2.62,0.0,1.0,1.62,Luverdense vs EC Primavera MT,Brazil Serie D,Brazil,
+193441342,2026-04-25,18:00,False,2.2,0.0,1.0,1.2,Manaus vs Sao Raimundo RR,Brazil Serie D,Brazil,
+193487517,2026-04-25,18:00,False,2.2,0.0,1.0,1.2,Sao Jose RS vs Brasil de Pelotas,Brazil Serie D,Brazil,
+193386736,2026-04-25,19:30,False,3.0,0.0,1.0,2.0,Botafogo PB vs Floresta,Brazil Serie C,Brazil,
+193116605,2026-04-26,01:00,False,2.2,0.0,1.0,1.2,Vanraure Hachinohe vs Blaublitz Akita,Japan J2/J3 Centennial League,Japan,
+193116612,2026-04-26,02:00,False,2.0,0.0,1.0,1.0,Kochi United vs Tokushima Vortis,Japan J2/J3 Centennial League,Japan,
+193544767,2026-04-26,07:00,False,1.9,0.0,1.0,0.9,Deportivo La Coruna (W) vs Alhama CF (W),Spain Primera Women,Spain,
+193440605,2026-04-26,08:15,False,2.1,0.0,1.0,1.1,NK Croatia Zmijavci vs NK Rudes,Croatia 1.NL,Croatia,
+193376573,2026-04-26,09:30,False,2.37,0.0,1.0,1.37,LNZ Cherkasy vs FC Metalist 1925,Ukraine Vyscha Liga,Ukraine,
+193113525,2026-04-26,10:00,False,2.5,0.0,1.0,1.5,Polokwane City vs Stellenbosch FC,South Africa Premier,South Africa,
+193113517,2026-04-26,10:50,False,2.37,0.0,1.0,1.37,Orlando Pirates vs Kaizer Chiefs,South Africa Premier,South Africa,
+193108439,2026-04-26,11:00,False,2.1,0.0,1.0,1.1,Ourense CF vs Zamora CF,Spain Primera Division RFEF Group 1,Spain,
+193109479,2026-04-26,11:00,False,2.2,0.0,1.0,1.2,SD Tarazona vs Juventud Torremolinos CF,Spain Primera Division RFEF Group 2,Spain,
+193504186,2026-04-26,12:00,False,2.62,0.0,1.0,1.62,Renaissance Zemamra vs MAS Fes,Morocco GNF 1,Morocco,
+193438204,2026-04-26,13:00,False,2.5,0.0,1.0,1.5,Deportivo Armenio vs San Martin De Burzaco,Argentina Primera B Metropolitana,Argentina,
+193504997,2026-04-26,13:25,False,2.1,0.0,1.0,1.1,Samail vs Al Khaburah,Oman League,Oman,
+192941147,2026-04-26,14:00,False,2.2,0.0,1.0,1.2,Larissa vs Panserraikos,Greece Super League 1,Greece,
+192943772,2026-04-26,14:00,False,2.37,0.0,1.0,1.37,Estrela Amadora vs FC Porto,Portugal Primeira Liga,Portugal,
+192943785,2026-04-26,14:00,False,2.1,0.0,1.0,1.1,Santa Clara vs Braga,Portugal Primeira Liga,Portugal,
+193436006,2026-04-26,15:00,False,2.2,0.0,1.0,1.2,Guarany de Bage vs Sao Luiz,Brazil Serie D,Brazil,
+193436015,2026-04-26,15:30,False,2.2,0.0,1.0,1.2,Juazeirense vs ASA,Brazil Serie D,Brazil,
+193108456,2026-04-26,15:30,False,1.9,0.0,1.0,0.9,Racing Ferrol vs Real Aviles CF,Spain Primera Division RFEF Group 1,Spain,
+193005585,2026-04-26,18:00,False,2.25,0.0,1.0,1.25,Ceara vs Vila Nova,Brazil Serie B,Brazil,
+192938360,2026-04-26,18:30,False,2.2,0.0,1.0,1.2,Athletico Paranaense vs Vitoria,Brazil Serie A,Brazil,
+193438850,2026-04-26,19:00,False,1.9,0.0,1.0,0.9,Ituano vs Maringa,Brazil Serie C,Brazil,
+192608408,2026-04-26,22:20,False,2.25,0.0,1.0,1.25,Internacional de Bogota vs Boyaca Chico,Colombia Primera A,Colombia,
+193545567,2026-04-27,10:50,False,2.5,0.0,1.0,1.5,Bahla vs Oman FC,Oman League,Oman,
+193548679,2026-04-27,11:00,False,2.5,0.0,1.0,1.5,El Zamalek vs Enppi,Egypt Division 1,Egypt,
+193548673,2026-04-27,11:00,False,2.2,0.0,1.0,1.2,Smouha vs El Masry,Egypt Division 1,Egypt,
+193487463,2026-04-27,20:00,False,2.37,0.0,1.0,1.37,Caxias vs Ypiranga RS,Brazil Serie C,Brazil,
+193655707,2026-04-28,14:00,False,3.0,0.0,1.0,2.0,Al Moqawloon Al Arab vs Ghazl El Mahallah,Egypt Division 1,Egypt,
+193671236,2026-04-28,16:00,False,2.62,0.0,1.0,1.62,MC Alger vs Olympique Akbou,Algeria Division 1,Algeria,
+192731524,2026-04-28,19:00,False,2.75,0.0,1.0,1.75,Lanus vs LDU Quito,Copa Libertadores,International (South America),
+192951057,2026-04-28,19:00,False,2.25,0.0,1.0,1.25,San Lorenzo vs Santos,Copa Sudamericana,International (South America),
+192731552,2026-04-28,21:00,False,2.1,0.0,1.0,1.1,UCV vs Rosario Central,Copa Libertadores,International (South America),
+192951062,2026-04-28,21:00,False,2.25,0.0,1.0,1.25,Barracas Central vs Audax Italiano,Copa Sudamericana,International (South America),
+192731571,2026-04-28,23:00,False,2.25,0.0,1.0,1.25,Deportes Tolima vs Coquimbo Unido,Copa Libertadores,International (South America),
+192940742,2026-04-29,02:00,False,2.0,0.0,1.0,1.0,Avispa Fukuoka vs Sanfrecce Hiroshima,Japan J-League,Japan,
+193118194,2026-04-29,02:00,False,2.2,0.0,1.0,1.2,Yokohama FC vs Vanraure Hachinohe,Japan J2/J3 Centennial League,Japan,
+192940752,2026-04-29,03:00,False,1.95,0.0,1.0,0.95,Nagoya Grampus vs Fagiano Okayama,Japan J-League,Japan,
+193662069,2026-04-29,12:00,False,2.62,0.0,1.0,1.62,FUS Rabat vs CODM Meknes,Morocco GNF 1,Morocco,
+193715387,2026-04-29,13:00,False,2.2,0.0,1.0,1.2,Maccabi Bnei Raina vs Hapoel Jerusalem FC,Israel Premier League,Israel,
+193703559,2026-04-29,13:45,False,2.37,0.0,1.0,1.37,JS Kabylie vs MC Oran,Algeria Division 1,Algeria,
+193709686,2026-04-29,14:00,False,2.75,0.0,1.0,1.75,Modern Sport FC vs Talaea El Geish,Egypt Division 1,Egypt,
+193662104,2026-04-29,16:00,False,2.5,0.0,1.0,1.5,MAS Fes vs HUSA Agadir,Morocco GNF 1,Morocco,
+192731578,2026-04-29,19:00,False,2.62,0.0,1.0,1.62,Platense vs Independiente Santa Fe,Copa Libertadores,International (South America),
+192951073,2026-04-29,19:00,False,2.2,0.0,1.0,1.2,Caracas vs Racing Club,Copa Sudamericana,International (South America),
+193708327,2026-04-29,19:30,False,2.1,0.0,1.0,1.1,Chapecoense vs America MG,Brazil Copa Sul-Sudeste,Brazil,
+193708329,2026-04-29,21:15,False,2.2,0.0,1.0,1.2,Novorizontino vs Avai,Brazil Copa Sul-Sudeste,Brazil,
+193711077,2026-04-29,21:30,False,2.5,0.0,1.0,1.5,Botafogo PB vs Fluminense PI,Brazil Copa Nordeste,Brazil,
+193711120,2026-04-29,21:30,False,2.25,0.0,1.0,1.25,Juazeirense vs ASA,Brazil Copa Nordeste,Brazil,
+193711113,2026-04-29,21:30,False,2.25,0.0,1.0,1.25,Maranhao vs Ceara,Brazil Copa Nordeste,Brazil,
+192731589,2026-04-29,23:00,False,2.05,0.0,1.0,1.05,Universitario de Deportes vs Nacional De Football,Copa Libertadores,International (South America),
+193724582,2026-04-30,12:00,False,2.5,0.0,1.0,1.5,Difaa El Jadida vs Renaissance Zemamra,Morocco GNF 1,Morocco,
+193126975,2026-04-30,16:00,False,1.96,0.0,1.0,0.96,Braga vs SC Freiburg,UEFA Europa League,International (Europe),
+192731591,2026-04-30,19:00,False,1.95,0.0,1.0,0.95,Bolivar vs Fluminense,Copa Libertadores,International (South America),
+192951100,2026-04-30,19:00,False,2.0,0.0,1.0,1.0,Carabobo vs Blooming,Copa Sudamericana,International (South America),
+192731597,2026-04-30,21:00,False,2.75,0.0,1.0,1.75,Corinthians vs Penarol,Copa Libertadores,International (South America),
+192951152,2026-04-30,23:00,False,2.37,0.0,1.0,1.37,Alianza Atletico vs Macara,Copa Sudamericana,International (South America),
+193330016,2026-05-01,14:30,True,2.2,0.0,1.0,1.2,FK Csikszereda Miercurea Ciuc vs FCSB,Romania Liga I,Romania,
+193004668,2026-05-01,15:45,False,2.05,0.0,1.0,1.05,Pisa vs Lecce,Italy Serie A,Italy,
+193770858,2026-05-01,15:45,False,2.1,0.0,1.0,1.1,Cork City vs Cobh Ramblers,Republic of Ireland First Division,Ireland,
+193394406,2026-05-01,20:00,False,2.0,0.0,1.0,1.0,Libertad Asuncion vs Sportivo San Lorenzo,Paraguay Division Profesional,Paraguay,
+192940795,2026-05-02,02:00,False,1.9,0.0,1.0,0.9,Yokohama F-Marinos vs Mito Hollyhock,Japan J-League,Japan,
+193200084,2026-05-02,02:00,False,2.2,0.0,1.0,1.2,Sagan Tosu vs Tegevajaro Miyazaki,Japan J2/J3 Centennial League,Japan,
+193200094,2026-05-02,02:00,False,2.1,0.0,1.0,1.1,Vegalta Sendai vs Blaublitz Akita,Japan J2/J3 Centennial League,Japan,
+193200096,2026-05-02,02:00,False,1.83,0.0,1.0,0.83,Yokohama FC vs Sagamihara,Japan J2/J3 Centennial League,Japan,
+193417521,2026-05-02,03:00,False,1.83,0.0,1.0,0.83,Sutherland Sharks vs Marconi Stallions,Australia New South Wales Premier League,Australia,
+193771670,2026-05-02,04:00,False,2.0,0.0,1.0,1.0,Yanbian Longding vs Wuxi Wugo,China Division 1,China,
+193200100,2026-05-02,06:00,False,1.9,0.0,1.0,0.9,Nagano Parceiro vs Fujieda MYFC,Japan J2/J3 Centennial League,Japan,
+193744314,2026-05-02,08:15,False,2.1,0.0,1.0,1.1,FK Riteriai vs FK Transinvest,Lithuania A Lyga,Lithuania,
+192946937,2026-05-02,10:00,False,1.9,0.0,1.0,0.9,Sirius vs Kalmar FF,Sweden Allsvenskan,Sweden,
+193340866,2026-05-02,11:00,False,1.83,0.0,1.0,0.83,HNK Gorica vs Dinamo Zagreb,Croatia HNL,Croatia,
+192500310,2026-05-02,11:00,False,2.25,0.0,1.0,1.25,Stevenage vs Wigan,England League 1,England,
+193782404,2026-05-02,11:00,False,2.1,0.0,1.0,1.1,Sohar Club vs Bahla,Oman League,Oman,
+192946792,2026-05-02,11:15,False,1.8,0.0,1.0,0.8,Valencia vs Atletico Madrid,Spain La Liga,Spain,
+193109778,2026-05-02,11:15,False,2.75,0.0,1.0,1.75,Gimnastic vs Sevilla Atletico,Spain Primera Division RFEF Group 2,Spain,
+192946427,2026-05-02,11:15,True,2.2,0.0,1.0,1.2,Cultural Leonesa vs Cadiz,Spain Segunda,Spain,
+193199371,2026-05-02,11:30,False,2.1,0.0,1.0,1.1,Panserraikos vs Larissa,Greece Super League 1,Greece,
+192943796,2026-05-02,11:30,False,1.95,0.0,1.0,0.95,FC Arouca vs Santa Clara,Portugal Primeira Liga,Portugal,
+193189523,2026-05-02,12:00,False,2.05,0.0,1.0,1.05,Grazer AK vs WSG Swarovski Tirol,Austria Bundesliga,Austria,
+193775496,2026-05-02,12:00,False,2.1,0.0,1.0,1.1,Orijent vs NK Croatia Zmijavci,Croatia 1.NL,Croatia,
+193775496,2026-05-02,12:00,False,2.1,0.0,1.0,1.1,Orijent vs NK Croatia Zmijavci,Croatia 1.NL,Croatia,
+192947584,2026-05-02,12:00,False,1.8,0.0,1.0,0.8,GIF Sundsvall vs IK Oddevold,Sweden Superettan,Sweden,
+193758226,2026-05-02,12:00,False,2.1,0.0,1.0,1.1,Karpaty Lviv vs LNZ Cherkasy,Ukraine Vyscha Liga,Ukraine,
+193826426,2026-05-02,13:30,False,1.8,0.0,1.0,0.8,Audax Italiano vs Union La Calera,Chile Copa de la Liga,Chile,
+193109785,2026-05-02,13:30,False,1.8,0.0,1.0,0.8,Betis Deportivo vs Antequera,Spain Primera Division RFEF Group 2,Spain,
+193773184,2026-05-02,15:00,False,2.0,0.0,1.0,1.0,America RJ vs Pouso Alegre,Brazil Serie D,Brazil,
+193186971,2026-05-02,15:30,False,2.62,0.0,1.0,1.62,CA Estudiantes Caseros vs CA San Telmo,Argentina Nacional B,Argentina,
+193773078,2026-05-02,15:30,False,2.62,0.0,1.0,1.62,Deportivo Camioneros vs CSD Flandria,Argentina Primera B Metropolitana,Argentina,
+193814955,2026-05-02,15:30,False,2.5,0.0,1.0,1.5,Real Pilar vs Argentino Merlo,Argentina Primera B Metropolitana,Argentina,
+193814951,2026-05-02,15:30,False,2.75,0.0,1.0,1.75,Sportivo Italiano vs Deportivo Armenio,Argentina Primera B Metropolitana,Argentina,
+193820535,2026-05-02,15:30,False,2.75,0.0,1.0,1.75,Central Cordoba Rosario vs Fenix,Argentina Primera C Metropolitana,Argentina,
+193820490,2026-05-02,15:30,False,2.25,0.0,1.0,1.25,Deportivo Paraguayo vs Defensores de Cambaceres,Argentina Primera C Metropolitana,Argentina,
+193828067,2026-05-02,15:30,False,2.5,0.0,1.0,1.5,Independiente Chivilcoy vs Sportivo Belgrano,Argentina Torneo A,Argentina,
+193191377,2026-05-02,16:00,False,1.9,0.0,1.0,0.9,Botafogo vs Remo,Brazil Serie A,Brazil,
+193773187,2026-05-02,16:00,False,2.1,0.0,1.0,1.1,Agua Santa vs Portuguesa RJ,Brazil Serie D,Brazil,
+193830060,2026-05-02,16:00,False,2.62,0.0,1.0,1.62,CODM Meknes vs MAS Fes,Morocco GNF 1,Morocco,
+193108874,2026-05-02,16:00,False,1.83,0.0,1.0,0.83,Real Madrid Castilla vs Unionistas de Salamanca CF,Spain Primera Division RFEF Group 1,Spain,
+192946435,2026-05-02,16:00,False,1.91,0.0,1.0,0.91,Eibar vs Malaga,Spain Segunda,Spain,
+193774287,2026-05-02,18:00,False,2.5,0.0,1.0,1.5,Brasil de Pelotas vs Marcilio Dias,Brazil Serie D,Brazil,
+193774282,2026-05-02,18:00,False,2.1,0.0,1.0,1.1,Noroeste vs Marica,Brazil Serie D,Brazil,
+193796720,2026-05-02,18:30,False,2.2,0.0,1.0,1.2,Goiatuba vs Uniao Rondonopolis,Brazil Serie D,Brazil,
+193332835,2026-05-02,18:30,False,2.0,0.0,1.0,1.0,Liverpool Montevideo vs Danubio,Uruguay Apertura,Uruguay,
+193067329,2026-05-02,18:45,False,2.2,0.0,1.0,1.2,San Lorenzo vs Independiente,Argentina Liga Profesional,Argentina,
+193772914,2026-05-02,19:00,False,2.2,0.0,1.0,1.2,Confianca vs Inter de Limeira,Brazil Serie C,Brazil,
+193804191,2026-05-02,19:30,False,2.0,0.0,1.0,1.0,North Carolina Courage (W) vs Kansas City Current (W),USA NWSL Women,USA,
+193828985,2026-05-02,20:00,False,2.25,0.0,1.0,1.25,Deportivo Merlo vs Argentino Quilmes,Argentina Primera B Metropolitana,Argentina,
+193192157,2026-05-02,20:30,False,2.2,0.0,1.0,1.2,Fortaleza vs Goias,Brazil Serie B,Brazil,
+193832305,2026-05-03,01:00,False,2.0,0.0,1.0,1.0,Matsumoto Y FC vs Ventforet Kofu,Japan J2/J3 Centennial League,Japan,
+193200102,2026-05-03,01:00,False,1.83,0.0,1.0,0.83,Vanraure Hachinohe vs Thespa Gunma,Japan J2/J3 Centennial League,Japan,
+193202390,2026-05-03,02:00,False,1.8,0.0,1.0,0.8,Daegu FC vs Gyeongnam FC,South Korea K League 2,South Korea,
+193202396,2026-05-03,02:00,False,1.9,0.0,1.0,0.9,Seoul E-Land FC vs Gimpo FC,South Korea K League 2,South Korea,
+193189756,2026-05-03,05:30,False,1.83,0.0,1.0,0.83,Austria Lustenau vs SW Bregenz,Austria 2. Liga,Austria,
+193755285,2026-05-03,07:00,False,1.8,0.0,1.0,0.8,Portimonense vs Chaves,Portugal Segunda Liga,Portugal,
+193004653,2026-05-03,07:30,False,1.95,0.0,1.0,0.95,Bologna vs Cagliari,Italy Serie A,Italy,
+193881649,2026-05-03,08:00,False,1.9,0.0,1.0,0.9,Ningbo Professional FC vs Changchun Yatai,China Division 1,China,
+193194989,2026-05-03,09:00,False,1.8,0.0,1.0,0.8,Randers FC vs Vejle,Denmark Superligaen,Denmark,
+193880998,2026-05-03,09:00,False,1.9,0.0,1.0,0.9,SGS Essen (W) vs Bayer Leverkusen (W),Germany Bundesliga Women,Germany,
+192785626,2026-05-03,09:45,False,1.95,0.0,1.0,0.95,Zaglebie Lubin vs Cracovia Krakow,Poland Ekstraklasa,Poland,
+193940431,2026-05-03,10:00,False,2.1,0.0,1.0,1.1,Riga FC vs FK Liepaja,Latvia Virsliga,Latvia,
+192932650,2026-05-03,10:30,False,1.8,0.0,1.0,0.8,St Pauli vs Mainz,Germany Bundesliga I,Germany,
+193190238,2026-05-03,11:00,True,1.95,0.0,1.0,0.95,Antwerp vs Standard Liege,Belgium First Division A,Belgium,
+193383491,2026-05-03,11:00,True,2.1,0.0,1.0,1.1,Apoel Nicosia vs AEK Larnaca,Cyprus Division 1,Cyprus,
+193108892,2026-05-03,11:00,False,2.0,0.0,1.0,1.0,Merida vs Lugo,Spain Primera Division RFEF Group 1,Spain,
+193756207,2026-05-03,11:00,True,2.1,0.0,1.0,1.1,Assyriska Föreningen vs FC Järfälla,Sweden 1.div Norra,Sweden,
+193383504,2026-05-03,13:00,False,1.8,0.0,1.0,0.8,Apollon Limassol vs Pafos FC,Cyprus Division 1,Cyprus,
+193109828,2026-05-03,13:15,False,2.2,0.0,1.0,1.2,Sabadell vs Real Murcia,Spain Primera Division RFEF Group 2,Spain,
+193886548,2026-05-03,13:30,True,1.95,0.0,1.0,0.95,Sparta Prague vs FK Jablonec,Czechia First League,Czech Republic,
+192946798,2026-05-03,13:30,False,1.95,0.0,1.0,0.95,Real Betis vs Real Oviedo,Spain La Liga,Spain,
+193701851,2026-05-03,14:30,False,2.2,0.0,1.0,1.2,FK Napredak vs Radnicki Nis,Serbia Super Liga,Serbia,
+193701846,2026-05-03,14:30,False,2.37,0.0,1.0,1.37,Mladost Lucani vs Spartak Subotica,Serbia Super Liga,Serbia,
+193187085,2026-05-03,15:00,False,2.5,0.0,1.0,1.5,CA Colegiales vs San Martin SJ,Argentina Nacional B,Argentina,
+193187005,2026-05-03,15:00,False,2.5,0.0,1.0,1.5,Club Atletico Mitre vs Acassuso,Argentina Nacional B,Argentina,
+193880548,2026-05-03,15:03,False,2.37,0.0,1.0,1.37,Escobar FC vs Defensores de Belgrano VR,Argentina Torneo A,Argentina,
+192943517,2026-05-03,15:15,False,1.9,0.0,1.0,0.9,Juan Pablo II College vs Universitario de Deportes,Peru Liga 1,Peru,
+193186898,2026-05-03,15:30,False,2.62,0.0,1.0,1.62,Almirante Brown vs CA Chaco For Ever,Argentina Nacional B,Argentina,
+193820558,2026-05-03,15:30,False,2.2,0.0,1.0,1.2,Berazategui vs CA Lugano,Argentina Primera C Metropolitana,Argentina,
+193820497,2026-05-03,15:30,False,2.2,0.0,1.0,1.2,Puerto Nuevo vs Club Leandro N. Alem,Argentina Primera C Metropolitana,Argentina,
+193830308,2026-05-03,15:30,False,2.37,0.0,1.0,1.37,Azuriz vs Sao Jose RS,Brazil Serie D,Brazil,
+193067285,2026-05-03,16:00,False,2.37,0.0,1.0,1.37,Belgrano vs Sarmiento,Argentina Liga Profesional,Argentina,
+193067322,2026-05-03,16:00,False,2.37,0.0,1.0,1.37,Racing Club vs Huracan,Argentina Liga Profesional,Argentina,
+193830277,2026-05-03,16:00,False,2.2,0.0,1.0,1.2,Atletico Alagoinhas vs ASA,Brazil Serie D,Brazil,
+193830318,2026-05-03,16:00,False,2.1,0.0,1.0,1.1,Brasiliense vs Aparecidense,Brazil Serie D,Brazil,
+193187319,2026-05-03,16:30,False,2.62,0.0,1.0,1.62,Ferrocarril Midland vs CA Guemes,Argentina Nacional B,Argentina,
+193187228,2026-05-03,16:30,False,2.62,0.0,1.0,1.62,Godoy Cruz vs CD Moron,Argentina Nacional B,Argentina,
+193926450,2026-05-03,16:30,False,2.5,0.0,1.0,1.5,CA Sarmiento de la Banda vs Defensores Puerto Vilelas,Argentina Torneo A,Argentina,
+193880577,2026-05-03,17:00,False,2.5,0.0,1.0,1.5,Juventud Antoniana vs San Martin Formosa,Argentina Torneo A,Argentina,
+193830251,2026-05-03,17:00,False,2.2,0.0,1.0,1.2,Ferroviaria vs Anapolis,Brazil Serie C,Brazil,
+193830158,2026-05-03,17:00,False,2.37,0.0,1.0,1.37,Nacional AM vs Sao Raimundo RR,Brazil Serie D,Brazil,
+193830186,2026-05-03,17:00,False,2.25,0.0,1.0,1.25,Sampaio Correa vs Maracanã,Brazil Serie D,Brazil,
+193914368,2026-05-03,18:00,False,2.1,0.0,1.0,1.1,Gotham FC (W) vs Racing Louisville FC (W),USA NWSL Women,USA,
+193830261,2026-05-03,19:00,False,2.1,0.0,1.0,1.1,Paysandu vs Botafogo PB,Brazil Serie C,Brazil,
+193881374,2026-05-03,19:00,False,2.0,0.0,1.0,1.0,Municipal Liberia vs Deportivo Saprissa,Costa Rica Primera Division,Costa Rica,
+193982431,2026-05-03,21:00,False,2.0,0.0,1.0,1.0,Deportes Limache vs O'Higgins,Chile Copa de la Liga,Chile,
+193995646,2026-05-04,10:45,True,2.25,0.0,1.0,1.25,NK Dugopolje vs HNK Cibalia,Croatia 1.NL,Croatia,
+193201014,2026-05-04,13:00,False,2.0,0.0,1.0,1.0,Shamrock Rovers vs Drogheda United,Republic of Ireland Premier Division,Ireland,
+194002620,2026-05-04,13:20,False,2.0,0.0,1.0,1.0,Al Shabab Seeb vs Al Rustaq,Oman League,Oman,
+193995745,2026-05-04,14:00,False,2.1,0.0,1.0,1.1,Wadi Degla vs Kahraba Ismailia,Egypt Division 1,Egypt,
+193880720,2026-05-04,15:00,False,2.2,0.0,1.0,1.2,Ypiranga RS vs Ituano,Brazil Serie C,Brazil,
+194001923,2026-05-04,15:00,False,2.2,0.0,1.0,1.2,US Yacoub El Mansour vs RSB Berkane,Morocco GNF 1,Morocco,
+193004648,2026-05-04,15:45,False,1.95,0.0,1.0,0.95,Roma vs Fiorentina,Italy Serie A,Italy,
+193067316,2026-05-04,17:00,False,2.2,0.0,1.0,1.2,Gimnasia Mendoza vs Defensa y Justicia,Argentina Liga Profesional,Argentina,
+193192176,2026-05-04,19:00,False,2.1,0.0,1.0,1.1,Vila Nova vs Athletic Club MG,Brazil Serie B,Brazil,
+193830183,2026-05-04,19:00,False,2.0,0.0,1.0,1.0,Retro vs Sergipe,Brazil Serie D,Brazil,
+193880712,2026-05-04,20:00,False,2.25,0.0,1.0,1.25,Figueirense vs Barra SC,Brazil Serie C,Brazil,
+193880716,2026-05-04,20:00,False,2.5,0.0,1.0,1.5,Floresta vs Maranhao,Brazil Serie C,Brazil,
+194003295,2026-05-04,20:00,False,1.9,0.0,1.0,0.9,Trem AP vs Imperatriz,Brazil Serie D,Brazil,
+193113700,2026-05-05,08:00,False,2.1,0.0,1.0,1.1,Chippa United vs Sekhukhune United,South Africa Premier,South Africa,
+194037922,2026-05-05,13:45,True,2.0,0.0,1.0,1.0,RKC vs Willem II,Netherlands Eerste Divisie,Netherlands,
+193113703,2026-05-05,14:30,False,2.62,0.0,1.0,1.62,Magesi FC vs Orbit College,South Africa Premier,South Africa,
+193113715,2026-05-05,14:30,False,2.5,0.0,1.0,1.5,Stellenbosch FC vs Orlando Pirates,South Africa Premier,South Africa,
+193838023,2026-05-05,23:00,False,2.37,0.0,1.0,1.37,Deportivo Cuenca vs San Lorenzo,Copa Sudamericana,International (South America),
+193113721,2026-05-06,14:30,False,2.37,0.0,1.0,1.37,Mamelodi Sundowns vs Kaizer Chiefs,South Africa Premier,South Africa,
+194092852,2026-05-06,19:00,False,2.1,0.0,1.0,1.1,ABC vs Juazeirense,Brazil Copa Nordeste,Brazil,
+194087213,2026-05-06,19:00,False,2.2,0.0,1.0,1.2,Aguia de Maraba vs Paysandu,Brazil Copa Norte,Brazil,
+194131167,2026-05-06,21:00,False,2.1,0.0,1.0,1.1,Nacional AM vs Porto Velho,Brazil Copa Norte,Brazil,
+194129877,2026-05-06,21:30,False,2.1,0.0,1.0,1.1,Sport Recife vs ASA,Brazil Copa Nordeste,Brazil,
+194131674,2026-05-06,21:30,False,2.0,0.0,1.0,1.0,Avai vs Sampaio Correa RJ,Brazil Copa Sul-Sudeste,Brazil,
+194131660,2026-05-06,21:30,False,2.1,0.0,1.0,1.1,Sao Bernardo vs Caxias,Brazil Copa Sul-Sudeste,Brazil,
+194152186,2026-05-06,21:30,False,2.0,0.0,1.0,1.0,Volta Redonda vs Novorizontino,Brazil Copa Sul-Sudeste,Brazil,
+193719235,2026-05-06,23:00,False,2.0,0.0,1.0,1.0,Deportes Tolima vs Nacional De Football,Copa Libertadores,International (South America),
+194100801,2026-05-07,11:00,True,2.75,0.0,1.0,1.75,Talaea El Geish vs Ghazl El Mahallah,Egypt Division 1,Egypt,
+194110296,2026-05-07,13:00,False,2.5,0.0,1.0,1.5,Difaa El Jadida vs HUSA Agadir,Morocco GNF 1,Morocco,
+194107518,2026-05-07,14:00,False,2.25,0.0,1.0,1.25,FK Auda vs SC Grobinas,Latvia Virsliga,Latvia,
+194110298,2026-05-07,17:00,False,2.37,0.0,1.0,1.37,FAR Rabat vs OC Safi,Morocco GNF 1,Morocco,
+193720900,2026-05-07,21:30,False,2.2,0.0,1.0,1.2,Carabobo vs River Plate,Copa Sudamericana,International (South America),
+194162129,2026-05-07,22:00,False,2.75,0.0,1.0,1.75,Atletico Bucaramanga vs CD Real Santander,Colombia Cup,Colombia,
+193719263,2026-05-07,23:00,False,2.05,0.0,1.0,1.05,Junior vs Cerro Porteno,Copa Libertadores,International (South America),
+194160717,2026-05-08,10:51,True,1.9,0.0,1.0,0.9,Sur SC vs Al Shabab Seeb,Oman League,Oman,
+194151714,2026-05-08,11:00,False,3.0,0.0,1.0,2.0,Al Moqawloon Al Arab vs El Gounah,Egypt Division 1,Egypt,
+194110633,2026-05-08,12:00,False,2.2,0.0,1.0,1.2,Olympique Akbou vs CR Belouizdad,Algeria Division 1,Algeria,
+193320595,2026-05-08,14:00,False,1.8,0.0,1.0,0.8,Elfsborg vs Brommapojkarna,Sweden Allsvenskan,Sweden,
+193332414,2026-05-08,14:30,False,2.5,0.0,1.0,1.5,Durban City vs Stellenbosch FC,South Africa Premier,South Africa,
+193004907,2026-05-08,15:30,False,2.0,0.0,1.0,1.0,Avellino vs Modena,Italy Serie B,Italy,
+193004936,2026-05-08,15:30,False,2.05,0.0,1.0,1.05,Sudtirol vs Juve Stabia,Italy Serie B,Italy,
+193201029,2026-05-08,15:45,False,1.95,0.0,1.0,0.95,Shelbourne vs Sligo Rovers,Republic of Ireland Premier Division,Ireland,
+193989622,2026-05-08,16:00,True,2.05,0.0,1.0,1.05,Hull vs Millwall,England Championship,England,
+194155323,2026-05-08,16:15,False,1.57,0.0,1.0,0.57,Njardvik vs Fylkir Reykjavik,Iceland 1 Deild,Iceland,
+194142521,2026-05-08,17:00,False,2.2,0.0,1.0,1.2,Boca Juniors De Cali vs Alianza,Colombia Cup,Colombia,
+194149799,2026-05-08,17:00,False,2.62,0.0,1.0,1.62,Kawkab Marrakech vs Renaissance Zemamra,Morocco GNF 1,Morocco,
+194093977,2026-05-08,19:00,False,2.5,0.0,1.0,1.5,Cruzeiro (W) vs America MG (W),Brazil Serie A1 Women,Brazil,
+194057596,2026-05-08,21:00,False,2.2,0.0,1.0,1.2,Orense vs Leones FC,Ecuador LigaPro Serie A,Ecuador,
+194067568,2026-05-08,21:10,False,2.37,0.0,1.0,1.37,Banfield vs San Martin de Tucuman,Argentina Cup,Argentina,
+193333203,2026-05-08,22:00,False,1.9,0.0,1.0,0.9,Colorado Switchbacks FC vs Orange County SC,USA USL Championship,USA,
+193328513,2026-05-09,02:00,False,1.95,0.0,1.0,0.95,Mito Hollyhock vs Urawa Red Diamonds,Japan J-League,Japan,
+193202410,2026-05-09,02:00,False,1.8,0.0,1.0,0.8,Hwaseong FC vs Suwon FC,South Korea K League 2,South Korea,
+193202207,2026-05-09,04:30,False,2.5,0.0,1.0,1.5,Gwangju FC vs Gangwon FC,South Korea K League 1,South Korea,
+193202416,2026-05-09,04:30,False,2.2,0.0,1.0,1.2,Chungbuk Cheongju vs Gimpo FC,South Korea K League 2,South Korea,
+193202440,2026-05-09,04:30,False,1.8,0.0,1.0,0.8,Suwon Bluewings vs Daegu FC,South Korea K League 2,South Korea,
+193758267,2026-05-09,07:00,False,2.2,0.0,1.0,1.2,FC Rukh Lviv vs FC Veres Rivne,Ukraine Vyscha Liga,Ukraine,
+193756241,2026-05-09,08:00,False,1.66,0.0,1.0,0.66,Umea FC vs Gefle IF,Sweden 1.div Norra,Sweden,
+193989625,2026-05-09,08:30,False,1.83,0.0,1.0,0.83,Middlesbrough vs Southampton,England Championship,England,
+193327991,2026-05-09,08:35,False,1.8,0.0,1.0,0.8,Shanghai Shenhua vs Chongqing Tonglianglong,China Super League,China,
+194166594,2026-05-09,09:00,False,1.9,0.0,1.0,0.9,FK Teplice vs Banik Ostrava,Czechia First League,Czech Republic,
+193001733,2026-05-09,09:00,False,1.53,0.0,1.0,0.53,Hansa Rostock vs VfB Stuttgart II,Germany 3. Liga,Germany,
+193001760,2026-05-09,09:00,False,1.72,0.0,1.0,0.72,VfL Osnabruck vs SSV Ulm 1846,Germany 3. Liga,Germany,
+193996913,2026-05-09,11:00,True,2.2,0.0,1.0,1.2,Stevenage vs Stockport,England League 1,England,
+194038744,2026-05-09,11:00,False,1.66,0.0,1.0,0.66,Hornchurch FC vs Torquay,England National League South,England,
+193328160,2026-05-09,11:00,True,2.0,0.0,1.0,1.0,Larissa vs Asteras Tripolis,Greece Super League 1,Greece,
+194205730,2026-05-09,11:00,True,1.57,0.0,1.0,0.57,IF Vestri vs HK Kopavogur,Iceland 1 Deild,Iceland,
+193286205,2026-05-09,11:00,True,2.0,0.0,1.0,1.0,Podhale Nowy Targ vs Chojniczanka Chojnice,Poland II Liga,Poland,
+193332095,2026-05-09,11:00,True,1.9,0.0,1.0,0.9,Aberdeen vs Dundee Utd,Scotland Premiership,Scotland,
+194169562,2026-05-09,11:00,True,2.2,0.0,1.0,1.2,Eibar (W) vs Alhama CF (W),Spain Primera Women,Spain,
+193003408,2026-05-09,11:15,False,2.2,0.0,1.0,1.2,Sevilla vs Espanyol,Spain La Liga,Spain,
+193323490,2026-05-09,12:00,False,2.05,0.0,1.0,1.05,Grazer AK vs SCR Altach,Austria Bundesliga,Austria,
+194085248,2026-05-09,12:00,False,1.8,0.0,1.0,0.8,AEL Limassol vs Olympiakos Nicosia,Cyprus Division 1,Cyprus,
+194191317,2026-05-09,12:00,False,1.66,0.0,1.0,0.66,SJK Akatemia vs JaPS,Finland Ykkosliiga,Finland,
+193758272,2026-05-09,12:00,False,2.0,0.0,1.0,1.0,Obolon Kyiv vs Epitsentr Kamianets-Podilskyi,Ukraine Vyscha Liga,Ukraine,
+194091024,2026-05-09,12:30,False,2.2,0.0,1.0,1.2,FK Zeleznicar Pancevo vs FK Radnik Surdulica,Serbia Super Liga,Serbia,
+194165922,2026-05-09,13:00,False,1.9,0.0,1.0,0.9,Ferencvarosi TC vs Zalaegerszegi TE,Hungary Cup,Hungary,
+194210233,2026-05-09,13:00,False,1.57,0.0,1.0,0.57,Bodo/Glimt vs SK Brann,Norway Cup,Norway,
+193286211,2026-05-09,13:00,False,1.8,0.0,1.0,0.8,Olimpia Grudziadz vs Rekord Bielsko-Biala,Poland II Liga,Poland,
+193332534,2026-05-09,13:00,False,1.61,0.0,1.0,0.61,FC Zurich vs Grasshoppers,Switzerland Super League,Switzerland,
+194211651,2026-05-09,14:00,False,2.1,0.0,1.0,1.1,Reus FC Reddis vs UD Ourense,Spain Segunda Division RFEF Play-Offs,Spain,
+194264292,2026-05-09,14:00,False,1.9,0.0,1.0,0.9,Tudelano vs Real Oviedo Vetusta,Spain Segunda Division RFEF Play-Offs,Spain,
+193107593,2026-05-09,14:30,False,1.72,0.0,1.0,0.72,Stal Mielec vs Puszcza Niepolomice,Poland I Liga,Poland,
+193107600,2026-05-09,14:30,False,1.61,0.0,1.0,0.61,Znicz Pruszków vs Polonia Bytom,Poland I Liga,Poland,
+193326597,2026-05-09,15:00,False,3.0,0.0,1.0,2.0,CD Moron vs Los Andes,Argentina Nacional B,Argentina,
+193332482,2026-05-09,15:00,False,2.75,0.0,1.0,1.75,Magesi FC vs Orlando Pirates,South Africa Premier,South Africa,
+193326638,2026-05-09,15:30,False,2.75,0.0,1.0,1.75,CA San Miguel vs CA Estudiantes Caseros,Argentina Nacional B,Argentina,
+194162333,2026-05-09,15:30,False,2.5,0.0,1.0,1.5,Talleres Remedios vs Villa San Carlos,Argentina Primera B Metropolitana,Argentina,
+194162302,2026-05-09,15:30,False,2.5,0.0,1.0,1.5,Deportivo Armenio vs Deportivo Camioneros,Argentina Primera B Metropolitana,Argentina,
+194162309,2026-05-09,15:30,False,2.5,0.0,1.0,1.5,CSD Flandria vs Deportivo Merlo,Argentina Primera B Metropolitana,Argentina,
+194260944,2026-05-09,15:30,False,2.5,0.0,1.0,1.5,Independiente Chivilcoy vs Club Atlético El Linqueño,Argentina Torneo A,Argentina,
+194164520,2026-05-09,15:30,False,2.5,0.0,1.0,1.5,Maracanã vs Sampaio Correa,Brazil Serie D,Brazil,
+194052234,2026-05-09,15:30,False,2.2,0.0,1.0,1.2,Danubio vs Albion FC,Uruguay Apertura,Uruguay,
+193192179,2026-05-09,16:00,False,2.1,0.0,1.0,1.1,Goias vs Vila Nova,Brazil Serie B,Brazil,
+194317071,2026-05-09,16:00,False,2.37,0.0,1.0,1.37,Madureira vs Portuguesa,Brazil Serie D,Brazil,
+194168750,2026-05-09,16:00,False,2.2,0.0,1.0,1.2,Pouso Alegre vs America RJ,Brazil Serie D,Brazil,
+193996918,2026-05-09,16:00,False,1.95,0.0,1.0,0.95,Bolton vs Bradford,England League 1,England,
+194168762,2026-05-09,17:00,False,2.1,0.0,1.0,1.1,Itabaiana vs Floresta,Brazil Serie C,Brazil,
+194168776,2026-05-09,17:00,False,2.1,0.0,1.0,1.1,Paysandu vs Anapolis,Brazil Serie C,Brazil,
+194164522,2026-05-09,17:00,False,2.2,0.0,1.0,1.2,Marica vs Noroeste,Brazil Serie D,Brazil,
+193191342,2026-05-09,18:00,False,2.2,0.0,1.0,1.2,Fluminense vs Vitoria,Brazil Serie A,Brazil,
+194093983,2026-05-09,18:00,False,1.9,0.0,1.0,0.9,Mixto (W) vs Bahia (W),Brazil Serie A1 Women,Brazil,
+194168770,2026-05-09,18:00,False,2.2,0.0,1.0,1.2,Maranhao vs Botafogo PB,Brazil Serie C,Brazil,
+194187677,2026-05-09,18:00,False,2.62,0.0,1.0,1.62,Marcilio Dias vs Brasil de Pelotas,Brazil Serie D,Brazil,
+194187687,2026-05-09,18:00,False,2.25,0.0,1.0,1.25,XV Piracicaba vs Sampaio Correa RJ,Brazil Serie D,Brazil,
+194052225,2026-05-09,18:30,False,2.0,0.0,1.0,1.0,Central Espanol vs Racing Club de Montevideo,Uruguay Apertura,Uruguay,
+194168781,2026-05-09,19:00,False,2.5,0.0,1.0,1.5,Velo Clube vs Nova Iguacu,Brazil Serie D,Brazil,
+193333224,2026-05-09,20:00,False,2.0,0.0,1.0,1.0,Louisville City FC vs Pittsburgh Riverhounds,USA USL Championship,USA,
+193330551,2026-05-09,20:30,False,1.75,0.0,1.0,0.75,New England vs Philadelphia,USA MLS,USA,
+194216953,2026-05-09,21:45,True,2.25,0.0,1.0,1.25,Angel City FC (W) vs San Diego Wave (W),USA NWSL Women,USA,
+193329732,2026-05-09,22:00,False,2.1,0.0,1.0,1.1,Alianza Lima vs Sporting Cristal,Peru Liga 1,Peru,
+194127640,2026-05-09,22:20,False,2.0,0.0,1.0,1.0,America de Cali vs Independiente Santa Fe,Colombia Primera A,Colombia,
+194216986,2026-05-09,23:30,False,1.83,0.0,1.0,0.83,Spokane Zephyr (W) vs DC Power (W),USA USL Super League Women,USA,
+193328524,2026-05-10,02:00,False,1.95,0.0,1.0,0.95,Shimizu S-Pulse vs Avispa Fukuoka,Japan J-League,Japan,
+193328527,2026-05-10,02:00,False,2.0,0.0,1.0,1.0,Vissel Kobe vs Fagiano Okayama,Japan J-League,Japan,
+193335589,2026-05-10,02:00,False,2.0,0.0,1.0,1.0,Tochigi SC vs Blaublitz Akita,Japan J2/J3 Centennial League,Japan,
+193335592,2026-05-10,02:00,False,2.1,0.0,1.0,1.1,Tokushima Vortis vs Nara Club,Japan J2/J3 Centennial League,Japan,
+193328531,2026-05-10,03:00,False,2.1,0.0,1.0,1.1,FC Tokyo vs Tokyo Verdy,Japan J-League,Japan,
+193335608,2026-05-10,03:00,False,1.83,0.0,1.0,0.83,Ehime FC vs Kataller Toyama,Japan J2/J3 Centennial League,Japan,
+194219960,2026-05-10,04:00,False,1.8,0.0,1.0,0.8,Dalian K'un City vs Guangdong GZ-Power,China Division 1,China,
+193319780,2026-05-10,07:00,False,2.75,0.0,1.0,1.75,Sevilla Atletico vs Eldense,Spain Primera Division RFEF Group 2,Spain,
+194266032,2026-05-10,08:30,False,2.1,0.0,1.0,1.1,Foshan Nanshi vs Suzhou Dongwu,China Division 1,China,
+193320621,2026-05-10,09:00,False,1.75,0.0,1.0,0.75,AIK vs Djurgarden,Sweden Allsvenskan,Sweden,
+193320631,2026-05-10,09:00,False,2.0,0.0,1.0,1.0,Kalmar FF vs Halmstad,Sweden Allsvenskan,Sweden,
+193758276,2026-05-10,09:30,False,3.4,0.0,1.0,2.4,SC Poltava vs Shakhtar Donetsk,Ukraine Vyscha Liga,Ukraine,
+193330200,2026-05-10,10:00,False,1.61,0.0,1.0,0.61,ND Primorje vs NS Mura,Slovenia Prva Liga,Slovenia,
+193331999,2026-05-10,12:00,False,1.61,0.0,1.0,0.61,Moss vs Bryne,Norway Division 1,Norway,
+194320560,2026-05-10,12:00,False,2.0,0.0,1.0,1.0,Utebo vs Aguilas,Spain Segunda Division RFEF Play-Offs,Spain,
+194265957,2026-05-10,12:25,False,1.8,0.0,1.0,0.8,Baniyas SC vs Shabab Al Ahli Dubai,UAE Pro League,UAE,
+193004731,2026-05-10,13:00,False,2.1,0.0,1.0,1.1,Parma vs Roma,Italy Serie A,Italy,
+193754998,2026-05-10,13:00,False,2.1,0.0,1.0,1.1,FK Panevezys vs FK Kauno Zalgiris,Lithuania A Lyga,Lithuania,
+193328174,2026-05-10,13:30,False,2.37,0.0,1.0,1.37,AEK Athens vs Panathinaikos,Greece Super League 1,Greece,
+194267360,2026-05-10,13:30,False,2.25,0.0,1.0,1.25,Alcoyano vs UD San Sebastian Reyes,Spain Segunda Division RFEF Play-Offs,Spain,
+194267364,2026-05-10,14:00,False,2.0,0.0,1.0,1.0,Coruxo vs Atletico Baleares,Spain Segunda Division RFEF Play-Offs,Spain,
+194324899,2026-05-10,15:00,False,2.1,0.0,1.0,1.1,US Pianese vs Lecco,Italy Serie C Play-Offs,Italy,
+194220463,2026-05-10,15:30,False,2.37,0.0,1.0,1.37,Argentino Quilmes vs CS Dock Sud,Argentina Primera B Metropolitana,Argentina,
+194220466,2026-05-10,15:30,False,2.5,0.0,1.0,1.5,Arsenal de Sarandi vs Real Pilar,Argentina Primera B Metropolitana,Argentina,
+194273988,2026-05-10,15:30,False,2.62,0.0,1.0,1.62,Cipolletti vs Juventud Unida Universitario,Argentina Torneo A,Argentina,
+193326565,2026-05-10,16:00,False,2.5,0.0,1.0,1.5,Agropecuario vs CA Atlanta,Argentina Nacional B,Argentina,
+194267388,2026-05-10,16:00,False,2.2,0.0,1.0,1.2,Boca Unidos vs Sol de America de Formosa,Argentina Torneo A,Argentina,
+194259978,2026-05-10,16:00,False,2.0,0.0,1.0,1.0,Defensores de Belgrano VR vs CA 9 de Julio Rafaela,Argentina Torneo A,Argentina,
+194270271,2026-05-10,16:00,False,2.62,0.0,1.0,1.62,CA Douglas Haig vs Atletico Escobar FC,Argentina Torneo A,Argentina,
+194267392,2026-05-10,16:00,False,2.62,0.0,1.0,1.62,Tucuman Central vs Juventud Antoniana,Argentina Torneo A,Argentina,
+194187754,2026-05-10,16:00,False,2.25,0.0,1.0,1.25,Portuguesa RJ vs Agua Santa,Brazil Serie D,Brazil,
+193985011,2026-05-10,16:00,False,2.0,0.0,1.0,1.0,Coquimbo Unido vs Huachipato,Chile Copa de la Liga,Chile,
+193985008,2026-05-10,16:00,False,1.9,0.0,1.0,0.9,Union La Calera vs Universidad de Chile,Chile Copa de la Liga,Chile,
+194312762,2026-05-10,16:30,False,2.62,0.0,1.0,1.62,San Martin Formosa vs CA Sarmiento de la Banda,Argentina Torneo A,Argentina,
+194187768,2026-05-10,17:00,False,2.37,0.0,1.0,1.37,ASA vs Atletico Alagoinhas,Brazil Serie D,Brazil,
+194187770,2026-05-10,17:00,False,2.2,0.0,1.0,1.2,Treze vs Decisao,Brazil Serie D,Brazil,
+194272404,2026-05-10,17:00,False,2.25,0.0,1.0,1.25,Rionegro Aguilas v Jaguares de Cordoba,Colombia Cup,Colombia,
+193329737,2026-05-10,17:15,False,1.9,0.0,1.0,0.9,Comerciantes Unidos vs FBC Melgar,Peru Liga 1,Peru,
+193330578,2026-05-10,17:30,False,1.57,0.0,1.0,0.57,New York City vs Columbus Crew,USA MLS,USA,
+194187776,2026-05-10,18:00,False,2.2,0.0,1.0,1.2,Manauara vs GAS,Brazil Serie D,Brazil,
+193985013,2026-05-10,18:30,False,1.72,0.0,1.0,0.72,Universidad Catolica vs Nublense,Chile Copa de la Liga,Chile,
+193192210,2026-05-10,19:30,False,2.1,0.0,1.0,1.1,Novorizontino vs Botafogo SP,Brazil Serie B,Brazil,
+194052230,2026-05-10,19:30,False,2.0,0.0,1.0,1.0,Nacional De Football vs Cerro,Uruguay Apertura,Uruguay,
+193985017,2026-05-10,21:00,False,2.1,0.0,1.0,1.1,O'Higgins vs Everton de Vina,Chile Copa de la Liga,Chile,
+193330598,2026-05-10,22:00,False,1.8,0.0,1.0,0.8,LAFC vs Houston Dynamo,USA MLS,USA,
+194203859,2026-05-11,11:00,True,1.8,0.0,1.0,0.8,East Bengal Club vs Punjab FC,India Super League,India,
+194270245,2026-05-11,12:00,False,1.9,0.0,1.0,0.9,SC Grobinas vs FS Jelgava,Latvia Virsliga,Latvia,
+194321779,2026-05-11,13:00,False,2.2,0.0,1.0,1.2,FC Kafr Qasim vs Hapoel Nof HaGalil,Israel Leumit Liga,Israel,
+194314486,2026-05-11,13:00,False,2.2,0.0,1.0,1.2,OC Safi vs FUS Rabat,Morocco GNF 1,Morocco,
+193107622,2026-05-11,13:30,True,1.9,0.0,1.0,0.9,Odra Opole vs Pogon Grodzisk Mazowiecki,Poland I Liga,Poland,
+194271005,2026-05-11,13:45,True,1.66,0.0,1.0,0.66,Al Jazira SC vs Al Wasl SC,UAE Pro League,UAE,
+194270248,2026-05-11,14:00,False,1.66,0.0,1.0,0.66,SK Super Nova vs Tukums 2000,Latvia Virsliga,Latvia,
+193332025,2026-05-11,14:00,True,1.57,0.0,1.0,0.57,Egersunds vs Odd BK,Norway Division 1,Norway,
+193003564,2026-05-11,15:30,True,2.0,0.0,1.0,1.0,Huesca vs Real Sociedad B,Spain Segunda,Spain,
+192501389,2026-05-11,16:00,True,1.95,0.0,1.0,0.95,Tottenham vs Leeds,England Premier League,England,
+194416378,2026-05-11,20:00,False,2.2,0.0,1.0,1.2,Deportivo Cali vs Atletico Bucaramanga,Colombia Cup,Colombia,
+193985025,2026-05-11,21:00,False,1.8,0.0,1.0,0.8,Palestino vs Deportes Limache,Chile Copa de la Liga,Chile,
+194094028,2026-05-11,21:30,False,1.9,0.0,1.0,0.9,Corinthians (W) vs Sao Paulo (W),Brazil Serie A1 Women,Brazil,
+194314460,2026-05-11,22:00,False,2.62,0.0,1.0,1.62,Millonarios vs Llaneros,Colombia Cup,Colombia,
+193716987,2026-05-12,07:30,False,2.2,0.0,1.0,1.2,Gwangju FC vs FC Seoul,South Korea K League 1,South Korea,
+194433550,2026-05-12,10:00,False,1.57,0.0,1.0,0.57,Namdhari FC vs Gokulam FC,India I-League,India,
+194271058,2026-05-12,12:00,False,1.9,0.0,1.0,0.9,FK Liepaja vs Ogre United,Latvia Virsliga,Latvia,
+194271064,2026-05-12,13:00,False,1.66,0.0,1.0,0.66,Riga FC vs FK Auda,Latvia Virsliga,Latvia,
+194421039,2026-05-12,14:30,False,2.1,0.0,1.0,1.1,Al-Hussein SC vs Al-Wehdat,Jordan Cup,Jordan,
+194417287,2026-05-12,16:00,False,2.0,0.0,1.0,1.0,Itagui Leones vs Orsomarso,Colombia Cup,Colombia,
+193989627,2026-05-12,16:00,False,1.8,0.0,1.0,0.8,Southampton vs Middlesbrough,England Championship,England,
+194413850,2026-05-12,16:00,False,2.0,0.0,1.0,1.0,Catanzaro vs Avellino,Italy Serie B,Italy,
+194428321,2026-05-12,19:00,False,2.2,0.0,1.0,1.2,Belgrano v Union Santa Fe,Argentina Liga Profesional,Argentina,
+194405729,2026-05-12,21:30,False,2.75,0.0,1.0,1.75,Argentinos Jrs v Huracan,Argentina Liga Profesional,Argentina,
+193552748,2026-05-12,21:30,False,2.5,0.0,1.0,1.5,Cruzeiro v Goias,Copa do Brasil,Brazil,
+194527580,2026-05-13,00:00,False,1.5,0.0,1.0,0.5,Honefoss vs Stjørdals/Blink,,,
+193381836,2026-05-13,07:00,False,2.2,0.0,1.0,1.2,Machida Zelvia vs Tokyo Verdy,Japan J-League,Japan,
+193381839,2026-05-13,07:00,False,1.95,0.0,1.0,0.95,Vissel Kobe vs Kyoto Sanga FC,Japan J-League,Japan,
+194483334,2026-05-13,11:00,False,2.5,0.0,1.0,1.5,Haras El Hedoud vs Al Moqawloon Al Arab,Egypt Division 1,Egypt,
+194483347,2026-05-13,14:00,False,3.0,0.0,1.0,2.0,Al Ittihad Al Sakandary vs Talaea El Geish,Egypt Division 1,Egypt,
+194441716,2026-05-13,14:00,False,1.83,0.0,1.0,0.83,FC Stockholm Internazionale vs AFC Eskilstuna,Sweden 1.div Norra,Sweden,
+193320723,2026-05-13,14:00,False,1.7,0.0,1.0,0.7,Helsingborg vs IK Oddevold,Sweden Superettan,Sweden,
+192939273,2026-05-13,15:00,False,2.25,0.0,1.0,1.25,Arsenal (W) vs Everton (W),England Super League Women,England,
+193471922,2026-05-13,16:00,False,2.0,0.0,1.0,1.0,Lazio vs Inter Milan,Coppa Italia,Italy,
+193003427,2026-05-13,16:30,False,2.2,0.0,1.0,1.2,Getafe vs Mallorca,Spain La Liga,Spain,
+194452880,2026-05-13,18:45,True,2.25,0.0,1.0,1.25,Rosario Central vs Racing Club,Argentina Liga Profesional,Argentina,
+193985031,2026-05-13,20:00,False,1.83,0.0,1.0,0.83,Coquimbo Unido v Colo Colo,Chile Copa de la Liga,Chile,v4.1
+194469410,2026-05-13,20:00,False,2.1,0.0,1.0,1.1,Carabobo vs Estudiantes Merida,Venezuela Primera Division,Venezuela,
+193719699,2026-05-13,20:15,False,1.61,0.0,1.0,0.61,Charlotte FC vs New York City,USA MLS,USA,
+194469415,2026-05-13,20:30,False,2.0,0.0,1.0,1.0,Academia Puerto Cabello vs Portuguesa FC,Venezuela Primera Division,Venezuela,
+194473788,2026-05-13,23:00,False,1.75,0.0,1.0,0.75,Cruz Azul vs Chivas Guadalajara,Mexico Liga MX,Mexico,
+194526452,2026-05-14,08:00,False,1.57,0.0,1.0,0.57,Vasalunds IF vs Gefle IF,Sweden 1.div Norra,Sweden,
+194526456,2026-05-14,08:00,False,1.61,0.0,1.0,0.61,Tvååkers IF vs BK Olympic,Sweden 1.div Södra,Sweden,
+194534326,2026-05-14,08:00,False,1.57,0.0,1.0,0.57,Västra Frölunda IF vs IK Kongahälla,Sweden 2.div Västra Götaland,Sweden,
+194526454,2026-05-14,10:00,False,1.5,0.0,1.0,0.5,Assyriska Föreningen vs Umea FC,Sweden 1.div Norra,Sweden,
+194526445,2026-05-14,10:00,False,1.57,0.0,1.0,0.57,Lidköpings FK vs Grebbestads IF,Sweden 2.div Norra Götaland,Sweden,
+194534332,2026-05-14,10:30,False,1.66,0.0,1.0,0.66,Vidar vs Sotra,Norway Division 2 Group 1,Norway,
+194526458,2026-05-14,11:00,False,1.9,0.0,1.0,0.9,Ängelholms FF vs Atvidabergs FF,Sweden 1.div Södra,Sweden,
+194530574,2026-05-14,13:35,False,2.25,0.0,1.0,1.25,Al-Nahda vs Al Seeb,Oman League,Oman,
+193003466,2026-05-14,14:00,True,2.1,0.0,1.0,1.1,Valencia vs Rayo Vallecano,Spain La Liga,Spain,
+193003440,2026-05-14,15:00,True,1.95,0.0,1.0,0.95,Girona v Real Sociedad,Spain La Liga,Spain,
+194490707,2026-05-14,17:00,True,2.1,0.0,1.0,1.1,Libertad Asuncion v 2 de Mayo,Paraguay Division Profesional,Paraguay,
+194473790,2026-05-14,22:00,False,1.66,0.0,1.0,0.66,Pachuca v Unam Pumas,Mexico Liga MX,Mexico,
+194094033,2026-05-15,00:00,True,2.2,0.0,1.0,1.2,Flamengo (W) vs Fluminense (W),Brazil Serie A1 Women,Brazil,Reality Scanner V4
+193715860,2026-05-15,00:00,False,2.2,0.0,1.0,1.2,Universitario de Deportes vs Atletico Grau,Peru Liga 1,Peru,Reality Scanner V4
+194538173,2026-05-15,00:00,False,1.83,0.0,1.0,0.83,Bay FC (W) vs Boston Legacy FC (W),USA NWSL Women,USA,Reality Scanner V4
+194538169,2026-05-15,00:00,False,2.0,0.0,1.0,1.0,Seattle Reign (W) vs Gotham FC (W),USA NWSL Women,USA,Reality Scanner V4
+193269016,2026-05-15,06:15,False,1.57,0.0,1.0,0.57,Brisbane Roar NPL vs Lions FC,Australia NPL Queensland,Australia,
+193268696,2026-05-15,07:30,False,1.83,0.0,1.0,0.83,Bentleigh Greens vs Heidelberg Utd,Australia NPL Victoria,Australia,
+193711554,2026-05-15,08:35,False,1.8,0.0,1.0,0.8,Henan vs Shenzhen Xinpengcheng,China Super League,China,
+193711564,2026-05-15,08:35,False,1.8,0.0,1.0,0.8,Tianjin Jinmen Tigers vs Chengdu Rongcheng,China Super League,China,
+193711568,2026-05-15,09:00,False,1.66,0.0,1.0,0.66,Beijing Guoan vs Qingdao Hainiu,China Super League,China,
+193711570,2026-05-15,09:00,False,1.8,0.0,1.0,0.8,Dalian Young Boy vs Qingdao West Coast,China Super League,China,
+194525528,2026-05-15,10:00,False,2.0,0.0,1.0,1.0,Hapoel Afula vs Hapoel Nof HaGalil,Israel Leumit Liga,Israel,
+193286259,2026-05-15,12:00,False,1.66,0.0,1.0,0.66,LKS Lodz II vs Unia Skierniewice,Poland II Liga,Poland,
+193336402,2026-05-15,13:00,False,1.72,0.0,1.0,0.72,Pogon Siedlce vs Stal Mielec,Poland I Liga,Poland,
+193715946,2026-05-15,13:15,False,1.8,0.0,1.0,0.8,Damac FC vs Al Feiha,Saudi Arabia Pro League,Saudi Arabia,
+194538428,2026-05-15,13:30,False,1.57,0.0,1.0,0.57,FC Rosengård (W) vs Kristianstads (W),Sweden Damallsvenskan,Sweden,
+194533796,2026-05-15,14:00,False,1.44,0.0,1.0,0.44,Ullensaker/Kisa vs Eidsvold TF,Norway Division 2 Group 2,Norway,
+194517930,2026-05-15,14:30,False,2.25,0.0,1.0,1.25,Versailles vs Stade Briochin,France National,France,
+194413852,2026-05-15,15:00,False,2.1,0.0,1.0,1.1,Bari vs Sudtirol,Italy Serie B,Italy,
+194531962,2026-05-15,15:00,False,2.62,0.0,1.0,1.62,Kawkab Marrakech vs JS Soualem,Morocco Cup,Morocco,
+193267628,2026-05-15,15:30,False,2.1,0.0,1.0,1.1,Korona Kielce vs Widzew Lodz,Poland Ekstraklasa,Poland,
+193003587,2026-05-15,15:30,False,1.83,0.0,1.0,0.83,CD Castellon vs Cadiz,Spain Segunda,Spain,
+194525648,2026-05-15,15:45,False,1.8,0.0,1.0,0.8,Cobh Ramblers vs Athlone Town,Republic of Ireland First Division,Ireland,
+193201033,2026-05-15,15:45,False,1.95,0.0,1.0,0.95,Bohemians Dublin vs Drogheda United,Republic of Ireland Premier Division,Ireland,
+193201037,2026-05-15,15:45,False,2.0,0.0,1.0,1.0,St Patrick's Athletic vs Shelbourne,Republic of Ireland Premier Division,Ireland,
+194533800,2026-05-15,17:00,False,1.9,0.0,1.0,0.9,Sportivo Trinidense vs Cerro Porteno,Paraguay Division Profesional,Paraguay,
+193715854,2026-05-15,17:00,True,1.8,0.0,1.0,0.8,FC Cajamarca vs Sporting Cristal,Peru Liga 1,Peru,
+194538975,2026-05-15,20:00,False,1.72,0.0,1.0,0.72,Montevideo City Torque vs Nacional De Football,Uruguay Torneo Intermedio,Uruguay,
+193710534,2026-05-15,21:00,False,3.0,0.0,1.0,2.0,Racing de Cordoba vs Central Norte,Argentina Nacional B,Argentina,Reality Scanner V4
+193193631,2026-05-15,21:00,False,1.83,0.0,1.0,0.83,Coquimbo Unido vs Audax Italiano,Chile Liga de Primera,Chile,Reality Scanner V4
+194507847,2026-05-16,00:00,False,1.8,0.0,5.0,4.0,Metrostars vs Adelaide Comets,Australia South Australia Premier League,Australia,Reality Scanner V4
+193711579,2026-05-16,00:00,False,1.75,0.0,5.0,3.75,Shandong Taishan vs Chongqing Tonglianglong,China Super League,China,Reality Scanner V4
+194530172,2026-05-16,00:00,False,2.1,0.0,5.0,5.5,NK Sesvete vs NK Dugopolje,Croatia 1.NL,Croatia,Reality Scanner V4
+193331601,2026-05-16,00:00,False,1.72,0.0,5.0,3.6,Middelfart vs HB Køge,Denmark Division 1,Denmark,Reality Scanner V4
+193000184,2026-05-16,00:00,False,1.57,0.0,5.0,2.85,Brighton (W) vs Tottenham (W),England Super League Women,England,Reality Scanner V4
+193000186,2026-05-16,00:00,False,2.0,0.0,5.0,5.0,Chelsea (W) vs Man Utd (W),England Super League Women,England,Reality Scanner V4
+193000192,2026-05-16,00:00,False,2.37,0.0,5.0,6.85,Liverpool (W) vs Arsenal (W),England Super League Women,England,Reality Scanner V4
+194585654,2026-05-16,00:00,False,1.5,0.0,5.0,2.5,Union Plaani vs PPJ,Finland Kakkonen Group A,Finland,Reality Scanner V4
+194547218,2026-05-16,00:00,False,1.8,0.0,5.0,4.0,MSV Duisburg vs FC Viktoria Köln,Germany 3. Liga,Germany,Reality Scanner V4
+194547266,2026-05-16,00:00,False,1.5,0.0,5.0,2.5,SSV Ulm 1846 vs Rot-Weiss Essen,Germany 3. Liga,Germany,Reality Scanner V4
+194579045,2026-05-16,00:00,False,1.83,0.0,5.0,4.15,Chennaiyin FC vs Bengaluru,India Super League,India,Reality Scanner V4
+193381841,2026-05-16,00:00,False,2.2,0.0,5.0,6.0,Mito Hollyhock vs Tokyo Verdy,Japan J-League,Japan,Reality Scanner V4
+194092228,2026-05-16,00:00,False,2.0,0.0,5.0,5.0,Sagamihara vs Vanraure Hachinohe,Japan J2/J3 Centennial League,Japan,Reality Scanner V4
+194490398,2026-05-16,00:00,False,1.83,0.0,5.0,4.15,SK Super Nova vs Ogre United,Latvia Virsliga,Latvia,Reality Scanner V4
+194589685,2026-05-16,00:00,False,1.53,0.0,5.0,2.65,Levanger vs Trygg/Lade,Norway Division 2 Group 2,Norway,Reality Scanner V4
+193716927,2026-05-16,00:00,False,3.0,0.0,5.0,10.0,Orlando Pirates vs Durban City,South Africa Premier,South Africa,Reality Scanner V4
+194577900,2026-05-16,00:00,False,1.61,0.0,5.0,3.05,Karlbergs BK vs FC Järfälla,Sweden 1.div Norra,Sweden,Reality Scanner V4
+194585656,2026-05-16,11:00,False,1.36,0.0,5.0,1.8,HPS vs Atlantis,Finland Kakkonen Group A,Finland,Reality Scanner V4
+194585659,2026-05-16,11:00,False,1.4,0.0,5.0,2.0,Puiu vs PEPO,Finland Kakkonen Group A,Finland,Reality Scanner V4
+194585747,2026-05-16,11:00,False,1.36,0.0,5.0,1.8,TP-47 vs FF Jaro II,Finland Kakkonen Group C,Finland,Reality Scanner V4
+194469867,2026-05-16,11:00,False,2.05,0.0,5.0,5.25,IFK Mariehamn vs KuPS Kuopio,Finland Veikkausliiga,Finland,Reality Scanner V4
+194526042,2026-05-16,11:00,False,1.9,0.0,5.0,4.5,Hegelmann Litauen vs Suduva Marijampole,Lithuania A Lyga,Lithuania,Reality Scanner V4
+193332045,2026-05-16,11:00,False,1.66,0.0,5.0,3.3,Bryne vs Strommen,Norway Division 1,Norway,Reality Scanner V4
+193332063,2026-05-16,11:00,False,1.53,0.0,5.0,2.65,Hodd vs Sogndal,Norway Division 1,Norway,Reality Scanner V4
+194589351,2026-05-16,11:00,True,1.72,0.0,5.0,3.6,Arendal vs FK Jerv,Norway Division 2 Group 1,Norway,Reality Scanner V4
+193331894,2026-05-16,11:00,False,1.75,0.0,5.0,3.75,Fredrikstad vs HamKam,Norway Eliteserien,Norway,Reality Scanner V4
+194577902,2026-05-16,11:00,False,1.72,0.0,5.0,3.6,Hammarby TFF vs FC Stockholm Internazionale,Sweden 1.div Norra,Sweden,Reality Scanner V4
+193323540,2026-05-16,12:00,False,1.75,0.0,5.0,3.75,FC Blau Weiss Linz vs Grazer AK,Austria Bundesliga,Austria,Reality Scanner V4
+193323546,2026-05-16,12:00,False,1.8,0.0,5.0,4.0,SCR Altach vs SV Ried,Austria Bundesliga,Austria,Reality Scanner V4
+194582425,2026-05-16,12:00,False,2.0,0.0,5.0,5.0,Banik Ostrava vs FC Zlin,Czechia First League,Czech Republic,Reality Scanner V4
+193320754,2026-05-16,12:00,False,1.53,0.0,5.0,2.65,IK Brage vs IFK Norrkoping,Sweden Superettan,Sweden,Reality Scanner V4
+194538977,2026-05-16,12:00,False,2.1,0.0,5.0,5.5,Boston River vs Cerro,Uruguay Torneo Intermedio,Uruguay,Reality Scanner V4
+193713772,2026-05-16,12:15,False,1.83,0.0,5.0,4.15,Ferencvarosi TC vs Zalaegerszegi TE,Hungary NB I,Hungary,Reality Scanner V4
+193713779,2026-05-16,12:15,False,1.8,0.0,5.0,4.0,Kisvarda FC vs Gyor Eto FC,Hungary NB I,Hungary,Reality Scanner V4
+194588352,2026-05-16,12:30,False,2.75,0.0,5.0,8.75,Orijent vs Karlovac,Croatia 1.NL,Croatia,Reality Scanner V4
+194469876,2026-05-16,13:00,False,1.8,0.0,5.0,4.0,AC Oulu vs TPS,Finland Veikkausliiga,Finland,Reality Scanner V4
+194469894,2026-05-16,13:00,False,1.75,0.0,5.0,3.75,IF Gnistan vs FF Jaro,Finland Veikkausliiga,Finland,Reality Scanner V4
+194640780,2026-05-16,13:00,False,2.0,0.0,5.0,5.0,Ramtha SC vs Al-Hussein SC,Jordan Cup,Jordan,Reality Scanner V4
+193331411,2026-05-16,13:15,True,1.7,0.0,5.0,3.5,Standard Liege vs Genk,Belgium First Division A,Belgium,Reality Scanner V4
+193003584,2026-05-16,13:30,False,1.61,0.0,5.0,3.05,Almeria vs Las Palmas,Spain Segunda,Spain,Reality Scanner V4
+193003635,2026-05-16,13:30,False,2.1,0.0,5.0,5.5,Granada vs Burgos,Spain Segunda,Spain,Reality Scanner V4
+193003644,2026-05-16,13:30,True,1.8,0.0,5.0,4.0,Racing Santander vs Valladolid,Spain Segunda,Spain,Reality Scanner V4
+194577913,2026-05-16,14:00,False,2.37,0.0,5.0,6.85,ES Setif vs CR Belouizdad,Algeria Division 1,Algeria,Reality Scanner V4
+193336408,2026-05-16,14:30,False,1.8,0.0,5.0,4.0,Chrobry Glogow vs Znicz Pruszków,Poland I Liga,Poland,Reality Scanner V4
+194094035,2026-05-16,15:00,False,2.2,0.0,5.0,6.0,America MG (W) vs Atletico Mineiro (W),Brazil Serie A1 Women,Brazil,Reality Scanner V4
+194577016,2026-05-16,15:00,False,2.1,0.0,5.0,5.5,Juve Stabia vs Monza,Italy Serie B,Italy,Reality Scanner V4
+194578368,2026-05-16,15:00,False,2.1,0.0,5.0,5.5,OC Safi vs Olympique Dcheira,Morocco Cup,Morocco,Reality Scanner V4
+194091089,2026-05-16,15:00,False,2.2,0.0,5.0,6.0,FK Napredak vs FK Radnicki 1923,Serbia Super Liga,Serbia,Reality Scanner V4
+194091062,2026-05-16,15:00,False,2.1,0.0,5.0,5.5,Javor Ivanjica vs Mladost Lucani,Serbia Super Liga,Serbia,Reality Scanner V4
+194538980,2026-05-16,15:00,False,1.9,0.0,5.0,4.5,Juventud De Las Piedras vs Club Atletico Progreso,Uruguay Torneo Intermedio,Uruguay,Reality Scanner V4
+194595853,2026-05-16,15:15,False,1.9,0.0,5.0,4.5,UD Logrones vs Getafe B,Spain Segunda Division RFEF Play-Offs,Spain,Reality Scanner V4
+194542132,2026-05-16,15:30,False,2.75,0.0,5.0,8.75,CS Dock Sud vs CSD Flandria,Argentina Primera B Metropolitana,Argentina,Reality Scanner V4
+194542151,2026-05-16,15:30,False,2.5,0.0,5.0,7.5,Real Pilar vs Excursionistas,Argentina Primera B Metropolitana,Argentina,Reality Scanner V4
+194542145,2026-05-16,15:30,False,2.75,0.0,5.0,8.75,UAI Urquiza vs Villa Dalmine,Argentina Primera B Metropolitana,Argentina,Reality Scanner V4
+194094039,2026-05-16,16:00,False,2.1,0.0,5.0,5.5,Gremio (W) vs Mixto (W),Brazil Serie A1 Women,Brazil,Reality Scanner V4
+193718007,2026-05-16,16:00,False,2.2,0.0,5.0,6.0,Sabadell vs Antequera,Spain Primera Division RFEF Group 2,Spain,Reality Scanner V4
+193710453,2026-05-16,17:00,False,2.75,0.0,5.0,8.75,CA Atlanta vs Atletico Rafaela,Argentina Nacional B,Argentina,Reality Scanner V4
+194371128,2026-05-16,17:00,False,2.0,0.0,5.0,5.0,Ypiranga RS vs Maringa,Brazil Serie C,Brazil,Reality Scanner V4
+194490717,2026-05-16,17:15,False,2.0,0.0,5.0,5.0,Guarani Asuncion vs Sportivo Ameliano,Paraguay Division Profesional,Paraguay,Reality Scanner V4
+193715875,2026-05-16,17:15,False,1.8,0.0,5.0,4.0,Juan Pablo II College vs Alianza Atletico,Peru Liga 1,Peru,Reality Scanner V4
+194698285,2026-05-16,17:30,False,2.5,0.0,5.0,7.5,Alianza vs CD Real Santander,Colombia Cup,Colombia,Reality Scanner V4
+193719786,2026-05-16,17:30,True,1.66,0.0,5.0,3.3,CF Montreal vs Chicago Fire,USA MLS,USA,Reality Scanner V4
+193711631,2026-05-16,18:30,False,2.25,0.0,5.0,6.25,Universidad Catolica del Ecuador vs Delfin SC,Ecuador LigaPro Serie A,Ecuador,Reality Scanner V4
+194538982,2026-05-16,18:30,False,2.0,0.0,5.0,5.0,Penarol vs Liverpool Montevideo,Uruguay Torneo Intermedio,Uruguay,Reality Scanner V4
+194371138,2026-05-16,19:30,False,2.62,0.0,5.0,8.1,Floresta vs Amazonas,Brazil Serie C,Brazil,Reality Scanner V4
+194538178,2026-05-16,19:30,False,2.37,0.0,5.0,6.85,North Carolina Courage (W) vs Chicago Stars (W),USA NWSL Women,USA,Reality Scanner V4
+193711513,2026-05-16,20:30,False,2.25,0.0,5.0,6.25,Cuiaba vs Novorizontino,Brazil Serie B,Brazil,Reality Scanner V4
+193719790,2026-05-16,20:30,False,1.7,0.0,5.0,3.5,Charlotte FC vs Toronto FC,USA MLS,USA,Reality Scanner V4
+194538185,2026-05-16,21:45,False,1.72,0.0,5.0,3.6,Denver Summit FC (W) vs Orlando Pride (W),USA NWSL Women,USA,Reality Scanner V4
+193715880,2026-05-16,22:30,False,1.72,0.0,5.0,3.6,Sport Boys vs Cusco FC,Peru Liga 1,Peru,Reality Scanner V4
+193381857,2026-05-17,01:00,False,1.9,0.0,5.0,4.5,V-Varen Nagasaki vs Vissel Kobe,Japan J-League,Japan,Reality Scanner V4
+193381869,2026-05-17,02:00,False,1.95,0.0,5.0,4.75,JEF Utd Chiba vs Kashima Antlers,Japan J-League,Japan,Reality Scanner V4
+193203810,2026-05-17,04:30,False,1.83,0.0,5.0,4.15,Gimhae FC 2008 vs Daegu FC,South Korea K League 2,South Korea,Reality Scanner V4
+193203821,2026-05-17,04:30,False,2.2,0.0,5.0,6.0,Seongnam FC vs Gyeongnam FC,South Korea K League 2,South Korea,Reality Scanner V4
+194639000,2026-05-17,08:00,False,1.83,0.0,5.0,4.15,FC Helsingor vs Skive,Denmark Division 2,Denmark,Reality Scanner V4
+194532477,2026-05-17,08:30,False,2.1,0.0,5.0,5.5,Sporting Club Delhi vs Inter Kashi FC,India Super League,India,Reality Scanner V4
+193320650,2026-05-17,09:00,False,1.7,0.0,5.0,3.5,Brommapojkarna vs Kalmar FF,Sweden Allsvenskan,Sweden,Reality Scanner V4
+194532855,2026-05-17,10:00,False,1.66,0.0,5.0,3.3,IBV Vestmannaeyjar vs Vikingur Reykjavik,Iceland Premier League,Iceland,Reality Scanner V4
+193320770,2026-05-17,10:00,False,1.66,0.0,5.0,3.3,Nordic United FC vs Falkenbergs FF,Sweden Superettan,Sweden,Reality Scanner V4
+194538984,2026-05-17,10:00,False,1.9,0.0,5.0,4.5,Central Espanol vs Defensor Sporting,Uruguay Torneo Intermedio,Uruguay,Reality Scanner V4
+193001592,2026-05-17,10:30,False,1.83,0.0,5.0,4.15,Elversberg vs SC Preussen Munster,Germany Bundesliga II,Germany,Reality Scanner V4
+192998811,2026-05-17,11:00,False,1.93,0.025,5.0,4.65,Everton vs Sunderland,England Premier League,England,Reality Scanner V4
+193331800,2026-05-17,11:00,False,2.0,0.0,5.0,5.0,FC Kuressaare vs JK Nomme Kalju,Estonia Meistriliiga,Estonia,Reality Scanner V4
+194490403,2026-05-17,11:00,False,1.83,0.0,5.0,4.15,FK Auda vs RFS,Latvia Virsliga,Latvia,Reality Scanner V4
+193320661,2026-05-17,11:30,False,1.75,0.0,5.0,3.75,Västerås SK FK vs AIK,Sweden Allsvenskan,Sweden,Reality Scanner V4
+194641343,2026-05-17,12:00,False,2.1,0.0,5.0,5.5,Viktoria Plzen vs FK Jablonec,Czechia First League,Czech Republic,Reality Scanner V4
+194589295,2026-05-17,12:30,False,2.0,0.0,5.0,5.0,MP vs Jippo,Finland Ykkosliiga,Finland,Reality Scanner V4
+193716913,2026-05-17,12:30,False,1.72,0.0,5.0,3.6,Olimpija Ljubljana vs NK Radomlje,Slovenia Prva Liga,Slovenia,Reality Scanner V4
+193331434,2026-05-17,13:30,False,1.75,0.0,5.0,3.75,Club Brugge vs Union Saint Gilloise,Belgium First Division A,Belgium,Reality Scanner V4
+193193646,2026-05-17,13:30,True,2.1,0.0,5.0,5.5,Huachipato vs Union La Calera,Chile Liga de Primera,Chile,Reality Scanner V4
+193754247,2026-05-17,13:30,False,1.8,0.0,5.0,4.0,AEK Athens vs Olympiacos,Greece Super League 1,Greece,Reality Scanner V4
+194091129,2026-05-17,13:30,True,1.9,0.0,5.0,4.5,FK Radnik Surdulica vs Crvena Zvezda,Serbia Super Liga,Serbia,Reality Scanner V4
+193719939,2026-05-17,13:45,True,2.1,0.0,5.0,5.5,Istra 1961 vs HNK Rijeka,Croatia HNL,Croatia,Reality Scanner V4
+193192712,2026-05-17,14:00,False,1.66,0.0,5.0,3.3,Atletico Ottawa vs HFX Wanderers FC,Canada Premier League,Canada,Reality Scanner V4
+194532871,2026-05-17,14:00,True,1.5,0.0,5.0,2.5,FH Hafnarfjordur vs KA Akureyri,Iceland Premier League,Iceland,Reality Scanner V4
+193332391,2026-05-17,14:00,False,1.8,0.0,5.0,4.0,Athletic Club vs Celta Vigo,Spain La Liga,Spain,Reality Scanner V4
+193332402,2026-05-17,14:00,False,2.2,0.0,5.0,6.0,Elche vs Getafe,Spain La Liga,Spain,Reality Scanner V4
+193332417,2026-05-17,14:00,False,1.75,0.0,5.0,3.75,Real Oviedo vs CD Alaves,Spain La Liga,Spain,Reality Scanner V4
+193332397,2026-05-17,14:00,False,2.0,0.0,5.0,5.0,Osasuna vs Espanyol,Spain La Liga,Spain,Reality Scanner V4
+193718072,2026-05-17,14:00,False,1.72,0.0,5.0,3.6,Fenerbahce vs Eyupspor,Türkiye Super Lig,Turkey,Reality Scanner V4
+194532878,2026-05-17,14:30,False,1.57,0.0,5.0,2.85,Keflavik vs Stjarnan,Iceland Premier League,Iceland,Reality Scanner V4
+194637813,2026-05-17,15:00,False,2.37,0.0,5.0,6.85,Club Atlético El Linqueño vs Gimnasia C. Uruguay,Argentina Torneo A,Argentina,Reality Scanner V4
+194577020,2026-05-17,15:00,False,1.9,0.0,5.0,4.5,Catanzaro vs Palermo,Italy Serie B,Italy,Reality Scanner V4
+194697246,2026-05-17,15:00,False,1.8,0.0,5.0,4.0,Potenza vs Ascoli,Italy Serie C Play-Offs,Italy,Reality Scanner V4
+194640392,2026-05-17,15:00,False,2.1,0.0,5.0,5.5,US Yacoub El Mansour vs MAS Fes,Morocco Cup,Morocco,Reality Scanner V4
+194538987,2026-05-17,15:00,False,2.2,0.0,5.0,6.0,Racing Club de Montevideo vs Cerro Largo,Uruguay Torneo Intermedio,Uruguay,Reality Scanner V4
+194532883,2026-05-17,15:15,True,1.3,0.0,5.0,1.5,KR Reykjavik vs Fram Reykjavik,Iceland Premier League,Iceland,Reality Scanner V4
+193336455,2026-05-17,15:15,False,1.66,0.0,5.0,3.3,Polonia Bytom vs Slask Wroclaw,Poland I Liga,Poland,Reality Scanner V4
+194371164,2026-05-17,16:00,False,2.2,0.0,5.0,6.0,Caxias vs Paysandu,Brazil Serie C,Brazil,Reality Scanner V4
+194639820,2026-05-17,16:00,False,2.75,0.0,5.0,8.75,Brasil de Pelotas vs Sao Jose RS,Brazil Serie D,Brazil,Reality Scanner V4
+194640997,2026-05-17,16:00,False,2.5,0.0,5.0,7.5,Cianorte vs FC Cascavel,Brazil Serie D,Brazil,Reality Scanner V4
+193003652,2026-05-17,16:15,False,2.0,0.0,5.0,5.0,Real Zaragoza vs Sporting Gijon,Spain Segunda,Spain,Reality Scanner V4
+194637836,2026-05-17,16:30,False,2.62,0.0,5.0,8.1,CA Sarmiento de la Banda vs Tucuman Central,Argentina Torneo A,Argentina,Reality Scanner V4
+194639826,2026-05-17,17:00,True,2.62,0.0,5.0,8.1,Sampaio Correa vs Parnahyba,Brazil Serie D,Brazil,Reality Scanner V4
+194371169,2026-05-17,18:00,True,2.37,0.0,5.0,6.85,Anapolis vs Barra SC,Brazil Serie C,Brazil,Reality Scanner V4
+194538994,2026-05-17,18:00,False,1.9,0.0,5.0,4.5,Albion FC vs Montevideo Wanderers,Uruguay Torneo Intermedio,Uruguay,Reality Scanner V4
+193710991,2026-05-17,18:30,False,1.95,0.0,5.0,4.75,Bragantino vs Vitoria,Brazil Serie A,Brazil,Reality Scanner V4
+193711526,2026-05-17,18:30,False,2.25,0.0,5.0,6.25,Criciuma vs Atletico GO,Brazil Serie B,Brazil,Reality Scanner V4
+193193652,2026-05-17,18:30,False,2.1,0.0,5.0,5.5,Colo Colo vs Nublense,Chile Liga de Primera,Chile,Reality Scanner V4
+194538187,2026-05-17,19:00,True,1.9,0.0,5.0,4.5,Portland Thorns (W) vs Angel City FC (W),USA NWSL Women,USA,Reality Scanner V4
+193192720,2026-05-17,22:00,False,1.83,0.0,5.0,4.15,Vancouver FC vs Cavalry FC,Canada Premier League,Canada,Reality Scanner V4

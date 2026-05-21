@@ -1,207 +1,549 @@
-﻿DATA;BTTS;IN LIVE?;Odd J;Odd M;Juice;EV;Stake;Lucro Max;Profit;Jogo;EV (R$);OBS;ROI;Match ID;Liga;Regiao;Horario;DATA_DISPLAY
-2026-04-24;Sim;S;2.17;2.25;0,00%;3,69%;1.0;1,25;1.25;Montevideo City Torque vs Boston River;R$ 0,04;;125.0;193284037;Uruguay Apertura;Uruguay;19:30;24/04/2026
-2026-04-24;Sim;S;2.36;2.75;0,00%;16,53%;1.0;1,75;1.75;Racing Club v Barracas Central;R$ 0,17;;175.0;192612583;Argentina Liga Profesional;Argentina;21:30;24/04/2026
-2026-04-25;Sim;;2.04;2.0;0,00%;-1,96%;1.0;1,00;-1.0;Jubilo Iwata vs FC Gifu;-R$ 0,02;;-100.0;193116534;Japan J2/J3 Centennial League;Japan;01:00;25/04/2026
-2026-04-25;Sim;;2.12;2.2;0,00%;3,77%;1.0;1,20;-1.0;Fagiano Okayama vs Avispa Fukuoka;R$ 0,04;;-100.0;192940712;Japan J-League;Japan;02:00;25/04/2026
-2026-04-25;Sim;;2.18;2.1;0,00%;-3,67%;1.0;1,10;-1.0;Guangxi Hengchen vs Nanjing City;-R$ 0,04;;-100.0;193451533;China Division 1;China;08:30;25/04/2026
-2026-04-25;Sim;;2.26;2.1;0,00%;-7,08%;1.0;1,10;-1.0;BG Pathum United vs Nakhon Ratchasima;-R$ 0,07;;-100.0;193377337;Thailand Premier League;Thailand;08:30;25/04/2026
-2026-04-25;Sim;;2.3;2.2;0,00%;-4,35%;1.0;1,20;-1.0;HNK Cibalia vs Bijelo Brdo;-R$ 0,04;;-100.0;193387188;Croatia 1.NL;Croatia;08:45;25/04/2026
-2026-04-25;Sim;;2.26;2.25;0,00%;-0,44%;1.0;1,25;1.25;CSKA Sofia vs Levski Sofia;R$ 0,00;;125.0;193190489;Bulgaria First League;Bulgaria;10:00;25/04/2026
-2026-04-25;Sim;S;2.15;2.2;0,00%;2,33%;1.0;1,20;-1.0;Parma vs Pisa;R$ 0,02;;-100.0;192613392;Italy Serie A;Italy;10:00;25/04/2026
-2026-04-25;Sim;S;2.11;2.2;0,00%;4,27%;1.0;1,20;-1.0;Virtus Entella vs Padova;R$ 0,04;;-100.0;192940673;Italy Serie B;Italy;10:00;25/04/2026
-2026-04-25;Sim;;2.28;2.2;0,00%;-3,51%;1.0;1,20;1.2;Amazulu vs Chippa United;-R$ 0,04;;120.0;193113492;South Africa Premier;South Africa;10:00;25/04/2026
-2026-04-25;Sim;;2.09;2.0;0,00%;-4,31%;1.0;1,00;1.0;Omonia Aradippou vs Krasava ENY Ypsonas;-R$ 0,04;;100.0;192941055;Cyprus Division 1;Cyprus;11:00;25/04/2026
-2026-04-25;Sim;;2.24;2.5;0,00%;11,61%;1.0;1,50;1.5;Eibar (W) vs Levante UD (W);R$ 0,12;;150.0;193445086;Spain Primera Women;Spain;11:00;25/04/2026
-2026-04-25;Sim;;1.98;2.2;0,00%;11,11%;1.0;1,20;1.2;NK Dubrava Zagreb vs NK Sesvete;R$ 0,11;;120.0;193398646;Croatia 1.NL;Croatia;12:00;25/04/2026
-2026-04-25;Sim;;2.14;2.1;0,00%;-1,87%;1.0;1,10;-1.0;FC Rukh Lviv vs Karpaty Lviv;-R$ 0,02;;-100.0;193376565;Ukraine Vyscha Liga;Ukraine;12:00;25/04/2026
-2026-04-25;Sim;S;2.14;2.2;0,00%;2,80%;1.0;1,20;1.2;Burgos v Deportivo La Coruna;R$ 0,03;;120.0;192612871;Spain Segunda;Spain;13:30;25/04/2026
-2026-04-25;Sim;;2.17;2.25;0,00%;3,69%;1.0;1,25;1.25;UTS Rabat vs OC Safi;R$ 0,04;;125.0;193445267;Morocco GNF 1;Morocco;14:00;25/04/2026
-2026-04-25;Sim;;2.07;2.25;0,00%;8,70%;1.0;1,25;-1.0;Gotham FC (W) vs Bay FC (W);R$ 0,09;;-100.0;193438024;USA NWSL Women;USA;14:00;25/04/2026
-2026-04-25;Sim;;2.06;2.1;0,00%;1,94%;1.0;1,10;1.1;CA Brown de Adrogue vs Villa San Carlos;R$ 0,02;;110.00000000000001;193439921;Argentina Primera B Metropolitana;Argentina;15:00;25/04/2026
-2026-04-25;Sim;;2.27;2.37;0,00%;4,41%;1.0;1,37;-1.0;CA San Telmo vs All Boys;R$ 0,04;;-100.0;192937273;Argentina Nacional B;Argentina;15:30;25/04/2026
-2026-04-25;Sim;;2.18;2.25;0,00%;3,21%;1.0;1,25;-1.0;CSD Flandria vs Sportivo Italiano;R$ 0,03;;-100.0;193449965;Argentina Primera B Metropolitana;Argentina;15:30;25/04/2026
-2026-04-25;Sim;;2.06;2.25;0,00%;9,22%;1.0;1,25;1.25;CA Lugano vs Club Leandro N. Alem;R$ 0,09;;125.0;193496111;Argentina Primera C Metropolitana;Argentina;15:30;25/04/2026
-2026-04-25;Sim;;2.07;2.1;0,00%;1,45%;1.0;1,10;-1.0;ABECAT Ouvidorense vs CRAC;R$ 0,01;;-100.0;193441307;Brazil Serie D;Brazil;16:00;25/04/2026
-2026-04-25;Sim;;2.09;2.1;0,00%;0,48%;1.0;1,10;-1.0;Fluminense PI vs CEFAT Tirol;R$ 0,00;;-100.0;193494786;Brazil Serie D;Brazil;16:00;25/04/2026
-2026-04-25;Sim;;2.3;2.37;0,00%;3,04%;1.0;1,37;-1.0;Iguatu vs Maracanã;R$ 0,03;;-100.0;193494782;Brazil Serie D;Brazil;16:00;25/04/2026
-2026-04-25;Sim;;2.19;2.25;0,00%;2,74%;1.0;1,25;1.25;Manauara vs Nacional AM;R$ 0,03;;125.0;193441339;Brazil Serie D;Brazil;16:30;25/04/2026
-2026-04-25;Sim;;2.04;2.2;0,00%;7,84%;1.0;1,20;1.2;Itabaiana vs Paysandu;R$ 0,08;;120.0;193386729;Brazil Serie C;Brazil;17:00;25/04/2026
-2026-04-25;Sim;;2.02;2.2;0,00%;8,91%;1.0;1,20;1.2;Sergipe vs Lagarto;R$ 0,09;;120.0;193447813;Brazil Serie D;Brazil;17:00;25/04/2026
-2026-04-25;Sim;;1.89;2.0;0,00%;5,82%;1.0;1,00;1.0;Treze vs Serra Branca;R$ 0,06;;100.0;193494814;Brazil Serie D;Brazil;17:00;25/04/2026
-2026-04-25;Sim;;2.28;2.37;0,00%;3,95%;1.0;1,37;-1.0;San Martin SJ vs Quilmes;R$ 0,04;;-100.0;192937313;Argentina Nacional B;Argentina;17:30;25/04/2026
-2026-04-25;Sim;;2.02;2.2;0,00%;8,91%;1.0;1,20;-1.0;Defensores Puerto Vilelas vs Juventud Antoniana;R$ 0,09;;-100.0;193503200;Argentina Torneo A;Argentina;17:30;25/04/2026
-2026-04-25;Sim;;1.94;2.1;0,00%;8,25%;1.0;1,10;-1.0;Comerciantes Unidos vs Sporting Cristal;R$ 0,08;;-100.0;192943469;Peru Liga 1;Peru;17:30;25/04/2026
-2026-04-25;Sim;;2.06;2.25;0,00%;9,22%;1.0;1,25;-1.0;Atletico Rafaela vs Gimnasia Jujuy;R$ 0,09;;-100.0;192937279;Argentina Nacional B;Argentina;18:00;25/04/2026
-2026-04-25;Sim;;2.29;2.62;0,00%;14,41%;1.0;1,62;1.62;Luverdense vs EC Primavera MT;R$ 0,14;;162.0;193494808;Brazil Serie D;Brazil;18:00;25/04/2026
-2026-04-25;Sim;;2.17;2.2;0,00%;1,38%;1.0;1,20;-1.0;Manaus vs Sao Raimundo RR;R$ 0,01;;-100.0;193441342;Brazil Serie D;Brazil;18:00;25/04/2026
-2026-04-25;Sim;;2.17;2.2;0,00%;1,38%;1.0;1,20;-1.0;Sao Jose RS vs Brasil de Pelotas;R$ 0,01;;-100.0;193487517;Brazil Serie D;Brazil;18:00;25/04/2026
-2026-04-25;Sim;;2.26;3.0;0,00%;32,74%;1.0;2,00;2.0;Botafogo PB vs Floresta;R$ 0,33;;200.0;193386736;Brazil Serie C;Brazil;19:30;25/04/2026
-2026-04-26;Sim;;2.2;2.2;0,00%;0,00%;1.0;1,20;-1.0;Vanraure Hachinohe vs Blaublitz Akita;R$ 0,00;;-100.0;193116605;Japan J2/J3 Centennial League;Japan;01:00;26/04/2026
-2026-04-26;Sim;;1.89;2.0;0,00%;5,82%;1.0;1,00;1.0;Kochi United vs Tokushima Vortis;R$ 0,06;;100.0;193116612;Japan J2/J3 Centennial League;Japan;02:00;26/04/2026
-2026-04-26;Sim;;1.75;1.9;0,00%;8,57%;1.0;0,90;0.9;Deportivo La Coruna (W) vs Alhama CF (W);R$ 0,09;;90.0;193544767;Spain Primera Women;Spain;07:00;26/04/2026
-2026-04-26;Sim;;2.17;2.1;0,00%;-3,23%;1.0;1,10;-1.0;NK Croatia Zmijavci vs NK Rudes;-R$ 0,03;;-100.0;193440605;Croatia 1.NL;Croatia;08:15;26/04/2026
-2026-04-26;Sim;;2.34;2.37;0,00%;1,28%;1.0;1,37;1.37;LNZ Cherkasy vs FC Metalist 1925;R$ 0,01;;137.0;193376573;Ukraine Vyscha Liga;Ukraine;09:30;26/04/2026
-2026-04-26;Sim;;2.46;2.5;0,00%;1,63%;1.0;1,50;-1.0;Polokwane City vs Stellenbosch FC;R$ 0,02;;-100.0;193113525;South Africa Premier;South Africa;10:00;26/04/2026
-2026-04-26;Sim;;2.16;2.37;0,00%;9,72%;1.0;1,37;1.37;Orlando Pirates vs Kaizer Chiefs;R$ 0,10;;137.0;193113517;South Africa Premier;South Africa;10:50;26/04/2026
-2026-04-26;Sim;;2.07;2.1;0,00%;1,45%;1.0;1,10;1.1;Ourense CF vs Zamora CF;R$ 0,01;;110.00000000000001;193108439;Spain Primera Division RFEF Group 1;Spain;11:00;26/04/2026
-2026-04-26;Sim;;2.06;2.2;0,00%;6,80%;1.0;1,20;-1.0;SD Tarazona vs Juventud Torremolinos CF;R$ 0,07;;-100.0;193109479;Spain Primera Division RFEF Group 2;Spain;11:00;26/04/2026
-2026-04-26;Sim;;2.37;2.62;0,00%;10,55%;1.0;1,62;1.62;Renaissance Zemamra vs MAS Fes;R$ 0,11;;162.0;193504186;Morocco GNF 1;Morocco;12:00;26/04/2026
-2026-04-26;Sim;;2.24;2.5;0,00%;11,61%;1.0;1,50;1.5;Deportivo Armenio vs San Martin De Burzaco;R$ 0,12;;150.0;193438204;Argentina Primera B Metropolitana;Argentina;13:00;26/04/2026
-2026-04-26;Sim;;2.07;2.1;0,00%;1,45%;1.0;1,10;-1.0;Samail vs Al Khaburah;R$ 0,01;;-100.0;193504997;Oman League;Oman;13:25;26/04/2026
-2026-04-26;Sim;;2.19;2.2;0,00%;0,46%;1.0;1,20;-1.0;Larissa vs Panserraikos;R$ 0,00;;-100.0;192941147;Greece Super League 1;Greece;14:00;26/04/2026
-2026-04-26;Sim;;2.33;2.37;0,00%;1,72%;1.0;1,37;1.37;Estrela Amadora vs FC Porto;R$ 0,02;;137.0;192943772;Portugal Primeira Liga;Portugal;14:00;26/04/2026
-2026-04-26;Sim;;2.13;2.1;0,00%;-1,41%;1.0;1,10;1.1;Santa Clara vs Braga;-R$ 0,01;;110.00000000000001;192943785;Portugal Primeira Liga;Portugal;14:00;26/04/2026
-2026-04-26;Sim;;2.14;2.2;0,00%;2,80%;1.0;1,20;-1.0;Guarany de Bage vs Sao Luiz;R$ 0,03;;-100.0;193436006;Brazil Serie D;Brazil;15:00;26/04/2026
-2026-04-26;Sim;;2.06;2.2;0,00%;6,80%;1.0;1,20;-1.0;Juazeirense vs ASA;R$ 0,07;;-100.0;193436015;Brazil Serie D;Brazil;15:30;26/04/2026
-2026-04-26;Sim;;1.77;1.9;0,00%;7,34%;1.0;0,90;0.9;Racing Ferrol vs Real Aviles CF;R$ 0,07;;90.0;193108456;Spain Primera Division RFEF Group 1;Spain;15:30;26/04/2026
-2026-04-26;Sim;;2.23;2.25;0,00%;0,90%;1.0;1,25;1.25;Ceara vs Vila Nova;R$ 0,01;;125.0;193005585;Brazil Serie B;Brazil;18:00;26/04/2026
-2026-04-26;Sim;;2.15;2.2;0,00%;2,33%;1.0;1,20;1.2;Athletico Paranaense vs Vitoria;R$ 0,02;;120.0;192938360;Brazil Serie A;Brazil;18:30;26/04/2026
-2026-04-26;Sim;;1.83;1.9;0,00%;3,83%;1.0;0,90;0.9;Ituano vs Maringa;R$ 0,04;;90.0;193438850;Brazil Serie C;Brazil;19:00;26/04/2026
-2026-04-26;Sim;;2.13;2.25;0,00%;5,63%;1.0;1,25;-1.0;Internacional de Bogota vs Boyaca Chico;R$ 0,06;;-100.0;192608408;Colombia Primera A;Colombia;22:20;26/04/2026
-2026-04-27;Sim;;2.12;2.5;0,00%;17,92%;1.0;1,50;1.5;Bahla vs Oman FC;R$ 0,18;;150.0;193545567;Oman League;Oman;10:50;27/04/2026
-2026-04-27;Sim;;2.24;2.5;0,00%;11,61%;1.0;1,50;-1.0;El Zamalek vs Enppi;R$ 0,12;;-100.0;193548679;Egypt Division 1;Egypt;11:00;27/04/2026
-2026-04-27;Sim;;2.11;2.2;0,00%;4,27%;1.0;1,20;-1.0;Smouha vs El Masry;R$ 0,04;;-100.0;193548673;Egypt Division 1;Egypt;11:00;27/04/2026
-2026-04-27;Sim;;2.34;2.37;0,00%;1,28%;1.0;1,37;1.37;Caxias vs Ypiranga RS;R$ 0,01;;137.0;193487463;Brazil Serie C;Brazil;20:00;27/04/2026
-2026-04-28;Sim;;2.28;3.0;0,00%;31,58%;1.0;2,00;2.0;Al Moqawloon Al Arab vs Ghazl El Mahallah;R$ 0,32;;200.0;193655707;Egypt Division 1;Egypt;14:00;28/04/2026
-2026-04-28;Sim;;2.28;2.62;0,00%;14,91%;1.0;1,62;1.62;MC Alger vs Olympique Akbou;R$ 0,15;;162.0;193671236;Algeria Division 1;Algeria;16:00;28/04/2026
-2026-04-28;Sim;;2.72;2.75;0,00%;1,10%;1.0;1,75;-1.0;Lanus vs LDU Quito;R$ 0,01;;-100.0;192731524;Copa Libertadores;International (South America);19:00;28/04/2026
-2026-04-28;Sim;;2.05;2.25;0,00%;9,76%;1.0;1,25;1.25;San Lorenzo vs Santos;R$ 0,10;;125.0;192951057;Copa Sudamericana;International (South America);19:00;28/04/2026
-2026-04-28;Sim;;2.08;2.1;0,00%;0,96%;1.0;1,10;-1.0;UCV vs Rosario Central;R$ 0,01;;-100.0;192731552;Copa Libertadores;International (South America);21:00;28/04/2026
-2026-04-28;Sim;;2.15;2.25;0,00%;4,65%;1.0;1,25;1.25;Barracas Central vs Audax Italiano;R$ 0,05;;125.0;192951062;Copa Sudamericana;International (South America);21:00;28/04/2026
-2026-04-28;Sim;;2.08;2.25;0,00%;8,17%;1.0;1,25;-1.0;Deportes Tolima vs Coquimbo Unido;R$ 0,08;;-100.0;192731571;Copa Libertadores;International (South America);23:00;28/04/2026
-2026-04-29;Sim;;1.95;2.0;0,00%;2,56%;1.0;1,00;1.0;Avispa Fukuoka vs Sanfrecce Hiroshima;R$ 0,03;;100.0;192940742;Japan J-League;Japan;02:00;29/04/2026
-2026-04-29;Sim;;1.95;2.2;0,00%;12,82%;1.0;1,20;1.2;Yokohama FC vs Vanraure Hachinohe;R$ 0,13;;120.0;193118194;Japan J2/J3 Centennial League;Japan;02:00;29/04/2026
-2026-04-29;Sim;;1.84;1.95;0,00%;5,98%;1.0;0,95;0.95;Nagoya Grampus vs Fagiano Okayama;R$ 0,06;;95.0;192940752;Japan J-League;Japan;03:00;29/04/2026
-2026-04-29;Sim;;2.23;2.62;0,00%;17,49%;1.0;1,62;-1.0;FUS Rabat vs CODM Meknes;R$ 0,17;;-100.0;193662069;Morocco GNF 1;Morocco;12:00;29/04/2026
-2026-04-29;Sim;;2.18;2.2;0,00%;0,92%;1.0;1,20;-1.0;Maccabi Bnei Raina vs Hapoel Jerusalem FC;R$ 0,01;;-100.0;193715387;Israel Premier League;Israel;13:00;29/04/2026
-2026-04-29;Sim;;2.22;2.37;0,00%;6,76%;1.0;1,37;1.37;JS Kabylie vs MC Oran;R$ 0,07;;137.0;193703559;Algeria Division 1;Algeria;13:45;29/04/2026
-2026-04-29;Sim;;2.6;2.75;0,00%;5,77%;1.0;1,75;-1.0;Modern Sport FC vs Talaea El Geish;R$ 0,06;;-100.0;193709686;Egypt Division 1;Egypt;14:00;29/04/2026
-2026-04-29;Sim;;2.06;2.5;0,00%;21,36%;1.0;1,50;-1.0;MAS Fes vs HUSA Agadir;R$ 0,21;;-100.0;193662104;Morocco GNF 1;Morocco;16:00;29/04/2026
-2026-04-29;Sim;;2.38;2.62;0,00%;10,08%;1.0;1,62;1.62;Platense vs Independiente Santa Fe;R$ 0,10;;162.0;192731578;Copa Libertadores;International (South America);19:00;29/04/2026
-2026-04-29;Sim;;2.09;2.2;0,00%;5,26%;1.0;1,20;1.2;Caracas vs Racing Club;R$ 0,05;;120.0;192951073;Copa Sudamericana;International (South America);19:00;29/04/2026
-2026-04-29;Sim;;2.1;2.1;0,00%;0,00%;1.0;1,10;1.1;Chapecoense vs America MG;R$ 0,00;;110.00000000000001;193708327;Brazil Copa Sul-Sudeste;Brazil;19:30;29/04/2026
-2026-04-29;Sim;;2.17;2.2;0,00%;1,38%;1.0;1,20;1.2;Novorizontino vs Avai;R$ 0,01;;120.0;193708329;Brazil Copa Sul-Sudeste;Brazil;21:15;29/04/2026
-2026-04-29;Sim;;2.26;2.5;0,00%;10,62%;1.0;1,50;1.5;Botafogo PB vs Fluminense PI;R$ 0,11;;150.0;193711077;Brazil Copa Nordeste;Brazil;21:30;29/04/2026
-2026-04-29;Sim;;2.17;2.25;0,00%;3,69%;1.0;1,25;1.25;Juazeirense vs ASA;R$ 0,04;;125.0;193711120;Brazil Copa Nordeste;Brazil;21:30;29/04/2026
-2026-04-29;Sim;;2.17;2.25;0,00%;3,69%;1.0;1,25;1.25;Maranhao vs Ceara;R$ 0,04;;125.0;193711113;Brazil Copa Nordeste;Brazil;21:30;29/04/2026
-2026-04-29;Sim;;1.94;2.05;0,00%;5,67%;1.0;1,05;1.05;Universitario de Deportes vs Nacional De Football;R$ 0,06;;105.0;192731589;Copa Libertadores;International (South America);23:00;29/04/2026
-2026-04-30;Sim;;2.19;2.5;0,00%;14,16%;1.0;1,50;1.5;Difaa El Jadida vs Renaissance Zemamra;R$ 0,14;;150.0;193724582;Morocco GNF 1;Morocco;12:00;30/04/2026
-2026-04-30;Sim;;1.95;1.96;0,00%;0,51%;1.0;0,96;0.96;Braga vs SC Freiburg;R$ 0,01;;96.0;193126975;UEFA Europa League;International (Europe);16:00;30/04/2026
-2026-04-30;Sim;;1.8;1.95;0,00%;8,33%;1.0;0,95;-1.0;Bolivar vs Fluminense;R$ 0,08;;-100.0;192731591;Copa Libertadores;International (South America);19:00;30/04/2026
-2026-04-30;Sim;;1.81;2.0;0,00%;10,50%;1.0;1,00;-1.0;Carabobo vs Blooming;R$ 0,10;;-100.0;192951100;Copa Sudamericana;International (South America);19:00;30/04/2026
-2026-04-30;Sim;;2.59;2.75;0,00%;6,18%;1.0;1,75;-1.0;Corinthians vs Penarol;R$ 0,06;;-100.0;192731597;Copa Libertadores;International (South America);21:00;30/04/2026
-2026-04-30;Sim;;2.28;2.37;0,00%;3,95%;1.0;1,37;-1.0;Alianza Atletico vs Macara;R$ 0,04;;-100.0;192951152;Copa Sudamericana;International (South America);23:00;30/04/2026
-2026-05-01;Sim;S;1.86;2.2;0,00%;18,28%;1.0;1,20;-1.0;FK Csikszereda Miercurea Ciuc vs FCSB;R$ 0,18;;-100.0;193330016;Romania Liga I;Romania;14:30;01/05/2026
-2026-05-01;Sim;;2.1;2.05;0,00%;-2,38%;1.0;1,05;1.05;Pisa vs Lecce;-R$ 0,02;;105.0;193004668;Italy Serie A;Italy;15:45;01/05/2026
-2026-05-01;Sim;;2.07;2.1;0,00%;1,45%;1.0;1,10;-1.0;Cork City vs Cobh Ramblers;R$ 0,01;;-100.0;193770858;Republic of Ireland First Division;Ireland;15:45;01/05/2026
-2026-05-01;Sim;;2.0;2.0;0,00%;0,00%;1.0;1,00;-1.0;Libertad Asuncion vs Sportivo San Lorenzo;R$ 0,00;;-100.0;193394406;Paraguay Division Profesional;Paraguay;20:00;01/05/2026
-2026-05-02;Sim;;1.74;1.9;0,00%;9,20%;1.0;0,90;0.9;Yokohama F-Marinos vs Mito Hollyhock;R$ 0,09;;90.0;192940795;Japan J-League;Japan;02:00;02/05/2026
-2026-05-02;Sim;;2.35;2.2;0,00%;-6,38%;1.0;1,20;1.2;Sagan Tosu vs Tegevajaro Miyazaki;-R$ 0,06;;120.0;193200084;Japan J2/J3 Centennial League;Japan;02:00;02/05/2026
-2026-05-02;Sim;;2.18;2.1;0,00%;-3,67%;1.0;1,10;1.1;Vegalta Sendai vs Blaublitz Akita;-R$ 0,04;;110.00000000000001;193200094;Japan J2/J3 Centennial League;Japan;02:00;02/05/2026
-2026-05-02;Sim;;1.75;1.83;0,00%;4,57%;1.0;0,83;0.83;Yokohama FC vs Sagamihara;R$ 0,05;;83.0;193200096;Japan J2/J3 Centennial League;Japan;02:00;02/05/2026
-2026-05-02;Sim;;1.83;1.83;0,00%;0,00%;1.0;0,83;0.83;Sutherland Sharks vs Marconi Stallions;R$ 0,00;;83.0;193417521;Australia New South Wales Premier League;Australia;03:00;02/05/2026
-2026-05-02;Sim;;2.03;2.0;0,00%;-1,48%;1.0;1,00;1.0;Yanbian Longding vs Wuxi Wugo;-R$ 0,01;;100.0;193771670;China Division 1;China;04:00;02/05/2026
-2026-05-02;Sim;;1.95;1.9;0,00%;-2,56%;1.0;0,90;-1.0;Nagano Parceiro vs Fujieda MYFC;-R$ 0,03;;-100.0;193200100;Japan J2/J3 Centennial League;Japan;06:00;02/05/2026
-2026-05-02;Sim;;2.16;2.1;0,00%;-2,78%;1.0;1,10;-1.0;FK Riteriai vs FK Transinvest;-R$ 0,03;;-100.0;193744314;Lithuania A Lyga;Lithuania;08:15;02/05/2026
-2026-05-02;Sim;;2.01;1.9;0,00%;-5,47%;1.0;0,90;0.9;Sirius vs Kalmar FF;-R$ 0,05;;90.0;192946937;Sweden Allsvenskan;Sweden;10:00;02/05/2026
-2026-05-02;Sim;;1.86;1.83;0,00%;-1,61%;1.0;0,83;0.83;HNK Gorica vs Dinamo Zagreb;-R$ 0,02;;83.0;193340866;Croatia HNL;Croatia;11:00;02/05/2026
-2026-05-02;Sim;;2.28;2.25;0,00%;-1,32%;1.0;1,25;-1.0;Stevenage vs Wigan;-R$ 0,01;;-100.0;192500310;England League 1;England;11:00;02/05/2026
-2026-05-02;Sim;;2.14;2.1;0,00%;-1,87%;1.0;1,10;1.1;Sohar Club vs Bahla;-R$ 0,02;;110.00000000000001;193782404;Oman League;Oman;11:00;02/05/2026
-2026-05-02;Sim;;1.78;1.8;0,00%;1,12%;1.0;0,80;-1.0;Valencia vs Atletico Madrid;R$ 0,01;;-100.0;192946792;Spain La Liga;Spain;11:15;02/05/2026
-2026-05-02;Sim;;2.71;2.75;0,00%;1,48%;1.0;1,75;1.75;Gimnastic vs Sevilla Atletico;R$ 0,01;;175.0;193109778;Spain Primera Division RFEF Group 2;Spain;11:15;02/05/2026
-2026-05-02;Sim;S;2.08;2.2;0,00%;5,77%;1.0;1,20;1.2;Cultural Leonesa vs Cadiz;R$ 0,06;;120.0;192946427;Spain Segunda;Spain;11:15;02/05/2026
-2026-05-02;Sim;;2.17;2.1;0,00%;-3,23%;1.0;1,10;1.1;Panserraikos vs Larissa;-R$ 0,03;;110.00000000000001;193199371;Greece Super League 1;Greece;11:30;02/05/2026
-2026-05-02;Sim;;2.01;1.95;0,00%;-2,99%;1.0;0,95;0.95;FC Arouca vs Santa Clara;-R$ 0,03;;95.0;192943796;Portugal Primeira Liga;Portugal;11:30;02/05/2026
-2026-05-02;Sim;;2.01;2.05;0,00%;1,99%;1.0;1,05;-1.0;Grazer AK vs WSG Swarovski Tirol;R$ 0,02;;-100.0;193189523;Austria Bundesliga;Austria;12:00;02/05/2026
-2026-05-02;Sim;;2.11;2.1;0,00%;-0,47%;1.0;1,10;-1.0;Orijent vs NK Croatia Zmijavci;R$ 0,00;;-100.0;193775496;Croatia 1.NL;Croatia;12:00;02/05/2026
-2026-05-02;Sim;;2.11;2.1;0,00%;-0,47%;1.0;1,10;-1.0;Orijent vs NK Croatia Zmijavci;R$ 0,00;;-100.0;193775496;Croatia 1.NL;Croatia;12:00;02/05/2026
-2026-05-02;Sim;;1.9;1.8;0,00%;-5,26%;1.0;0,80;0.8;GIF Sundsvall vs IK Oddevold;-R$ 0,05;;80.0;192947584;Sweden Superettan;Sweden;12:00;02/05/2026
-2026-05-02;Sim;;2.04;2.1;0,00%;2,94%;1.0;1,10;-1.0;Karpaty Lviv vs LNZ Cherkasy;R$ 0,03;;-100.0;193758226;Ukraine Vyscha Liga;Ukraine;12:00;02/05/2026
-2026-05-02;Sim;;1.82;1.8;0,00%;-1,10%;1.0;0,80;0.8;Audax Italiano vs Union La Calera;-R$ 0,01;;80.0;193826426;Chile Copa de la Liga;Chile;13:30;02/05/2026
-2026-05-02;Sim;;1.79;1.8;0,00%;0,56%;1.0;0,80;-1.0;Betis Deportivo vs Antequera;R$ 0,01;;-100.0;193109785;Spain Primera Division RFEF Group 2;Spain;13:30;02/05/2026
-2026-05-02;Sim;;1.97;2.0;0,00%;1,52%;1.0;1,00;-1.0;America RJ vs Pouso Alegre;R$ 0,02;;-100.0;193773184;Brazil Serie D;Brazil;15:00;02/05/2026
-2026-05-02;Sim;;2.53;2.62;0,00%;3,56%;1.0;1,62;1.62;CA Estudiantes Caseros vs CA San Telmo;R$ 0,04;;162.0;193186971;Argentina Nacional B;Argentina;15:30;02/05/2026
-2026-05-02;Sim;;2.54;2.62;0,00%;3,15%;1.0;1,62;-1.0;Deportivo Camioneros vs CSD Flandria;R$ 0,03;;-100.0;193773078;Argentina Primera B Metropolitana;Argentina;15:30;02/05/2026
-2026-05-02;Sim;;2.18;2.5;0,00%;14,68%;1.0;1,50;1.5;Real Pilar vs Argentino Merlo;R$ 0,15;;150.0;193814955;Argentina Primera B Metropolitana;Argentina;15:30;02/05/2026
-2026-05-02;Sim;;2.19;2.75;0,00%;25,57%;1.0;1,75;-1.0;Sportivo Italiano vs Deportivo Armenio;R$ 0,26;;-100.0;193814951;Argentina Primera B Metropolitana;Argentina;15:30;02/05/2026
-2026-05-02;Sim;;2.6;2.75;0,00%;5,77%;1.0;1,75;-1.0;Central Cordoba Rosario vs Fenix;R$ 0,06;;-100.0;193820535;Argentina Primera C Metropolitana;Argentina;15:30;02/05/2026
-2026-05-02;Sim;;2.15;2.25;0,00%;4,65%;1.0;1,25;-1.0;Deportivo Paraguayo vs Defensores de Cambaceres;R$ 0,05;;-100.0;193820490;Argentina Primera C Metropolitana;Argentina;15:30;02/05/2026
-2026-05-02;Sim;;2.37;2.5;0,00%;5,49%;1.0;1,50;-1.0;Independiente Chivilcoy vs Sportivo Belgrano;R$ 0,05;;-100.0;193828067;Argentina Torneo A;Argentina;15:30;02/05/2026
-2026-05-02;Sim;;1.89;1.9;0,00%;0,53%;1.0;0,90;0.9;Botafogo vs Remo;R$ 0,01;;90.0;193191377;Brazil Serie A;Brazil;16:00;02/05/2026
-2026-05-02;Sim;;2.05;2.1;0,00%;2,44%;1.0;1,10;-1.0;Agua Santa vs Portuguesa RJ;R$ 0,02;;-100.0;193773187;Brazil Serie D;Brazil;16:00;02/05/2026
-2026-05-02;Sim;;2.64;2.62;0,00%;-0,76%;1.0;1,62;-1.0;CODM Meknes vs MAS Fes;-R$ 0,01;;-100.0;193830060;Morocco GNF 1;Morocco;16:00;02/05/2026
-2026-05-02;Sim;;1.85;1.83;0,00%;-1,08%;1.0;0,83;-1.0;Real Madrid Castilla vs Unionistas de Salamanca CF;-R$ 0,01;;-100.0;193108874;Spain Primera Division RFEF Group 1;Spain;16:00;02/05/2026
-2026-05-02;Sim;;1.9;1.91;0,00%;0,53%;1.0;0,91;0.91;Eibar vs Malaga;R$ 0,01;;91.0;192946435;Spain Segunda;Spain;16:00;02/05/2026
-2026-05-02;Sim;;2.12;2.5;0,00%;17,92%;1.0;1,50;-1.0;Brasil de Pelotas vs Marcilio Dias;R$ 0,18;;-100.0;193774287;Brazil Serie D;Brazil;18:00;02/05/2026
-2026-05-02;Sim;;2.11;2.1;0,00%;-0,47%;1.0;1,10;-1.0;Noroeste vs Marica;R$ 0,00;;-100.0;193774282;Brazil Serie D;Brazil;18:00;02/05/2026
-2026-05-02;Sim;;2.13;2.2;0,00%;3,29%;1.0;1,20;1.2;Goiatuba vs Uniao Rondonopolis;R$ 0,03;;120.0;193796720;Brazil Serie D;Brazil;18:30;02/05/2026
-2026-05-02;Sim;;2.02;2.0;0,00%;-0,99%;1.0;1,00;-1.0;Liverpool Montevideo vs Danubio;-R$ 0,01;;-100.0;193332835;Uruguay Apertura;Uruguay;18:30;02/05/2026
-2026-05-02;Sim;;2.03;2.2;0,00%;8,37%;1.0;1,20;1.2;San Lorenzo vs Independiente;R$ 0,08;;120.0;193067329;Argentina Liga Profesional;Argentina;18:45;02/05/2026
-2026-05-02;Sim;;2.14;2.2;0,00%;2,80%;1.0;1,20;-1.0;Confianca vs Inter de Limeira;R$ 0,03;;-100.0;193772914;Brazil Serie C;Brazil;19:00;02/05/2026
-2026-05-02;Sim;;1.95;2.0;0,00%;2,56%;1.0;1,00;1.0;North Carolina Courage (W) vs Kansas City Current (W);R$ 0,03;;100.0;193804191;USA NWSL Women;USA;19:30;02/05/2026
-2026-05-02;Sim;;2.19;2.25;0,00%;2,74%;1.0;1,25;-1.0;Deportivo Merlo vs Argentino Quilmes;R$ 0,03;;-100.0;193828985;Argentina Primera B Metropolitana;Argentina;20:00;02/05/2026
-2026-05-02;Sim;;2.23;2.2;0,00%;-1,35%;1.0;1,20;1.2;Fortaleza vs Goias;-R$ 0,01;;120.0;193192157;Brazil Serie B;Brazil;20:30;02/05/2026
-2026-05-03;Sim;;2.11;2.0;0,00%;-5,21%;1.0;1,00;-1.0;Matsumoto Y FC vs Ventforet Kofu;-R$ 0,05;;-100.0;193832305;Japan J2/J3 Centennial League;Japan;01:00;03/05/2026
-2026-05-03;Sim;;1.71;1.83;0,00%;7,02%;1.0;0,83;-1.0;Vanraure Hachinohe vs Thespa Gunma;R$ 0,07;;-100.0;193200102;Japan J2/J3 Centennial League;Japan;01:00;03/05/2026
-2026-05-03;Sim;;1.75;1.8;0,00%;2,86%;1.0;0,80;-1.0;Daegu FC vs Gyeongnam FC;R$ 0,03;;-100.0;193202390;South Korea K League 2;South Korea;02:00;03/05/2026
-2026-05-03;Sim;;1.92;1.9;0,00%;-1,04%;1.0;0,90;0.9;Seoul E-Land FC vs Gimpo FC;-R$ 0,01;;90.0;193202396;South Korea K League 2;South Korea;02:00;03/05/2026
-2026-05-03;Sim;;1.78;1.83;0,00%;2,81%;1.0;0,83;-1.0;Austria Lustenau vs SW Bregenz;R$ 0,03;;-100.0;193189756;Austria 2. Liga;Austria;05:30;03/05/2026
-2026-05-03;Sim;;1.74;1.8;0,00%;3,45%;1.0;0,80;0.8;Portimonense vs Chaves;R$ 0,03;;80.0;193755285;Portugal Segunda Liga;Portugal;07:00;03/05/2026
-2026-05-03;Sim;;1.98;1.95;0,00%;-1,52%;1.0;0,95;-1.0;Bologna vs Cagliari;-R$ 0,02;;-100.0;193004653;Italy Serie A;Italy;07:30;03/05/2026
-2026-05-03;Sim;;1.95;1.9;0,00%;-2,56%;1.0;0,90;0.9;Ningbo Professional FC vs Changchun Yatai;-R$ 0,03;;90.0;193881649;China Division 1;China;08:00;03/05/2026
-2026-05-03;Sim;;1.77;1.8;0,00%;1,69%;1.0;0,80;-1.0;Randers FC vs Vejle;R$ 0,02;;-100.0;193194989;Denmark Superligaen;Denmark;09:00;03/05/2026
-2026-05-03;Sim;;1.89;1.9;0,00%;0,53%;1.0;0,90;-1.0;SGS Essen (W) vs Bayer Leverkusen (W);R$ 0,01;;-100.0;193880998;Germany Bundesliga Women;Germany;09:00;03/05/2026
-2026-05-03;Sim;;2.09;1.95;0,00%;-6,70%;1.0;0,95;-1.0;Zaglebie Lubin vs Cracovia Krakow;-R$ 0,07;;-100.0;192785626;Poland Ekstraklasa;Poland;09:45;03/05/2026
-2026-05-03;Sim;;2.12;2.1;0,00%;-0,94%;1.0;1,10;-1.0;Riga FC vs FK Liepaja;-R$ 0,01;;-100.0;193940431;Latvia Virsliga;Latvia;10:00;03/05/2026
-2026-05-03;Sim;;1.86;1.8;0,00%;-3,23%;1.0;0,80;0.8;St Pauli vs Mainz;-R$ 0,03;;80.0;192932650;Germany Bundesliga I;Germany;10:30;03/05/2026
-2026-05-03;Sim;S;1.96;1.95;0,00%;-0,51%;1.0;0,95;-1.0;Antwerp vs Standard Liege;-R$ 0,01;;-100.0;193190238;Belgium First Division A;Belgium;11:00;03/05/2026
-2026-05-03;Sim;S;1.98;2.1;0,00%;6,06%;1.0;1,10;-1.0;Apoel Nicosia vs AEK Larnaca;R$ 0,06;;-100.0;193383491;Cyprus Division 1;Cyprus;11:00;03/05/2026
-2026-05-03;Sim;;1.84;2.0;0,00%;8,70%;1.0;1,00;-1.0;Merida vs Lugo;R$ 0,09;;-100.0;193108892;Spain Primera Division RFEF Group 1;Spain;11:00;03/05/2026
-2026-05-03;Sim;S;1.91;2.1;0,00%;9,95%;1.0;1,10;1.1;Assyriska Föreningen vs FC Järfälla;R$ 0,10;;110.00000000000001;193756207;Sweden 1.div Norra;Sweden;11:00;03/05/2026
-2026-05-03;Sim;;1.62;1.8;0,00%;11,11%;1.0;0,80;0.8;Apollon Limassol vs Pafos FC;R$ 0,11;;80.0;193383504;Cyprus Division 1;Cyprus;13:00;03/05/2026
-2026-05-03;Sim;;2.14;2.2;0,00%;2,80%;1.0;1,20;1.2;Sabadell vs Real Murcia;R$ 0,03;;120.0;193109828;Spain Primera Division RFEF Group 2;Spain;13:15;03/05/2026
-2026-05-03;Sim;S;1.72;1.95;0,00%;13,37%;1.0;0,95;-1.0;Sparta Prague vs FK Jablonec;R$ 0,13;;-100.0;193886548;Czechia First League;Czech Republic;13:30;03/05/2026
-2026-05-03;Sim;;1.75;1.95;0,00%;11,43%;1.0;0,95;-1.0;Real Betis vs Real Oviedo;R$ 0,11;;-100.0;192946798;Spain La Liga;Spain;13:30;03/05/2026
-2026-05-03;Sim;;1.82;2.2;0,00%;20,88%;1.0;1,20;-1.0;FK Napredak vs Radnicki Nis;R$ 0,21;;-100.0;193701851;Serbia Super Liga;Serbia;14:30;03/05/2026
-2026-05-03;Sim;;2.14;2.37;0,00%;10,75%;1.0;1,37;1.37;Mladost Lucani vs Spartak Subotica;R$ 0,11;;137.0;193701846;Serbia Super Liga;Serbia;14:30;03/05/2026
-2026-05-03;Sim;;2.5;2.5;0,00%;0,00%;1.0;1,50;-1.0;CA Colegiales vs San Martin SJ;R$ 0,00;;-100.0;193187085;Argentina Nacional B;Argentina;15:00;03/05/2026
-2026-05-03;Sim;;2.36;2.5;0,00%;5,93%;1.0;1,50;-1.0;Club Atletico Mitre vs Acassuso;R$ 0,06;;-100.0;193187005;Argentina Nacional B;Argentina;15:00;03/05/2026
-2026-05-03;Sim;;2.1;2.37;0,00%;12,86%;1.0;1,37;1.37;Escobar FC vs Defensores de Belgrano VR;R$ 0,13;;137.0;193880548;Argentina Torneo A;Argentina;15:03;03/05/2026
-2026-05-03;Sim;;1.89;1.9;0,00%;0,53%;1.0;0,90;0.9;Juan Pablo II College vs Universitario de Deportes;R$ 0,01;;90.0;192943517;Peru Liga 1;Peru;15:15;03/05/2026
-2026-05-03;Sim;;2.36;2.62;0,00%;11,02%;1.0;1,62;-1.0;Almirante Brown vs CA Chaco For Ever;R$ 0,11;;-100.0;193186898;Argentina Nacional B;Argentina;15:30;03/05/2026
-2026-05-03;Sim;;2.12;2.2;0,00%;3,77%;1.0;1,20;-1.0;Berazategui vs CA Lugano;R$ 0,04;;-100.0;193820558;Argentina Primera C Metropolitana;Argentina;15:30;03/05/2026
-2026-05-03;Sim;;1.91;2.2;0,00%;15,18%;1.0;1,20;1.2;Puerto Nuevo vs Club Leandro N. Alem;R$ 0,15;;120.0;193820497;Argentina Primera C Metropolitana;Argentina;15:30;03/05/2026
-2026-05-03;Sim;;2.28;2.37;0,00%;3,95%;1.0;1,37;1.37;Azuriz vs Sao Jose RS;R$ 0,04;;137.0;193830308;Brazil Serie D;Brazil;15:30;03/05/2026
-2026-05-03;Sim;;2.34;2.37;0,00%;1,28%;1.0;1,37;-1.0;Belgrano vs Sarmiento;R$ 0,01;;-100.0;193067285;Argentina Liga Profesional;Argentina;16:00;03/05/2026
-2026-05-03;Sim;;2.2;2.37;0,00%;7,73%;1.0;1,37;-1.0;Racing Club vs Huracan;R$ 0,08;;-100.0;193067322;Argentina Liga Profesional;Argentina;16:00;03/05/2026
-2026-05-03;Sim;;2.11;2.2;0,00%;4,27%;1.0;1,20;1.2;Atletico Alagoinhas vs ASA;R$ 0,04;;120.0;193830277;Brazil Serie D;Brazil;16:00;03/05/2026
-2026-05-03;Sim;;2.04;2.1;0,00%;2,94%;1.0;1,10;1.1;Brasiliense vs Aparecidense;R$ 0,03;;110.00000000000001;193830318;Brazil Serie D;Brazil;16:00;03/05/2026
-2026-05-03;Sim;;2.44;2.62;0,00%;7,38%;1.0;1,62;1.62;Ferrocarril Midland vs CA Guemes;R$ 0,07;;162.0;193187319;Argentina Nacional B;Argentina;16:30;03/05/2026
-2026-05-03;Sim;;2.45;2.62;0,00%;6,94%;1.0;1,62;1.62;Godoy Cruz vs CD Moron;R$ 0,07;;162.0;193187228;Argentina Nacional B;Argentina;16:30;03/05/2026
-2026-05-03;Sim;;2.15;2.5;0,00%;16,28%;1.0;1,50;1.5;CA Sarmiento de la Banda vs Defensores Puerto Vilelas;R$ 0,16;;150.0;193926450;Argentina Torneo A;Argentina;16:30;03/05/2026
-2026-05-03;Sim;;2.32;2.5;0,00%;7,76%;1.0;1,50;-1.0;Juventud Antoniana vs San Martin Formosa;R$ 0,08;;-100.0;193880577;Argentina Torneo A;Argentina;17:00;03/05/2026
-2026-05-03;Sim;;2.02;2.2;0,00%;8,91%;1.0;1,20;-1.0;Ferroviaria vs Anapolis;R$ 0,09;;-100.0;193830251;Brazil Serie C;Brazil;17:00;03/05/2026
-2026-05-03;Sim;;1.86;2.37;0,00%;27,42%;1.0;1,37;-1.0;Nacional AM vs Sao Raimundo RR;R$ 0,27;;-100.0;193830158;Brazil Serie D;Brazil;17:00;03/05/2026
-2026-05-03;Sim;;2.2;2.25;0,00%;2,27%;1.0;1,25;-1.0;Sampaio Correa vs Maracanã;R$ 0,02;;-100.0;193830186;Brazil Serie D;Brazil;17:00;03/05/2026
-2026-05-03;Sim;;2.1;2.1;0,00%;0,00%;1.0;1,10;-1.0;Gotham FC (W) vs Racing Louisville FC (W);R$ 0,00;;-100.0;193914368;USA NWSL Women;USA;18:00;03/05/2026
-2026-05-03;Sim;;1.86;2.1;0,00%;12,90%;1.0;1,10;1.1;Paysandu vs Botafogo PB;R$ 0,13;;110.00000000000001;193830261;Brazil Serie C;Brazil;19:00;03/05/2026
-2026-05-03;Sim;;1.91;2.0;0,00%;4,71%;1.0;1,00;1.0;Municipal Liberia vs Deportivo Saprissa;R$ 0,05;;100.0;193881374;Costa Rica Primera Division;Costa Rica;19:00;03/05/2026
-2026-05-03;Sim;;1.88;2.0;0,00%;6,38%;1.0;1,00;1.0;Deportes Limache vs O'Higgins;R$ 0,06;;100.0;193982431;Chile Copa de la Liga;Chile;21:00;03/05/2026
-2026-05-04;Sim;S;1.81;2.25;0,00%;24,31%;1.0;1,25;1.25;NK Dugopolje vs HNK Cibalia;R$ 0,24;;125.0;193995646;Croatia 1.NL;Croatia;10:45;04/05/2026
-2026-05-04;Sim;;2.03;2.0;0,00%;-1,48%;1.0;1,00;1.0;Shamrock Rovers vs Drogheda United;-R$ 0,01;;100.0;193201014;Republic of Ireland Premier Division;Ireland;13:00;04/05/2026
-2026-05-04;Sim;;2.02;2.0;0,00%;-0,99%;1.0;1,00;-1.0;Al Shabab Seeb vs Al Rustaq;-R$ 0,01;;-100.0;194002620;Oman League;Oman;13:20;04/05/2026
-2026-05-04;Sim;;2.11;2.1;0,00%;-0,47%;1.0;1,10;1.1;Wadi Degla vs Kahraba Ismailia;R$ 0,00;;110.00000000000001;193995745;Egypt Division 1;Egypt;14:00;04/05/2026
-2026-05-04;Sim;;2.13;2.2;0,00%;3,29%;1.0;1,20;-1.0;Ypiranga RS vs Ituano;R$ 0,03;;-100.0;193880720;Brazil Serie C;Brazil;15:00;04/05/2026
-2026-05-04;Sim;;2.15;2.2;0,00%;2,33%;1.0;1,20;1.2;US Yacoub El Mansour vs RSB Berkane;R$ 0,02;;120.0;194001923;Morocco GNF 1;Morocco;15:00;04/05/2026
-2026-05-04;Sim;;1.88;1.95;0,00%;3,72%;1.0;0,95;-1.0;Roma vs Fiorentina;R$ 0,04;;-100.0;193004648;Italy Serie A;Italy;15:45;04/05/2026
-2026-05-04;Sim;;2.13;2.2;0,00%;3,29%;1.0;1,20;1.2;Gimnasia Mendoza vs Defensa y Justicia;R$ 0,03;;120.0;193067316;Argentina Liga Profesional;Argentina;17:00;04/05/2026
-2026-05-04;Sim;;2.01;2.1;0,00%;4,48%;1.0;1,10;1.1;Vila Nova vs Athletic Club MG;R$ 0,04;;110.00000000000001;193192176;Brazil Serie B;Brazil;19:00;04/05/2026
-2026-05-04;Sim;;1.93;2.0;0,00%;3,63%;1.0;1,00;1.0;Retro vs Sergipe;R$ 0,04;;100.0;193830183;Brazil Serie D;Brazil;19:00;04/05/2026
-2026-05-04;Sim;;2.14;2.25;0,00%;5,14%;1.0;1,25;-1.0;Figueirense vs Barra SC;R$ 0,05;;-100.0;193880712;Brazil Serie C;Brazil;20:00;04/05/2026
-2026-05-04;Sim;;2.33;2.5;0,00%;7,30%;1.0;1,50;1.5;Floresta vs Maranhao;R$ 0,07;;150.0;193880716;Brazil Serie C;Brazil;20:00;04/05/2026
-2026-05-04;Sim;;1.83;1.9;0,00%;3,83%;1.0;0,90;0.9;Trem AP vs Imperatriz;R$ 0,04;;90.0;194003295;Brazil Serie D;Brazil;20:00;04/05/2026
-2026-05-05;Sim;;2.05;2.1;0,00%;2,44%;1.0;1,10;1.1;Chippa United vs Sekhukhune United;R$ 0,02;;110.00000000000001;193113700;South Africa Premier;South Africa;08:00;05/05/2026
-2026-05-05;Sim;S;1.74;2.0;0,00%;14,94%;1.0;1,00;-1.0;RKC vs Willem II;R$ 0,15;;-100.0;194037922;Netherlands Eerste Divisie;Netherlands;13:45;05/05/2026
-2026-05-05;Sim;;2.12;2.62;0,00%;23,58%;1.0;1,62;1.62;Magesi FC vs Orbit College;R$ 0,24;;162.0;193113703;South Africa Premier;South Africa;14:30;05/05/2026
-2026-05-05;Sim;;2.12;2.5;0,00%;17,92%;1.0;1,50;-1.0;Stellenbosch FC vs Orlando Pirates;R$ 0,18;;-100.0;193113715;South Africa Premier;South Africa;14:30;05/05/2026
-2026-05-05;Sim;;2.32;2.37;0,00%;2,16%;1.0;1,37;-1.0;Deportivo Cuenca vs San Lorenzo;R$ 0,02;;-100.0;193838023;Copa Sudamericana;International (South America);23:00;05/05/2026
+﻿DATA;Time;BTTS;IN LIVE?;Odd J;Odd M;Juice;EV;Stake;Lucro Max;Profit;Jogo;Liga;Região;Match ID;%_ProbMod;OBS;ROI;DATA_DISPLAY;Prob_BTTS;Fair_Odd_BTTS
+2026-04-24;19:30;Sim;S;2,17;2,25;0,00%;3,69%;1,0;1,25;1,25;Montevideo City Torque vs Boston River;Uruguay Apertura;Uruguay;193284037,0;46,08%;;125,0;24/04/2026;0,3457528859990453;2,892230689209842
+2026-04-24;21:30;Sim;S;2,36;2,75;0,00%;16,53%;1,0;1,75;1,75;Racing Club v Barracas Central;Argentina Liga Profesional;Argentina;192612583,0;42,37%;;175,0;24/04/2026;0,3352967438642746;2,982423885335747
+2026-04-25;01:00;Sim;;2,04;2,0;0,00%;-1,96%;1,0;1,00;-1,0;Jubilo Iwata vs FC Gifu;Japan J2/J3 Centennial League;Japan;193116534,0;49,02%;;-100,0;25/04/2026;0,4531419964312292;2,2068089055234115
+2026-04-25;02:00;Sim;;2,12;2,2;0,00%;3,77%;1,0;1,20;-1,0;Fagiano Okayama vs Avispa Fukuoka;Japan J-League;Japan;192940712,0;47,17%;;-100,0;25/04/2026;0,4705913610275872;2,1249813698981352
+2026-04-25;08:30;Sim;;2,18;2,1;0,00%;-3,67%;1,0;1,10;-1,0;Guangxi Hengchen vs Nanjing City;China Division 1;China;193451533,0;45,87%;;-100,0;25/04/2026;0,3899061557394107;2,564713125368586
+2026-04-25;08:30;Sim;;2,26;2,1;0,00%;-7,08%;1,0;1,10;-1,0;BG Pathum United vs Nakhon Ratchasima;Thailand Premier League;Thailand;193377337,0;44,25%;;-100,0;25/04/2026;0,3487728533076291;2,8671874067290526
+2026-04-25;08:45;Sim;;2,3;2,2;0,00%;-4,35%;1,0;1,20;-1,0;HNK Cibalia vs Bijelo Brdo;Croatia 1.NL;Croatia;193387188,0;43,48%;;-100,0;25/04/2026;0,3371857073882046;2,9657159611831774
+2026-04-25;10:00;Sim;;2,26;2,25;0,00%;-0,44%;1,0;1,25;1,25;CSKA Sofia vs Levski Sofia;Bulgaria First League;Bulgaria;193190489,0;44,25%;;125,0;25/04/2026;0,4096104078365564;2,441338255889155
+2026-04-25;10:00;Sim;S;2,15;2,2;0,00%;2,33%;1,0;1,20;-1,0;Parma vs Pisa;Italy Serie A;Italy;192613392,0;46,51%;;-100,0;25/04/2026;0,392821493138404;2,545679072526195
+2026-04-25;10:00;Sim;S;2,11;2,2;0,00%;4,27%;1,0;1,20;-1,0;Virtus Entella vs Padova;Italy Serie B;Italy;192940673,0;47,39%;;-100,0;25/04/2026;0,3961438007350717;2,5243294829174507
+2026-04-25;10:00;Sim;;2,28;2,2;0,00%;-3,51%;1,0;1,20;1,2;Amazulu vs Chippa United;South Africa Premier;South Africa;193113492,0;43,86%;;120,0;25/04/2026;0,3705319804750847;2,698815092567022
+2026-04-25;11:00;Sim;;2,09;2,0;0,00%;-4,31%;1,0;1,00;1,0;Omonia Aradippou vs Krasava ENY Ypsonas;Cyprus Division 1;Cyprus;192941055,0;47,85%;;100,0;25/04/2026;0,4244361956302482;2,3560611800648075
+2026-04-25;11:00;Sim;;2,24;2,5;0,00%;11,61%;1,0;1,50;1,5;Eibar (W) vs Levante UD (W);Spain Primera Women;Spain;193445086,0;44,64%;;150,0;25/04/2026;0,3962598787491177;2,5235900227060366
+2026-04-25;12:00;Sim;;1,98;2,2;0,00%;11,11%;1,0;1,20;1,2;NK Dubrava Zagreb vs NK Sesvete;Croatia 1.NL;Croatia;193398646,0;50,51%;;120,0;25/04/2026;0,5038310149865599;1,984788521282586
+2026-04-25;12:00;Sim;;2,14;2,1;0,00%;-1,87%;1,0;1,10;-1,0;FC Rukh Lviv vs Karpaty Lviv;Ukraine Vyscha Liga;Ukraine;193376565,0;46,73%;;-100,0;25/04/2026;0,4234325113077984;2,3616458624435355
+2026-04-25;13:30;Sim;S;2,14;2,2;0,00%;2,80%;1,0;1,20;1,2;Burgos v Deportivo La Coruna;Spain Segunda;Spain;192612871,0;46,73%;;120,0;25/04/2026;0,4046112429946698;2,471502079617432
+2026-04-25;14:00;Sim;;2,17;2,25;0,00%;3,69%;1,0;1,25;1,25;UTS Rabat vs OC Safi;Morocco GNF 1;Morocco;193445267,0;46,08%;;125,0;25/04/2026;0,4231396394762331;2,363280447932886
+2026-04-25;14:00;Sim;;2,07;2,25;0,00%;8,70%;1,0;1,25;-1,0;Gotham FC (W) vs Bay FC (W);USA NWSL Women;USA;193438024,0;48,31%;;-100,0;25/04/2026;0,4218147993190262;2,3707030452969917
+2026-04-25;15:00;Sim;;2,06;2,1;0,00%;1,94%;1,0;1,10;1,1;CA Brown de Adrogue vs Villa San Carlos;Argentina Primera B Metropolitana;Argentina;193439921,0;48,54%;;110,00000000000001;25/04/2026;0,4026662848091532;2,4834398962258795
+2026-04-25;15:30;Sim;;2,27;2,37;0,00%;4,41%;1,0;1,37;-1,0;CA San Telmo vs All Boys;Argentina Nacional B;Argentina;192937273,0;44,05%;;-100,0;25/04/2026;0,263382043714454;3,7967516279603295
+2026-04-25;15:30;Sim;;2,18;2,25;0,00%;3,21%;1,0;1,25;-1,0;CSD Flandria vs Sportivo Italiano;Argentina Primera B Metropolitana;Argentina;193449965,0;45,87%;;-100,0;25/04/2026;0,3967374918371432;2,5205520023262302
+2026-04-25;15:30;Sim;;2,06;2,25;0,00%;9,22%;1,0;1,25;1,25;CA Lugano vs Club Leandro N. Alem;Argentina Primera C Metropolitana;Argentina;193496111,0;48,54%;;125,0;25/04/2026;0,365145907367261;2,738623769841245
+2026-04-25;16:00;Sim;;2,07;2,1;0,00%;1,45%;1,0;1,10;-1,0;ABECAT Ouvidorense vs CRAC;Brazil Serie D;Brazil;193441307,0;48,31%;;-100,0;25/04/2026;0,3282820031835941;3,0461522232411906
+2026-04-25;16:00;Sim;;2,09;2,1;0,00%;0,48%;1,0;1,10;-1,0;Fluminense PI vs CEFAT Tirol;Brazil Serie D;Brazil;193494786,0;47,85%;;-100,0;25/04/2026;0,3854890705480968;2,594100539550038
+2026-04-25;16:00;Sim;;2,3;2,37;0,00%;3,04%;1,0;1,37;-1,0;Iguatu vs Maracanã;Brazil Serie D;Brazil;193494782,0;43,48%;;-100,0;25/04/2026;0,361357531681042;2,7673346893125617
+2026-04-25;16:30;Sim;;2,19;2,25;0,00%;2,74%;1,0;1,25;1,25;Manauara vs Nacional AM;Brazil Serie D;Brazil;193441339,0;45,66%;;125,0;25/04/2026;0,4002367724982903;2,498514804732159
+2026-04-25;17:00;Sim;;2,04;2,2;0,00%;7,84%;1,0;1,20;1,2;Itabaiana vs Paysandu;Brazil Serie C;Brazil;193386729,0;49,02%;;120,0;25/04/2026;0,4120593660992341;2,426828887879928
+2026-04-25;17:00;Sim;;2,02;2,2;0,00%;8,91%;1,0;1,20;1,2;Sergipe vs Lagarto;Brazil Serie D;Brazil;193447813,0;49,50%;;120,0;25/04/2026;0,4204990635746006;2,3781209246418835
+2026-04-25;17:00;Sim;;1,89;2,0;0,00%;5,82%;1,0;1,00;1,0;Treze vs Serra Branca;Brazil Serie D;Brazil;193494814,0;52,91%;;100,0;25/04/2026;0,4660435623016457;2,145717557697312
+2026-04-25;17:30;Sim;;2,28;2,37;0,00%;3,95%;1,0;1,37;-1,0;San Martin SJ vs Quilmes;Argentina Nacional B;Argentina;192937313,0;43,86%;;-100,0;25/04/2026;0,3266915599423995;3,0609818606714336
+2026-04-25;17:30;Sim;;2,02;2,2;0,00%;8,91%;1,0;1,20;-1,0;Defensores Puerto Vilelas vs Juventud Antoniana;Argentina Torneo A;Argentina;193503200,0;49,50%;;-100,0;25/04/2026;0,3293295738482096;3,036462689494799
+2026-04-25;17:30;Sim;;1,94;2,1;0,00%;8,25%;1,0;1,10;-1,0;Comerciantes Unidos vs Sporting Cristal;Peru Liga 1;Peru;192943469,0;51,55%;;-100,0;25/04/2026;0,4605558663115178;2,1712845321550502
+2026-04-25;18:00;Sim;;2,06;2,25;0,00%;9,22%;1,0;1,25;-1,0;Atletico Rafaela vs Gimnasia Jujuy;Argentina Nacional B;Argentina;192937279,0;48,54%;;-100,0;25/04/2026;0,3992979949084471;2,504388973554226
+2026-04-25;18:00;Sim;;2,29;2,62;0,00%;14,41%;1,0;1,62;1,62;Luverdense vs EC Primavera MT;Brazil Serie D;Brazil;193494808,0;43,67%;;162,0;25/04/2026;0,3175765920323004;3,148836772772971
+2026-04-25;18:00;Sim;;2,17;2,2;0,00%;1,38%;1,0;1,20;-1,0;Manaus vs Sao Raimundo RR;Brazil Serie D;Brazil;193441342,0;46,08%;;-100,0;25/04/2026;0,3379866461403719;2,9586880213505893
+2026-04-25;18:00;Sim;;2,17;2,2;0,00%;1,38%;1,0;1,20;-1,0;Sao Jose RS vs Brasil de Pelotas;Brazil Serie D;Brazil;193487517,0;46,08%;;-100,0;25/04/2026;0,4195503022921477;2,3834987390973854
+2026-04-25;19:30;Sim;;2,26;3,0;0,00%;32,74%;1,0;2,00;2,0;Botafogo PB vs Floresta;Brazil Serie C;Brazil;193386736,0;44,25%;;200,0;25/04/2026;0,3529702661683908;2,833091800517648
+2026-04-26;01:00;Sim;;2,2;2,2;0,00%;0,00%;1,0;1,20;-1,0;Vanraure Hachinohe vs Blaublitz Akita;Japan J2/J3 Centennial League;Japan;193116605,0;45,45%;;-100,0;26/04/2026;0,4025077433145016;2,4844180818667247
+2026-04-26;02:00;Sim;;1,89;2,0;0,00%;5,82%;1,0;1,00;1,0;Kochi United vs Tokushima Vortis;Japan J2/J3 Centennial League;Japan;193116612,0;52,91%;;100,0;26/04/2026;0,460572323821765;2,1712069463818646
+2026-04-26;07:00;Sim;;1,75;1,9;0,00%;8,57%;1,0;0,90;0,9;Deportivo La Coruna (W) vs Alhama CF (W);Spain Primera Women;Spain;193544767,0;57,14%;;90,0;26/04/2026;0,5006161317805339;1,9975345159350064
+2026-04-26;08:15;Sim;;2,17;2,1;0,00%;-3,23%;1,0;1,10;-1,0;NK Croatia Zmijavci vs NK Rudes;Croatia 1.NL;Croatia;193440605,0;46,08%;;-100,0;26/04/2026;0,4078171584621947;2,452073256793693
+2026-04-26;09:30;Sim;;2,34;2,37;0,00%;1,28%;1,0;1,37;1,37;LNZ Cherkasy vs FC Metalist 1925;Ukraine Vyscha Liga;Ukraine;193376573,0;42,74%;;137,0;26/04/2026;0,3650526855989391;2,739323117254144
+2026-04-26;10:00;Sim;;2,46;2,5;0,00%;1,63%;1,0;1,50;-1,0;Polokwane City vs Stellenbosch FC;South Africa Premier;South Africa;193113525,0;40,65%;;-100,0;26/04/2026;0,3252385624684854;3,074656700464897
+2026-04-26;10:50;Sim;;2,16;2,37;0,00%;9,72%;1,0;1,37;1,37;Orlando Pirates vs Kaizer Chiefs;South Africa Premier;South Africa;193113517,0;46,30%;;137,0;26/04/2026;0,3583269895520225;2,790739292373416
+2026-04-26;11:00;Sim;;2,07;2,1;0,00%;1,45%;1,0;1,10;1,1;Ourense CF vs Zamora CF;Spain Primera Division RFEF Group 1;Spain;193108439,0;48,31%;;110,00000000000001;26/04/2026;0,4069982821510115;2,457006790564716
+2026-04-26;11:00;Sim;;2,06;2,2;0,00%;6,80%;1,0;1,20;-1,0;SD Tarazona vs Juventud Torremolinos CF;Spain Primera Division RFEF Group 2;Spain;193109479,0;48,54%;;-100,0;26/04/2026;0,4011073325056893;2,4930920625684485
+2026-04-26;12:00;Sim;;2,37;2,62;0,00%;10,55%;1,0;1,62;1,62;Renaissance Zemamra vs MAS Fes;Morocco GNF 1;Morocco;193504186,0;42,19%;;162,0;26/04/2026;0,4029139844843492;2,481913154160301
+2026-04-26;13:00;Sim;;2,24;2,5;0,00%;11,61%;1,0;1,50;1,5;Deportivo Armenio vs San Martin De Burzaco;Argentina Primera B Metropolitana;Argentina;193438204,0;44,64%;;150,0;26/04/2026;0,393072689971925;2,544052236290412
+2026-04-26;13:25;Sim;;2,07;2,1;0,00%;1,45%;1,0;1,10;-1,0;Samail vs Al Khaburah;Oman League;Oman;193504997,0;48,31%;;-100,0;26/04/2026;0,4320421611562866;2,3145835645764605
+2026-04-26;14:00;Sim;;2,19;2,2;0,00%;0,46%;1,0;1,20;-1,0;Larissa vs Panserraikos;Greece Super League 1;Greece;192941147,0;45,66%;;-100,0;26/04/2026;0,4346955576527337;2,300455300128856
+2026-04-26;14:00;Sim;;2,33;2,37;0,00%;1,72%;1,0;1,37;1,37;Estrela Amadora vs FC Porto;Portugal Primeira Liga;Portugal;192943772,0;42,92%;;137,0;26/04/2026;0,434849130994616;2,299642862502395
+2026-04-26;14:00;Sim;;2,13;2,1;0,00%;-1,41%;1,0;1,10;1,1;Santa Clara vs Braga;Portugal Primeira Liga;Portugal;192943785,0;46,95%;;110,00000000000001;26/04/2026;0,4605675681104294;2,1712293657005106
+2026-04-26;15:00;Sim;;2,14;2,2;0,00%;2,80%;1,0;1,20;-1,0;Guarany de Bage vs Sao Luiz;Brazil Serie D;Brazil;193436006,0;46,73%;;-100,0;26/04/2026;0,3874126876566294;2,581220106209348
+2026-04-26;15:30;Sim;;2,06;2,2;0,00%;6,80%;1,0;1,20;-1,0;Juazeirense vs ASA;Brazil Serie D;Brazil;193436015,0;48,54%;;-100,0;26/04/2026;0,4510757710900643;2,2169175273278143
+2026-04-26;15:30;Sim;;1,77;1,9;0,00%;7,34%;1,0;0,90;0,9;Racing Ferrol vs Real Aviles CF;Spain Primera Division RFEF Group 1;Spain;193108456,0;56,50%;;90,0;26/04/2026;0,4452595392655815;2,2458760923422787
+2026-04-26;18:00;Sim;;2,23;2,25;0,00%;0,90%;1,0;1,25;1,25;Ceara vs Vila Nova;Brazil Serie B;Brazil;193005585,0;44,84%;;125,0;26/04/2026;0,3833326112726785;2,6086937607166027
+2026-04-26;18:30;Sim;;2,15;2,2;0,00%;2,33%;1,0;1,20;1,2;Athletico Paranaense vs Vitoria;Brazil Serie A;Brazil;192938360,0;46,51%;;120,0;26/04/2026;0,4067848117246966;2,4582961626910853
+2026-04-26;19:00;Sim;;1,83;1,9;0,00%;3,83%;1,0;0,90;0,9;Ituano vs Maringa;Brazil Serie C;Brazil;193438850,0;54,64%;;90,0;26/04/2026;0,4835933045721816;2,0678490018294653
+2026-04-26;22:20;Sim;;2,13;2,25;0,00%;5,63%;1,0;1,25;-1,0;Internacional de Bogota vs Boyaca Chico;Colombia Primera A;Colombia;192608408,0;46,95%;;-100,0;26/04/2026;0,3576760949860659;2,795817831273085
+2026-04-27;10:50;Sim;;2,12;2,5;0,00%;17,92%;1,0;1,50;1,5;Bahla vs Oman FC;Oman League;Oman;193545567,0;47,17%;;150,0;27/04/2026;0,422238496206555;2,3683241595921447
+2026-04-27;11:00;Sim;;2,24;2,5;0,00%;11,61%;1,0;1,50;-1,0;El Zamalek vs Enppi;Egypt Division 1;Egypt;193548679,0;44,64%;;-100,0;27/04/2026;0,3634295258258062;2,7515575300884447
+2026-04-27;11:00;Sim;;2,11;2,2;0,00%;4,27%;1,0;1,20;-1,0;Smouha vs El Masry;Egypt Division 1;Egypt;193548673,0;47,39%;;-100,0;27/04/2026;0,4040021204147257;2,4752284065862145
+2026-04-27;20:00;Sim;;2,34;2,37;0,00%;1,28%;1,0;1,37;1,37;Caxias vs Ypiranga RS;Brazil Serie C;Brazil;193487463,0;42,74%;;137,0;27/04/2026;0,3495228905530319;2,8610347590768592
+2026-04-28;14:00;Sim;;2,28;3,0;0,00%;31,58%;1,0;2,00;2,0;Al Moqawloon Al Arab vs Ghazl El Mahallah;Egypt Division 1;Egypt;193655707,0;43,86%;;200,0;28/04/2026;0,313855942584927;3,18616498256816
+2026-04-28;16:00;Sim;;2,28;2,62;0,00%;14,91%;1,0;1,62;1,62;MC Alger vs Olympique Akbou;Algeria Division 1;Algeria;193671236,0;43,86%;;162,0;28/04/2026;0,3504211985083556;2,853700491169527
+2026-04-28;19:00;Sim;;2,72;2,75;0,00%;1,10%;1,0;1,75;-1,0;Lanus vs LDU Quito;Copa Libertadores;International (South America);192731524,0;36,76%;;-100,0;28/04/2026;0,3073505377605622;3,253603373148032
+2026-04-28;19:00;Sim;;2,05;2,25;0,00%;9,76%;1,0;1,25;1,25;San Lorenzo vs Santos;Copa Sudamericana;International (South America);192951057,0;48,78%;;125,0;28/04/2026;0,339375004217404;2,94658428283987
+2026-04-28;21:00;Sim;;2,08;2,1;0,00%;0,96%;1,0;1,10;-1,0;UCV vs Rosario Central;Copa Libertadores;International (South America);192731552,0;48,08%;;-100,0;28/04/2026;0,4516393788464025;2,2141510078311404
+2026-04-28;21:00;Sim;;2,15;2,25;0,00%;4,65%;1,0;1,25;1,25;Barracas Central vs Audax Italiano;Copa Sudamericana;International (South America);192951062,0;46,51%;;125,0;28/04/2026;0,3952204531113389;2,530227021148792
+2026-04-28;23:00;Sim;;2,08;2,25;0,00%;8,17%;1,0;1,25;-1,0;Deportes Tolima vs Coquimbo Unido;Copa Libertadores;International (South America);192731571,0;48,08%;;-100,0;28/04/2026;0,3915982215265213;2,5536312255724805
+2026-04-29;02:00;Sim;;1,95;2,0;0,00%;2,56%;1,0;1,00;1,0;Avispa Fukuoka vs Sanfrecce Hiroshima;Japan J-League;Japan;192940742,0;51,28%;;100,0;29/04/2026;0,4451343449844822;2,2465077448182886
+2026-04-29;02:00;Sim;;1,95;2,2;0,00%;12,82%;1,0;1,20;1,2;Yokohama FC vs Vanraure Hachinohe;Japan J2/J3 Centennial League;Japan;193118194,0;51,28%;;120,0;29/04/2026;0,4550371137953769;2,1976181108417734
+2026-04-29;03:00;Sim;;1,84;1,95;0,00%;5,98%;1,0;0,95;0,95;Nagoya Grampus vs Fagiano Okayama;Japan J-League;Japan;192940752,0;54,35%;;95,0;29/04/2026;0,4869102212008579;2,05376248576429
+2026-04-29;12:00;Sim;;2,23;2,62;0,00%;17,49%;1,0;1,62;-1,0;FUS Rabat vs CODM Meknes;Morocco GNF 1;Morocco;193662069,0;44,84%;;-100,0;29/04/2026;0,40466090439748;2,4711987689796167
+2026-04-29;13:00;Sim;;2,18;2,2;0,00%;0,92%;1,0;1,20;-1,0;Maccabi Bnei Raina vs Hapoel Jerusalem FC;Israel Premier League;Israel;193715387,0;45,87%;;-100,0;29/04/2026;0,4600133450583006;2,1738452523111285
+2026-04-29;13:45;Sim;;2,22;2,37;0,00%;6,76%;1,0;1,37;1,37;JS Kabylie vs MC Oran;Algeria Division 1;Algeria;193703559,0;45,05%;;137,0;29/04/2026;0,362412919813351;2,7592759144433967
+2026-04-29;14:00;Sim;;2,6;2,75;0,00%;5,77%;1,0;1,75;-1,0;Modern Sport FC vs Talaea El Geish;Egypt Division 1;Egypt;193709686,0;38,46%;;-100,0;29/04/2026;0,3158454472004348;3,1660954519631006
+2026-04-29;16:00;Sim;;2,06;2,5;0,00%;21,36%;1,0;1,50;-1,0;MAS Fes vs HUSA Agadir;Morocco GNF 1;Morocco;193662104,0;48,54%;;-100,0;29/04/2026;0,3886616025347725;2,5729257033689854
+2026-04-29;19:00;Sim;;2,38;2,62;0,00%;10,08%;1,0;1,62;1,62;Platense vs Independiente Santa Fe;Copa Libertadores;International (South America);192731578,0;42,02%;;162,0;29/04/2026;0,3934601942338637;2,541546700551172
+2026-04-29;19:00;Sim;;2,09;2,2;0,00%;5,26%;1,0;1,20;1,2;Caracas vs Racing Club;Copa Sudamericana;International (South America);192951073,0;47,85%;;120,0;29/04/2026;0,3761290315798707;2,6586550289528037
+2026-04-29;19:30;Sim;;2,1;2,1;0,00%;0,00%;1,0;1,10;1,1;Chapecoense vs America MG;Brazil Copa Sul-Sudeste;Brazil;193708327,0;47,62%;;110,00000000000001;29/04/2026;0,3965399499472571;2,5218076471875284
+2026-04-29;21:15;Sim;;2,17;2,2;0,00%;1,38%;1,0;1,20;1,2;Novorizontino vs Avai;Brazil Copa Sul-Sudeste;Brazil;193708329,0;46,08%;;120,0;29/04/2026;0,4130049791258661;2,4212724525599274
+2026-04-29;21:30;Sim;;2,26;2,5;0,00%;10,62%;1,0;1,50;1,5;Botafogo PB vs Fluminense PI;Brazil Copa Nordeste;Brazil;193711077,0;44,25%;;150,0;29/04/2026;0,3892762834689687;2,568862973684708
+2026-04-29;21:30;Sim;;2,17;2,25;0,00%;3,69%;1,0;1,25;1,25;Juazeirense vs ASA;Brazil Copa Nordeste;Brazil;193711120,0;46,08%;;125,0;29/04/2026;0,4150066360521828;2,4095942173802816
+2026-04-29;21:30;Sim;;2,17;2,25;0,00%;3,69%;1,0;1,25;1,25;Maranhao vs Ceara;Brazil Copa Nordeste;Brazil;193711113,0;46,08%;;125,0;29/04/2026;0,4369087285704439;2,2888023191242994
+2026-04-29;23:00;Sim;;1,94;2,05;0,00%;5,67%;1,0;1,05;1,05;Universitario de Deportes vs Nacional De Football;Copa Libertadores;International (South America);192731589,0;51,55%;;105,0;29/04/2026;0,4227949409354636;2,365207191411144
+2026-04-30;12:00;Sim;;2,19;2,5;0,00%;14,16%;1,0;1,50;1,5;Difaa El Jadida vs Renaissance Zemamra;Morocco GNF 1;Morocco;193724582,0;45,66%;;150,0;30/04/2026;0,3975086199438229;2,5156623886016205
+2026-04-30;16:00;Sim;;1,95;1,96;0,00%;0,51%;1,0;0,96;0,96;Braga vs SC Freiburg;UEFA Europa League;International (Europe);193126975,0;51,28%;;96,0;30/04/2026;0,4707328868305788;2,1243424957844783
+2026-04-30;19:00;Sim;;1,8;1,95;0,00%;8,33%;1,0;0,95;-1,0;Bolivar vs Fluminense;Copa Libertadores;International (South America);192731591,0;55,56%;;-100,0;30/04/2026;0,4687004447063673;2,133554336762246
+2026-04-30;19:00;Sim;;1,81;2,0;0,00%;10,50%;1,0;1,00;-1,0;Carabobo vs Blooming;Copa Sudamericana;International (South America);192951100,0;55,25%;;-100,0;30/04/2026;0,5129461457512962;1,9495185971555296
+2026-04-30;21:00;Sim;;2,59;2,75;0,00%;6,18%;1,0;1,75;-1,0;Corinthians vs Penarol;Copa Libertadores;International (South America);192731597,0;38,61%;;-100,0;30/04/2026;0,3132671577076302;3,192153352953572
+2026-04-30;23:00;Sim;;2,28;2,37;0,00%;3,95%;1,0;1,37;-1,0;Alianza Atletico vs Macara;Copa Sudamericana;International (South America);192951152,0;43,86%;;-100,0;30/04/2026;0,3612790439575947;2,767935889969542
+2026-05-01;14:30;Sim;S;1,86;2,2;0,00%;18,28%;1,0;1,20;-1,0;FK Csikszereda Miercurea Ciuc vs FCSB;Romania Liga I;Romania;193330016,0;53,76%;;-100,0;01/05/2026;0,4941276512867308;2,0237644536416983
+2026-05-01;15:45;Sim;;2,1;2,05;0,00%;-2,38%;1,0;1,05;1,05;Pisa vs Lecce;Italy Serie A;Italy;193004668,0;47,62%;;105,0;01/05/2026;0,3944067722557469;2,5354469925394048
+2026-05-01;15:45;Sim;;2,07;2,1;0,00%;1,45%;1,0;1,10;-1,0;Cork City vs Cobh Ramblers;Republic of Ireland First Division;Ireland;193770858,0;48,31%;;-100,0;01/05/2026;0,4331535290889365;2,3086449127135347
+2026-05-01;20:00;Sim;;2,0;2,0;0,00%;0,00%;1,0;1,00;-1,0;Libertad Asuncion vs Sportivo San Lorenzo;Paraguay Division Profesional;Paraguay;193394406,0;50,00%;;-100,0;01/05/2026;0,4336183521452269;2,306170135287417
+2026-05-02;02:00;Sim;;1,74;1,9;0,00%;9,20%;1,0;0,90;0,9;Yokohama F-Marinos vs Mito Hollyhock;Japan J-League;Japan;192940795,0;57,47%;;90,0;02/05/2026;0,5324739557644044;1,8780225983857424
+2026-05-02;02:00;Sim;;2,35;2,2;0,00%;-6,38%;1,0;1,20;1,2;Sagan Tosu vs Tegevajaro Miyazaki;Japan J2/J3 Centennial League;Japan;193200084,0;42,55%;;120,0;02/05/2026;0,3906536108816533;2,559805956835217
+2026-05-02;02:00;Sim;;2,18;2,1;0,00%;-3,67%;1,0;1,10;1,1;Vegalta Sendai vs Blaublitz Akita;Japan J2/J3 Centennial League;Japan;193200094,0;45,87%;;110,00000000000001;02/05/2026;0,3983446526733788;2,510382611907012
+2026-05-02;02:00;Sim;;1,75;1,83;0,00%;4,57%;1,0;0,83;0,83;Yokohama FC vs Sagamihara;Japan J2/J3 Centennial League;Japan;193200096,0;57,14%;;83,0;02/05/2026;0,5153001748589422;1,9406126917403956
+2026-05-02;03:00;Sim;;1,83;1,83;0,00%;0,00%;1,0;0,83;0,83;Sutherland Sharks vs Marconi Stallions;Australia New South Wales Premier League;Australia;193417521,0;54,64%;;83,0;02/05/2026;0,5050834633271111;1,979866878923107
+2026-05-02;04:00;Sim;;2,03;2,0;0,00%;-1,48%;1,0;1,00;1,0;Yanbian Longding vs Wuxi Wugo;China Division 1;China;193771670,0;49,26%;;100,0;02/05/2026;0,3789383377457884;2,6389448135649896
+2026-05-02;06:00;Sim;;1,95;1,9;0,00%;-2,56%;1,0;0,90;-1,0;Nagano Parceiro vs Fujieda MYFC;Japan J2/J3 Centennial League;Japan;193200100,0;51,28%;;-100,0;02/05/2026;0,4553723235873717;2,1960003983591534
+2026-05-02;08:15;Sim;;2,16;2,1;0,00%;-2,78%;1,0;1,10;-1,0;FK Riteriai vs FK Transinvest;Lithuania A Lyga;Lithuania;193744314,0;46,30%;;-100,0;02/05/2026;0,465893868869273;2,146406983247101
+2026-05-02;10:00;Sim;;2,01;1,9;0,00%;-5,47%;1,0;0,90;0,9;Sirius vs Kalmar FF;Sweden Allsvenskan;Sweden;192946937,0;49,75%;;90,0;02/05/2026;0,5025320816220911;1,989918746786123
+2026-05-02;11:00;Sim;;1,86;1,83;0,00%;-1,61%;1,0;0,83;0,83;HNK Gorica vs Dinamo Zagreb;Croatia HNL;Croatia;193340866,0;53,76%;;83,0;02/05/2026;0,5478908899801747;1,8251775912145456
+2026-05-02;11:00;Sim;;2,28;2,25;0,00%;-1,32%;1,0;1,25;-1,0;Stevenage vs Wigan;England League 1;England;192500310,0;43,86%;;-100,0;02/05/2026;0,3899603043706584;2,564356998481828
+2026-05-02;11:00;Sim;;2,14;2,1;0,00%;-1,87%;1,0;1,10;1,1;Sohar Club vs Bahla;Oman League;Oman;193782404,0;46,73%;;110,00000000000001;02/05/2026;0,4129146092000348;2,421802367649306
+2026-05-02;11:15;Sim;;1,78;1,8;0,00%;1,12%;1,0;0,80;-1,0;Valencia vs Atletico Madrid;Spain La Liga;Spain;192946792,0;56,18%;;-100,0;02/05/2026;0,5069863494459818;1,9724358035615
+2026-05-02;11:15;Sim;;2,71;2,75;0,00%;1,48%;1,0;1,75;1,75;Gimnastic vs Sevilla Atletico;Spain Primera Division RFEF Group 2;Spain;193109778,0;36,90%;;175,0;02/05/2026;0,3208815407192199;3,1164051423883
+2026-05-02;11:15;Sim;S;2,08;2,2;0,00%;5,77%;1,0;1,20;1,2;Cultural Leonesa vs Cadiz;Spain Segunda;Spain;192946427,0;48,08%;;120,0;02/05/2026;0,4344809827687306;2,3015914115184097
+2026-05-02;11:30;Sim;;2,17;2,1;0,00%;-3,23%;1,0;1,10;1,1;Panserraikos vs Larissa;Greece Super League 1;Greece;193199371,0;46,08%;;110,00000000000001;02/05/2026;0,4123125182322669;2,4253388641909
+2026-05-02;11:30;Sim;;2,01;1,95;0,00%;-2,99%;1,0;0,95;0,95;FC Arouca vs Santa Clara;Portugal Primeira Liga;Portugal;192943796,0;49,75%;;95,0;02/05/2026;0,4335144671206738;2,306722771950462
+2026-05-02;12:00;Sim;;2,01;2,05;0,00%;1,99%;1,0;1,05;-1,0;Grazer AK vs WSG Swarovski Tirol;Austria Bundesliga;Austria;193189523,0;49,75%;;-100,0;02/05/2026;0,4579603339797926;2,1835904601590768
+2026-05-02;12:00;Sim;;2,11;2,1;0,00%;-0,47%;1,0;1,10;-1,0;Orijent vs NK Croatia Zmijavci;Croatia 1.NL;Croatia;193775496,0;47,39%;;-100,0;02/05/2026;0,3899721355467924;2,5642791998937864
+2026-05-02;12:00;Sim;;2,11;2,1;0,00%;-0,47%;1,0;1,10;-1,0;Orijent vs NK Croatia Zmijavci;Croatia 1.NL;Croatia;193775496,0;47,39%;;-100,0;02/05/2026;0,3899721355467924;2,5642791998937864
+2026-05-02;12:00;Sim;;1,9;1,8;0,00%;-5,26%;1,0;0,80;0,8;GIF Sundsvall vs IK Oddevold;Sweden Superettan;Sweden;192947584,0;52,63%;;80,0;02/05/2026;0,4873753509658661;2,0518024684994125
+2026-05-02;12:00;Sim;;2,04;2,1;0,00%;2,94%;1,0;1,10;-1,0;Karpaty Lviv vs LNZ Cherkasy;Ukraine Vyscha Liga;Ukraine;193758226,0;49,02%;;-100,0;02/05/2026;0,409338600060657;2,442959341954253
+2026-05-02;13:30;Sim;;1,82;1,8;0,00%;-1,10%;1,0;0,80;0,8;Audax Italiano vs Union La Calera;Chile Copa de la Liga;Chile;193826426,0;54,95%;;80,0;02/05/2026;0,4841669065917274;2,0653991856656577
+2026-05-02;13:30;Sim;;1,79;1,8;0,00%;0,56%;1,0;0,80;-1,0;Betis Deportivo vs Antequera;Spain Primera Division RFEF Group 2;Spain;193109785,0;55,87%;;-100,0;02/05/2026;0,504226457922155;1,9832319408404464
+2026-05-02;15:00;Sim;;1,97;2,0;0,00%;1,52%;1,0;1,00;-1,0;America RJ vs Pouso Alegre;Brazil Serie D;Brazil;193773184,0;50,76%;;-100,0;02/05/2026;0,4305155823832125;2,322790900327917
+2026-05-02;15:30;Sim;;2,53;2,62;0,00%;3,56%;1,0;1,62;1,62;CA Estudiantes Caseros vs CA San Telmo;Argentina Nacional B;Argentina;193186971,0;39,53%;;162,0;02/05/2026;0,2795247708664468;3,5774876745721778
+2026-05-02;15:30;Sim;;2,54;2,62;0,00%;3,15%;1,0;1,62;-1,0;Deportivo Camioneros vs CSD Flandria;Argentina Primera B Metropolitana;Argentina;193773078,0;39,37%;;-100,0;02/05/2026;0,324860147227495;3,0782382212660115
+2026-05-02;15:30;Sim;;2,18;2,5;0,00%;14,68%;1,0;1,50;1,5;Real Pilar vs Argentino Merlo;Argentina Primera B Metropolitana;Argentina;193814955,0;45,87%;;150,0;02/05/2026;0,3373148784191135;2,964580276169224
+2026-05-02;15:30;Sim;;2,19;2,75;0,00%;25,57%;1,0;1,75;-1,0;Sportivo Italiano vs Deportivo Armenio;Argentina Primera B Metropolitana;Argentina;193814951,0;45,66%;;-100,0;02/05/2026;0,3682129212228185;2,715812581661916
+2026-05-02;15:30;Sim;;2,6;2,75;0,00%;5,77%;1,0;1,75;-1,0;Central Cordoba Rosario vs Fenix;Argentina Primera C Metropolitana;Argentina;193820535,0;38,46%;;-100,0;02/05/2026;0,3001611748170107;3,3315323644947425
+2026-05-02;15:30;Sim;;2,15;2,25;0,00%;4,65%;1,0;1,25;-1,0;Deportivo Paraguayo vs Defensores de Cambaceres;Argentina Primera C Metropolitana;Argentina;193820490,0;46,51%;;-100,0;02/05/2026;0,3648012589042453;2,7412110961255967
+2026-05-02;15:30;Sim;;2,37;2,5;0,00%;5,49%;1,0;1,50;-1,0;Independiente Chivilcoy vs Sportivo Belgrano;Argentina Torneo A;Argentina;193828067,0;42,19%;;-100,0;02/05/2026;0,2768604329950929;3,6119151345204665
+2026-05-02;16:00;Sim;;1,89;1,9;0,00%;0,53%;1,0;0,90;0,9;Botafogo vs Remo;Brazil Serie A;Brazil;193191377,0;52,91%;;90,0;02/05/2026;0,4509440181267651;2,217565245878579
+2026-05-02;16:00;Sim;;2,05;2,1;0,00%;2,44%;1,0;1,10;-1,0;Agua Santa vs Portuguesa RJ;Brazil Serie D;Brazil;193773187,0;48,78%;;-100,0;02/05/2026;0,436698995057509;2,2899015601507164
+2026-05-02;16:00;Sim;;2,64;2,62;0,00%;-0,76%;1,0;1,62;-1,0;CODM Meknes vs MAS Fes;Morocco GNF 1;Morocco;193830060,0;37,88%;;-100,0;02/05/2026;0,3629442498102678;2,755236500609271
+2026-05-02;16:00;Sim;;1,85;1,83;0,00%;-1,08%;1,0;0,83;-1,0;Real Madrid Castilla vs Unionistas de Salamanca CF;Spain Primera Division RFEF Group 1;Spain;193108874,0;54,05%;;-100,0;02/05/2026;0,4809163552296246;2,079359351717569
+2026-05-02;16:00;Sim;;1,9;1,91;0,00%;0,53%;1,0;0,91;0,91;Eibar vs Malaga;Spain Segunda;Spain;192946435,0;52,63%;;91,0;02/05/2026;0,4330449883014088;2,3092235628886133
+2026-05-02;18:00;Sim;;2,12;2,5;0,00%;17,92%;1,0;1,50;-1,0;Brasil de Pelotas vs Marcilio Dias;Brazil Serie D;Brazil;193774287,0;47,17%;;-100,0;02/05/2026;0,3491019489124443;2,8644845399194896
+2026-05-02;18:00;Sim;;2,11;2,1;0,00%;-0,47%;1,0;1,10;-1,0;Noroeste vs Marica;Brazil Serie D;Brazil;193774282,0;47,39%;;-100,0;02/05/2026;0,4020564867572902;2,487206513837832
+2026-05-02;18:30;Sim;;2,13;2,2;0,00%;3,29%;1,0;1,20;1,2;Goiatuba vs Uniao Rondonopolis;Brazil Serie D;Brazil;193796720,0;46,95%;;120,0;02/05/2026;0,3629652212015093;2,755077309094353
+2026-05-02;18:30;Sim;;2,02;2,0;0,00%;-0,99%;1,0;1,00;-1,0;Liverpool Montevideo vs Danubio;Uruguay Apertura;Uruguay;193332835,0;49,50%;;-100,0;02/05/2026;0,4352769592774243;2,297382577468505
+2026-05-02;18:45;Sim;;2,03;2,2;0,00%;8,37%;1,0;1,20;1,2;San Lorenzo vs Independiente;Argentina Liga Profesional;Argentina;193067329,0;49,26%;;120,0;02/05/2026;0,3863359606753898;2,588414005876662
+2026-05-02;19:00;Sim;;2,14;2,2;0,00%;2,80%;1,0;1,20;-1,0;Confianca vs Inter de Limeira;Brazil Serie C;Brazil;193772914,0;46,73%;;-100,0;02/05/2026;0,3748180984125968;2,6679536988246286
+2026-05-02;19:30;Sim;;1,95;2,0;0,00%;2,56%;1,0;1,00;1,0;North Carolina Courage (W) vs Kansas City Current (W);USA NWSL Women;USA;193804191,0;51,28%;;100,0;02/05/2026;0,4408447469207156;2,268367126109183
+2026-05-02;20:00;Sim;;2,19;2,25;0,00%;2,74%;1,0;1,25;-1,0;Deportivo Merlo vs Argentino Quilmes;Argentina Primera B Metropolitana;Argentina;193828985,0;45,66%;;-100,0;02/05/2026;0,3929394007706486;2,5449152035239053
+2026-05-02;20:30;Sim;;2,23;2,2;0,00%;-1,35%;1,0;1,20;1,2;Fortaleza vs Goias;Brazil Serie B;Brazil;193192157,0;44,84%;;120,0;02/05/2026;0,3690679452371728;2,709520844018386
+2026-05-03;01:00;Sim;;2,11;2,0;0,00%;-5,21%;1,0;1,00;-1,0;Matsumoto Y FC vs Ventforet Kofu;Japan J2/J3 Centennial League;Japan;193832305,0;47,39%;;-100,0;03/05/2026;0,4346072954706879;2,300922486803856
+2026-05-03;01:00;Sim;;1,71;1,83;0,00%;7,02%;1,0;0,83;-1,0;Vanraure Hachinohe vs Thespa Gunma;Japan J2/J3 Centennial League;Japan;193200102,0;58,48%;;-100,0;03/05/2026;0,4968553057848116;2,0126543396092065
+2026-05-03;02:00;Sim;;1,75;1,8;0,00%;2,86%;1,0;0,80;-1,0;Daegu FC vs Gyeongnam FC;South Korea K League 2;South Korea;193202390,0;57,14%;;-100,0;03/05/2026;0,5236333967439809;1,909729395582329
+2026-05-03;02:00;Sim;;1,92;1,9;0,00%;-1,04%;1,0;0,90;0,9;Seoul E-Land FC vs Gimpo FC;South Korea K League 2;South Korea;193202396,0;52,08%;;90,0;03/05/2026;0,4512407512096169;2,216106992137495
+2026-05-03;05:30;Sim;;1,78;1,83;0,00%;2,81%;1,0;0,83;-1,0;Austria Lustenau vs SW Bregenz;Austria 2. Liga;Austria;193189756,0;56,18%;;-100,0;03/05/2026;0,5133109716399561;1,948133017052276
+2026-05-03;07:00;Sim;;1,74;1,8;0,00%;3,45%;1,0;0,80;0,8;Portimonense vs Chaves;Portugal Segunda Liga;Portugal;193755285,0;57,47%;;80,0;03/05/2026;0,4510252262557581;2,217165969042656
+2026-05-03;07:30;Sim;;1,98;1,95;0,00%;-1,52%;1,0;0,95;-1,0;Bologna vs Cagliari;Italy Serie A;Italy;193004653,0;50,51%;;-100,0;03/05/2026;0,4492007775018692;2,226171066288442
+2026-05-03;08:00;Sim;;1,95;1,9;0,00%;-2,56%;1,0;0,90;0,9;Ningbo Professional FC vs Changchun Yatai;China Division 1;China;193881649,0;51,28%;;90,0;03/05/2026;0,4377144458747535;2,2845892449638088
+2026-05-03;09:00;Sim;;1,77;1,8;0,00%;1,69%;1,0;0,80;-1,0;Randers FC vs Vejle;Denmark Superligaen;Denmark;193194989,0;56,50%;;-100,0;03/05/2026;0,505713097051367;1,9774018676375291
+2026-05-03;09:00;Sim;;1,89;1,9;0,00%;0,53%;1,0;0,90;-1,0;SGS Essen (W) vs Bayer Leverkusen (W);Germany Bundesliga Women;Germany;193880998,0;52,91%;;-100,0;03/05/2026;0,5751290227594165;1,7387372601452793
+2026-05-03;09:45;Sim;;2,09;1,95;0,00%;-6,70%;1,0;0,95;-1,0;Zaglebie Lubin vs Cracovia Krakow;Poland Ekstraklasa;Poland;192785626,0;47,85%;;-100,0;03/05/2026;0,4104954871838679;2,436074439662827
+2026-05-03;10:00;Sim;;2,12;2,1;0,00%;-0,94%;1,0;1,10;-1,0;Riga FC vs FK Liepaja;Latvia Virsliga;Latvia;193940431,0;47,17%;;-100,0;03/05/2026;0,5445978893989644;1,8362138070160767
+2026-05-03;10:30;Sim;;1,86;1,8;0,00%;-3,23%;1,0;0,80;0,8;St Pauli vs Mainz;Germany Bundesliga I;Germany;192932650,0;53,76%;;80,0;03/05/2026;0,4792175402977966;2,086730616429361
+2026-05-03;11:00;Sim;S;1,96;1,95;0,00%;-0,51%;1,0;0,95;-1,0;Antwerp vs Standard Liege;Belgium First Division A;Belgium;193190238,0;51,02%;;-100,0;03/05/2026;0,4426806526197908;2,2589596701873647
+2026-05-03;11:00;Sim;S;1,98;2,1;0,00%;6,06%;1,0;1,10;-1,0;Apoel Nicosia vs AEK Larnaca;Cyprus Division 1;Cyprus;193383491,0;50,51%;;-100,0;03/05/2026;0,457577007508697;2,1854197177100856
+2026-05-03;11:00;Sim;;1,84;2,0;0,00%;8,70%;1,0;1,00;-1,0;Merida vs Lugo;Spain Primera Division RFEF Group 1;Spain;193108892,0;54,35%;;-100,0;03/05/2026;0,40833927873528;2,448937937489833
+2026-05-03;11:00;Sim;S;1,91;2,1;0,00%;9,95%;1,0;1,10;1,1;Assyriska Föreningen vs FC Järfälla;Sweden 1.div Norra;Sweden;193756207,0;52,36%;;110,00000000000001;03/05/2026;0,5272691094035835;1,8965611404203064
+2026-05-03;13:00;Sim;;1,62;1,8;0,00%;11,11%;1,0;0,80;0,8;Apollon Limassol vs Pafos FC;Cyprus Division 1;Cyprus;193383504,0;61,73%;;80,0;03/05/2026;0,5029589623735019;1,98822982903238
+2026-05-03;13:15;Sim;;2,14;2,2;0,00%;2,80%;1,0;1,20;1,2;Sabadell vs Real Murcia;Spain Primera Division RFEF Group 2;Spain;193109828,0;46,73%;;120,0;03/05/2026;0,3681324271436872;2,7164064066632205
+2026-05-03;13:30;Sim;S;1,72;1,95;0,00%;13,37%;1,0;0,95;-1,0;Sparta Prague vs FK Jablonec;Czechia First League;Czech Republic;193886548,0;58,14%;;-100,0;03/05/2026;0,4806061647172632;2,080701399007006
+2026-05-03;13:30;Sim;;1,75;1,95;0,00%;11,43%;1,0;0,95;-1,0;Real Betis vs Real Oviedo;Spain La Liga;Spain;192946798,0;57,14%;;-100,0;03/05/2026;0,45208407164241;2,211973061545769
+2026-05-03;14:30;Sim;;1,82;2,2;0,00%;20,88%;1,0;1,20;-1,0;FK Napredak vs Radnicki Nis;Serbia Super Liga;Serbia;193701851,0;54,95%;;-100,0;03/05/2026;0,5051881676589953;1,979456536318696
+2026-05-03;14:30;Sim;;2,14;2,37;0,00%;10,75%;1,0;1,37;1,37;Mladost Lucani vs Spartak Subotica;Serbia Super Liga;Serbia;193701846,0;46,73%;;137,0;03/05/2026;0,4582300593793321;2,1823051483120475
+2026-05-03;15:00;Sim;;2,5;2,5;0,00%;0,00%;1,0;1,50;-1,0;CA Colegiales vs San Martin SJ;Argentina Nacional B;Argentina;193187085,0;40,00%;;-100,0;03/05/2026;0,2940696747893165;3,4005430861694665
+2026-05-03;15:00;Sim;;2,36;2,5;0,00%;5,93%;1,0;1,50;-1,0;Club Atletico Mitre vs Acassuso;Argentina Nacional B;Argentina;193187005,0;42,37%;;-100,0;03/05/2026;0,3025140743811045;3,30562039609376
+2026-05-03;15:03;Sim;;2,1;2,37;0,00%;12,86%;1,0;1,37;1,37;Escobar FC vs Defensores de Belgrano VR;Argentina Torneo A;Argentina;193880548,0;47,62%;;137,0;03/05/2026;0,3456636522454788;2,8929773221065007
+2026-05-03;15:15;Sim;;1,89;1,9;0,00%;0,53%;1,0;0,90;0,9;Juan Pablo II College vs Universitario de Deportes;Peru Liga 1;Peru;192943517,0;52,91%;;90,0;03/05/2026;0,4834513268047285;2,068456276980358
+2026-05-03;15:30;Sim;;2,36;2,62;0,00%;11,02%;1,0;1,62;-1,0;Almirante Brown vs CA Chaco For Ever;Argentina Nacional B;Argentina;193186898,0;42,37%;;-100,0;03/05/2026;0,2978946697670624;3,3568799465327697
+2026-05-03;15:30;Sim;;2,12;2,2;0,00%;3,77%;1,0;1,20;-1,0;Berazategui vs CA Lugano;Argentina Primera C Metropolitana;Argentina;193820558,0;47,17%;;-100,0;03/05/2026;0,3623293479218258;2,7599123444546634
+2026-05-03;15:30;Sim;;1,91;2,2;0,00%;15,18%;1,0;1,20;1,2;Puerto Nuevo vs Club Leandro N. Alem;Argentina Primera C Metropolitana;Argentina;193820497,0;52,36%;;120,0;03/05/2026;0,3948841406342761;2,532381943756533
+2026-05-03;15:30;Sim;;2,28;2,37;0,00%;3,95%;1,0;1,37;1,37;Azuriz vs Sao Jose RS;Brazil Serie D;Brazil;193830308,0;43,86%;;137,0;03/05/2026;0,3144817257064493;3,179824894208784
+2026-05-03;16:00;Sim;;2,34;2,37;0,00%;1,28%;1,0;1,37;-1,0;Belgrano vs Sarmiento;Argentina Liga Profesional;Argentina;193067285,0;42,74%;;-100,0;03/05/2026;0,3230739700171019;3,0952568066386115
+2026-05-03;16:00;Sim;;2,2;2,37;0,00%;7,73%;1,0;1,37;-1,0;Racing Club vs Huracan;Argentina Liga Profesional;Argentina;193067322,0;45,45%;;-100,0;03/05/2026;0,3933281729660374;2,542399772839496
+2026-05-03;16:00;Sim;;2,11;2,2;0,00%;4,27%;1,0;1,20;1,2;Atletico Alagoinhas vs ASA;Brazil Serie D;Brazil;193830277,0;47,39%;;120,0;03/05/2026;0,4005774259866678;2,4963900577942817
+2026-05-03;16:00;Sim;;2,04;2,1;0,00%;2,94%;1,0;1,10;1,1;Brasiliense vs Aparecidense;Brazil Serie D;Brazil;193830318,0;49,02%;;110,00000000000001;03/05/2026;0,389346366516767;2,56840057490651
+2026-05-03;16:30;Sim;;2,44;2,62;0,00%;7,38%;1,0;1,62;1,62;Ferrocarril Midland vs CA Guemes;Argentina Nacional B;Argentina;193187319,0;40,98%;;162,0;03/05/2026;0,3012585584113226;3,319396752997484
+2026-05-03;16:30;Sim;;2,45;2,62;0,00%;6,94%;1,0;1,62;1,62;Godoy Cruz vs CD Moron;Argentina Nacional B;Argentina;193187228,0;40,82%;;162,0;03/05/2026;0,3052075166010342;3,2764485445443547
+2026-05-03;16:30;Sim;;2,15;2,5;0,00%;16,28%;1,0;1,50;1,5;CA Sarmiento de la Banda vs Defensores Puerto Vilelas;Argentina Torneo A;Argentina;193926450,0;46,51%;;150,0;03/05/2026;0,3316389123561008;3,0153186113685937
+2026-05-03;17:00;Sim;;2,32;2,5;0,00%;7,76%;1,0;1,50;-1,0;Juventud Antoniana vs San Martin Formosa;Argentina Torneo A;Argentina;193880577,0;43,10%;;-100,0;03/05/2026;0,2797862854712107;3,5741438297162977
+2026-05-03;17:00;Sim;;2,02;2,2;0,00%;8,91%;1,0;1,20;-1,0;Ferroviaria vs Anapolis;Brazil Serie C;Brazil;193830251,0;49,50%;;-100,0;03/05/2026;0,4349020539404254;2,2993630211136287
+2026-05-03;17:00;Sim;;1,86;2,37;0,00%;27,42%;1,0;1,37;-1,0;Nacional AM vs Sao Raimundo RR;Brazil Serie D;Brazil;193830158,0;53,76%;;-100,0;03/05/2026;0,3936236839840919;2,5404910837360357
+2026-05-03;17:00;Sim;;2,2;2,25;0,00%;2,27%;1,0;1,25;-1,0;Sampaio Correa vs Maracanã;Brazil Serie D;Brazil;193830186,0;45,45%;;-100,0;03/05/2026;0,3208641524304791;3,116574026270014
+2026-05-03;18:00;Sim;;2,1;2,1;0,00%;0,00%;1,0;1,10;-1,0;Gotham FC (W) vs Racing Louisville FC (W);USA NWSL Women;USA;193914368,0;47,62%;;-100,0;03/05/2026;0,4394287889014684;2,275676399863338
+2026-05-03;19:00;Sim;;1,86;2,1;0,00%;12,90%;1,0;1,10;1,1;Paysandu vs Botafogo PB;Brazil Serie C;Brazil;193830261,0;53,76%;;110,00000000000001;03/05/2026;0,4494404060138823;2,224984139465584
+2026-05-03;19:00;Sim;;1,91;2,0;0,00%;4,71%;1,0;1,00;1,0;Municipal Liberia vs Deportivo Saprissa;Costa Rica Primera Division;Costa Rica;193881374,0;52,36%;;100,0;03/05/2026;0,5024494920922247;1,9902458366315028
+2026-05-03;21:00;Sim;;1,88;2,0;0,00%;6,38%;1,0;1,00;1,0;Deportes Limache vs O'Higgins;Chile Copa de la Liga;Chile;193982431,0;53,19%;;100,0;03/05/2026;0,4871671670347341;2,052679275180765
+2026-05-04;10:45;Sim;S;1,81;2,25;0,00%;24,31%;1,0;1,25;1,25;NK Dugopolje vs HNK Cibalia;Croatia 1.NL;Croatia;193995646,0;55,25%;;125,0;04/05/2026;0,4627518592649983;2,1609807048806235
+2026-05-04;13:00;Sim;;2,03;2,0;0,00%;-1,48%;1,0;1,00;1,0;Shamrock Rovers vs Drogheda United;Republic of Ireland Premier Division;Ireland;193201014,0;49,26%;;100,0;04/05/2026;0,41978512844719;2,382165422423676
+2026-05-04;13:20;Sim;;2,02;2,0;0,00%;-0,99%;1,0;1,00;-1,0;Al Shabab Seeb vs Al Rustaq;Oman League;Oman;194002620,0;49,50%;;-100,0;04/05/2026;0,5121147425915336;1,952683576840569
+2026-05-04;14:00;Sim;;2,11;2,1;0,00%;-0,47%;1,0;1,10;1,1;Wadi Degla vs Kahraba Ismailia;Egypt Division 1;Egypt;193995745,0;47,39%;;110,00000000000001;04/05/2026;0,3971172771532467;2,518141464473828
+2026-05-04;15:00;Sim;;2,13;2,2;0,00%;3,29%;1,0;1,20;-1,0;Ypiranga RS vs Ituano;Brazil Serie C;Brazil;193880720,0;46,95%;;-100,0;04/05/2026;0,4324790976694412;2,3122451307905805
+2026-05-04;15:00;Sim;;2,15;2,2;0,00%;2,33%;1,0;1,20;1,2;US Yacoub El Mansour vs RSB Berkane;Morocco GNF 1;Morocco;194001923,0;46,51%;;120,0;04/05/2026;0,3944000478974721;2,5354902207561034
+2026-05-04;15:45;Sim;;1,88;1,95;0,00%;3,72%;1,0;0,95;-1,0;Roma vs Fiorentina;Italy Serie A;Italy;193004648,0;53,19%;;-100,0;04/05/2026;0,4429808110605732;2,257429029886873
+2026-05-04;17:00;Sim;;2,13;2,2;0,00%;3,29%;1,0;1,20;1,2;Gimnasia Mendoza vs Defensa y Justicia;Argentina Liga Profesional;Argentina;193067316,0;46,95%;;120,0;04/05/2026;0,4188614526556937;2,3874185753813637
+2026-05-04;19:00;Sim;;2,01;2,1;0,00%;4,48%;1,0;1,10;1,1;Vila Nova vs Athletic Club MG;Brazil Serie B;Brazil;193192176,0;49,75%;;110,00000000000001;04/05/2026;0,4301370735623988;2,3248348878256957
+2026-05-04;19:00;Sim;;1,93;2,0;0,00%;3,63%;1,0;1,00;1,0;Retro vs Sergipe;Brazil Serie D;Brazil;193830183,0;51,81%;;100,0;04/05/2026;0,4621133730419712;2,163966451459357
+2026-05-04;20:00;Sim;;2,14;2,25;0,00%;5,14%;1,0;1,25;-1,0;Figueirense vs Barra SC;Brazil Serie C;Brazil;193880712,0;46,73%;;-100,0;04/05/2026;0,409099239274071;2,44438869499185
+2026-05-04;20:00;Sim;;2,33;2,5;0,00%;7,30%;1,0;1,50;1,5;Floresta vs Maranhao;Brazil Serie C;Brazil;193880716,0;42,92%;;150,0;04/05/2026;0,3496471404283557;2,8600180706663987
+2026-05-04;20:00;Sim;;1,83;1,9;0,00%;3,83%;1,0;0,90;0,9;Trem AP vs Imperatriz;Brazil Serie D;Brazil;194003295,0;54,64%;;90,0;04/05/2026;0,4262060240478829;2,346277615283162
+2026-05-05;08:00;Sim;;2,05;2,1;0,00%;2,44%;1,0;1,10;1,1;Chippa United vs Sekhukhune United;South Africa Premier;South Africa;193113700,0;48,78%;;110,00000000000001;05/05/2026;;
+2026-05-05;13:45;Sim;S;1,74;2,0;0,00%;14,94%;1,0;1,00;-1,0;RKC vs Willem II;Netherlands Eerste Divisie;Netherlands;194037922,0;57,47%;;-100,0;05/05/2026;0,5301939328643968;1,8860987497512751
+2026-05-05;14:30;Sim;;2,12;2,62;0,00%;23,58%;1,0;1,62;1,62;Magesi FC vs Orbit College;South Africa Premier;South Africa;193113703,0;47,17%;;162,0;05/05/2026;0,3606412258281472;2,7728311561511902
+2026-05-05;14:30;Sim;;2,12;2,5;0,00%;17,92%;1,0;1,50;-1,0;Stellenbosch FC vs Orlando Pirates;South Africa Premier;South Africa;193113715,0;47,17%;;-100,0;05/05/2026;0,4102098787224332;2,437770551367177
+2026-05-05;23:00;Sim;;2,32;2,37;0,00%;2,16%;1,0;1,37;-1,0;Deportivo Cuenca vs San Lorenzo;Copa Sudamericana;International (South America);193838023,0;43,10%;;-100,0;05/05/2026;0,3607501904518865;2,7719936246014147
+2026-05-06;14:30;Sim;;2,33;2,37;0,00%;1,72%;1,0;1,37;1,37;Mamelodi Sundowns vs Kaizer Chiefs;South Africa Premier;South Africa;193113721,0;42,92%;;137,0;06/05/2026;0,3283966229265084;3,0450890328880016
+2026-05-06;19:00;Sim;;1,97;2,1;0,00%;6,60%;1,0;1,10;-1,0;ABC vs Juazeirense;Brazil Copa Nordeste;Brazil;194092852,0;50,76%;;-100,0;06/05/2026;0,3828610611503719;2,611906745200441
+2026-05-06;19:00;Sim;;1,65;2,2;0,00%;33,33%;1,0;1,20;1,2;Aguia de Maraba vs Paysandu;Brazil Copa Norte;Brazil;194087213,0;60,61%;;120,0;06/05/2026;0,4315484087596002;2,3172317692991253
+2026-05-06;21:00;Sim;;1,86;2,1;0,00%;12,90%;1,0;1,10;1,1;Nacional AM vs Porto Velho;Brazil Copa Norte;Brazil;194131167,0;53,76%;;110,00000000000001;06/05/2026;0,3797960236276371;2,632985352145429
+2026-05-06;21:30;Sim;;2,06;2,1;0,00%;1,94%;1,0;1,10;-1,0;Sport Recife vs ASA;Brazil Copa Nordeste;Brazil;194129877,0;48,54%;;-100,0;06/05/2026;0,3822847283055745;2,615844448162775
+2026-05-06;21:30;Sim;;1,89;2,0;0,00%;5,82%;1,0;1,00;-1,0;Avai vs Sampaio Correa RJ;Brazil Copa Sul-Sudeste;Brazil;194131674,0;52,91%;;-100,0;06/05/2026;0,4684620702781409;2,134639982200239
+2026-05-06;21:30;Sim;;2,02;2,1;0,00%;3,96%;1,0;1,10;1,1;Sao Bernardo vs Caxias;Brazil Copa Sul-Sudeste;Brazil;194131660,0;49,50%;;110,00000000000001;06/05/2026;0,3581961060133213;2,791759015391962
+2026-05-06;21:30;Sim;;1,97;2,0;0,00%;1,52%;1,0;1,00;1,0;Volta Redonda vs Novorizontino;Brazil Copa Sul-Sudeste;Brazil;194152186,0;50,76%;;100,0;06/05/2026;0,420295919165091;2,379270354839798
+2026-05-06;23:00;Sim;;1,87;2,0;0,00%;6,95%;1,0;1,00;-1,0;Deportes Tolima vs Nacional De Football;Copa Libertadores;International (South America);193719235,0;53,48%;;-100,0;06/05/2026;0,4251775684960288;2,351952977162677
+2026-05-07;11:00;Sim;S;2,15;2,75;0,00%;27,91%;1,0;1,75;-1,0;Talaea El Geish vs Ghazl El Mahallah;Egypt Division 1;Egypt;194100801,0;46,51%;;-100,0;07/05/2026;0,294299909835168;3,397882801517942
+2026-05-07;13:00;Sim;;2,23;2,5;0,00%;12,11%;1,0;1,50;1,5;Difaa El Jadida vs HUSA Agadir;Morocco GNF 1;Morocco;194110296,0;44,84%;;150,0;07/05/2026;0,371524379693971;2,691606158437169
+2026-05-07;14:00;Sim;;1,94;2,25;0,00%;15,98%;1,0;1,25;-1,0;FK Auda vs SC Grobinas;Latvia Virsliga;Latvia;194107518,0;51,55%;;-100,0;07/05/2026;0,4430223450020362;2,257217393352948
+2026-05-07;17:00;Sim;;2,13;2,37;0,00%;11,27%;1,0;1,37;1,37;FAR Rabat vs OC Safi;Morocco GNF 1;Morocco;194110298,0;46,95%;;137,0;07/05/2026;0,3554007645218537;2,8137170375205325
+2026-05-07;21:30;Sim;;2,08;2,2;0,00%;5,77%;1,0;1,20;1,2;Carabobo vs River Plate;Copa Sudamericana;International (South America);193720900,0;48,08%;;120,0;07/05/2026;0,3615354245604905;2,7659730308382384
+2026-05-07;22:00;Sim;;2,27;2,75;0,00%;21,15%;1,0;1,75;-1,0;Atletico Bucaramanga vs CD Real Santander;Colombia Cup;Colombia;194162129,0;44,05%;;-100,0;07/05/2026;0,3407404284476577;2,9347766855230315
+2026-05-07;23:00;Sim;;1,86;2,05;0,00%;10,22%;1,0;1,05;-1,0;Junior vs Cerro Porteno;Copa Libertadores;International (South America);193719263,0;53,76%;;-100,0;07/05/2026;0,4108891134417367;2,433740718713588
+2026-05-08;10:51;Sim;S;1,86;1,9;0,00%;2,15%;1,0;0,90;-1,0;Sur SC vs Al Shabab Seeb;Oman League;Oman;194160717,0;53,76%;;-100,0;08/05/2026;0,5000700173886667;1,9997159707873589
+2026-05-08;11:00;Sim;;2,64;3,0;0,00%;13,64%;1,0;2,00;-1,0;Al Moqawloon Al Arab vs El Gounah;Egypt Division 1;Egypt;194151714,0;37,88%;;-100,0;08/05/2026;0,3094243199807361;3,2317975790160194
+2026-05-08;12:00;Sim;;2,03;2,2;0,00%;8,37%;1,0;1,20;-1,0;Olympique Akbou vs CR Belouizdad;Algeria Division 1;Algeria;194110633,0;49,26%;;-100,0;08/05/2026;0,3887011537518042;2,5726639030627143
+2026-05-08;14:00;Sim;;1,74;1,8;0,00%;3,45%;1,0;0,80;-1,0;Elfsborg vs Brommapojkarna;Sweden Allsvenskan;Sweden;193320595,0;57,47%;;-100,0;08/05/2026;0,5019024896472893;1,99241491766225
+2026-05-08;14:30;Sim;;2,23;2,5;0,00%;12,11%;1,0;1,50;-1,0;Durban City vs Stellenbosch FC;South Africa Premier;South Africa;193332414,0;44,84%;;-100,0;08/05/2026;0,3640692797233482;2,746722420626824
+2026-05-08;15:30;Sim;;1,95;2,0;0,00%;2,56%;1,0;1,00;-1,0;Avellino vs Modena;Italy Serie B;Italy;193004907,0;51,28%;;-100,0;08/05/2026;0,4177021802599032;2,394044496806992
+2026-05-08;15:30;Sim;;1,93;2,05;0,00%;6,22%;1,0;1,05;1,05;Sudtirol vs Juve Stabia;Italy Serie B;Italy;193004936,0;51,81%;;105,0;08/05/2026;0,4279586646817347;2,3366688090656407
+2026-05-08;15:45;Sim;;1,8;1,95;0,00%;8,33%;1,0;0,95;-1,0;Shelbourne vs Sligo Rovers;Republic of Ireland Premier Division;Ireland;193201029,0;55,56%;;-100,0;08/05/2026;0,4563950495149065;2,191079438708723
+2026-05-08;16:00;Sim;S;1,79;2,05;0,00%;14,53%;1,0;1,05;-1,0;Hull vs Millwall;England Championship;England;193989622,0;55,87%;;-100,0;08/05/2026;0,4603015484102615;2,1724841703650823
+2026-05-08;16:15;Sim;;1,39;1,57;0,00%;12,95%;1,0;0,57;-1,0;Njardvik vs Fylkir Reykjavik;Iceland 1 Deild;Iceland;194155323,0;71,94%;;-100,0;08/05/2026;0,5728271057820818;1,7457243977836956
+2026-05-08;17:00;Sim;;2,15;2,2;0,00%;2,33%;1,0;1,20;1,2;Boca Juniors De Cali vs Alianza;Colombia Cup;Colombia;194142521,0;46,51%;;120,0;08/05/2026;0,3443435736035921;2,9040678339574924
+2026-05-08;17:00;Sim;;2,08;2,62;0,00%;25,96%;1,0;1,62;1,62;Kawkab Marrakech vs Renaissance Zemamra;Morocco GNF 1;Morocco;194149799,0;48,08%;;162,0;08/05/2026;0,3542850992860307;2,822577577881926
+2026-05-08;19:00;Sim;;2,39;2,5;0,00%;4,60%;1,0;1,50;-1,0;Cruzeiro (W) vs America MG (W);Brazil Serie A1 Women;Brazil;194093977,0;41,84%;;-100,0;08/05/2026;0,4021989917125264;2,486325262569257
+2026-05-08;21:00;Sim;;2,12;2,2;0,00%;3,77%;1,0;1,20;-1,0;Orense vs Leones FC;Ecuador LigaPro Serie A;Ecuador;194057596,0;47,17%;;-100,0;08/05/2026;0,3734317568806823;2,6778582799031634
+2026-05-08;21:10;Sim;;2,27;2,37;0,00%;4,41%;1,0;1,37;1,37;Banfield vs San Martin de Tucuman;Argentina Cup;Argentina;194067568,0;44,05%;;137,0;08/05/2026;0,330868820586515;3,0223366949193315
+2026-05-08;22:00;Sim;;1,9;1,9;0,00%;0,00%;1,0;0,90;0,9;Colorado Switchbacks FC vs Orange County SC;USA USL Championship;USA;193333203,0;52,63%;;90,0;08/05/2026;0,4339178737041767;2,304578253219167
+2026-05-09;02:00;Sim;;1,95;1,95;0,00%;0,00%;1,0;0,95;0,95;Mito Hollyhock vs Urawa Red Diamonds;Japan J-League;Japan;193328513,0;51,28%;;95,0;09/05/2026;0,4672756327084247;2,140059934527025
+2026-05-09;02:00;Sim;;1,8;1,8;0,00%;0,00%;1,0;0,80;0,8;Hwaseong FC vs Suwon FC;South Korea K League 2;South Korea;193202410,0;55,56%;;80,0;09/05/2026;0,4633001501966419;2,1584233053934003
+2026-05-09;04:30;Sim;;2,4;2,5;0,00%;4,17%;1,0;1,50;-1,0;Gwangju FC vs Gangwon FC;South Korea K League 1;South Korea;193202207,0;41,67%;;-100,0;09/05/2026;0,4234318720042884;2,3616494280818903
+2026-05-09;04:30;Sim;;1,93;2,2;0,00%;13,99%;1,0;1,20;1,2;Chungbuk Cheongju vs Gimpo FC;South Korea K League 2;South Korea;193202416,0;51,81%;;120,0;09/05/2026;0,4099582916142805;2,4392665819631496
+2026-05-09;04:30;Sim;;1,75;1,8;0,00%;2,86%;1,0;0,80;-1,0;Suwon Bluewings vs Daegu FC;South Korea K League 2;South Korea;193202440,0;57,14%;;-100,0;09/05/2026;0,4812609199531724;2,077870611697892
+2026-05-09;07:00;Sim;;1,95;2,2;0,00%;12,82%;1,0;1,20;-1,0;FC Rukh Lviv vs FC Veres Rivne;Ukraine Vyscha Liga;Ukraine;193758267,0;51,28%;;-100,0;09/05/2026;0,4678647653432631;2,137365189065118
+2026-05-09;08:00;Sim;;1,58;1,66;0,00%;5,06%;1,0;0,66;0,66;Umea FC vs Gefle IF;Sweden 1.div Norra;Sweden;193756241,0;63,29%;;66,0;09/05/2026;0,5859539078248259;1,706615964208213
+2026-05-09;08:30;Sim;;1,73;1,83;0,00%;5,78%;1,0;0,83;-1,0;Middlesbrough vs Southampton;England Championship;England;193989625,0;57,80%;;-100,0;09/05/2026;0,513518056218077;1,9473474019926695
+2026-05-09;08:35;Sim;;1,79;1,8;0,00%;0,56%;1,0;0,80;0,8;Shanghai Shenhua vs Chongqing Tonglianglong;China Super League;China;193327991,0;55,87%;;80,0;09/05/2026;0,4786925753616745;2,0890190540879
+2026-05-09;09:00;Sim;;1,9;1,9;0,00%;0,00%;1,0;0,90;0,9;FK Teplice vs Banik Ostrava;Czechia First League;Czech Republic;194166594,0;52,63%;;90,0;09/05/2026;0,4129482981436362;2,4216047938460714
+2026-05-09;09:00;Sim;;1,47;1,53;0,00%;4,08%;1,0;0,53;0,53;Hansa Rostock vs VfB Stuttgart II;Germany 3. Liga;Germany;193001733,0;68,03%;;53,0;09/05/2026;0,5490727007912548;1,8212491302332048
+2026-05-09;09:00;Sim;;1,66;1,72;0,00%;3,61%;1,0;0,72;0,72;VfL Osnabruck vs SSV Ulm 1846;Germany 3. Liga;Germany;193001760,0;60,24%;;72,0;09/05/2026;0,4527879847556832;2,208534292280944
+2026-05-09;11:00;Sim;S;1,8;2,2;0,00%;22,22%;1,0;1,20;-1,0;Stevenage vs Stockport;England League 1;England;193996913,0;55,56%;;-100,0;09/05/2026;0,4506909586473093;2,2188103888104957
+2026-05-09;11:00;Sim;;1,64;1,66;0,00%;1,22%;1,0;0,66;0,66;Hornchurch FC vs Torquay;England National League South;England;194038744,0;60,98%;;66,0;09/05/2026;0,5489404303295488;1,8216879702442297
+2026-05-09;11:00;Sim;S;1,93;2,0;0,00%;3,63%;1,0;1,00;1,0;Larissa vs Asteras Tripolis;Greece Super League 1;Greece;193328160,0;51,81%;;100,0;09/05/2026;0,4324747850817136;2,312268188173949
+2026-05-09;11:00;Sim;S;1,4;1,57;0,00%;12,14%;1,0;0,57;0,57;IF Vestri vs HK Kopavogur;Iceland 1 Deild;Iceland;194205730,0;71,43%;;56,99999999999999;09/05/2026;0,6007897554868261;1,6644730147182292
+2026-05-09;11:00;Sim;S;1,71;2,0;0,00%;16,96%;1,0;1,00;1,0;Podhale Nowy Targ vs Chojniczanka Chojnice;Poland II Liga;Poland;193286205,0;58,48%;;100,0;09/05/2026;0,4972215243985742;2,0111719621100645
+2026-05-09;11:00;Sim;S;1,73;1,9;0,00%;9,83%;1,0;0,90;-1,0;Aberdeen vs Dundee Utd;Scotland Premiership;Scotland;193332095,0;57,80%;;-100,0;09/05/2026;0,4784728856793147;2,0899782201911545
+2026-05-09;11:00;Sim;S;1,88;2,2;0,00%;17,02%;1,0;1,20;-1,0;Eibar (W) vs Alhama CF (W);Spain Primera Women;Spain;194169562,0;53,19%;;-100,0;09/05/2026;0,490325330491913;2,039458087018831
+2026-05-09;11:15;Sim;;1,84;2,2;0,00%;19,57%;1,0;1,20;1,2;Sevilla vs Espanyol;Spain La Liga;Spain;193003408,0;54,35%;;120,0;09/05/2026;0,4133319837235465;2,4193568850746248
+2026-05-09;12:00;Sim;;1,83;2,05;0,00%;12,02%;1,0;1,05;1,05;Grazer AK vs SCR Altach;Austria Bundesliga;Austria;193323490,0;54,64%;;105,0;09/05/2026;0,4480432109676129;2,231922599424648
+2026-05-09;12:00;Sim;;1,78;1,8;0,00%;1,12%;1,0;0,80;0,8;AEL Limassol vs Olympiakos Nicosia;Cyprus Division 1;Cyprus;194085248,0;56,18%;;80,0;09/05/2026;0,4347125521042697;2,300365367399776
+2026-05-09;12:00;Sim;;1,64;1,66;0,00%;1,22%;1,0;0,66;-1,0;SJK Akatemia vs JaPS;Finland Ykkosliiga;Finland;194191317,0;60,98%;;-100,0;09/05/2026;0,4670421702711327;2,141129693470241
+2026-05-09;12:00;Sim;;1,79;2,0;0,00%;11,73%;1,0;1,00;1,0;Obolon Kyiv vs Epitsentr Kamianets-Podilskyi;Ukraine Vyscha Liga;Ukraine;193758272,0;55,87%;;100,0;09/05/2026;0,4542087225428827;2,201626143979312
+2026-05-09;12:30;Sim;;1,95;2,2;0,00%;12,82%;1,0;1,20;1,2;FK Zeleznicar Pancevo vs FK Radnik Surdulica;Serbia Super Liga;Serbia;194091024,0;51,28%;;120,0;09/05/2026;0,4221314458850834;2,3689247527593005
+2026-05-09;13:00;Sim;;1,89;1,9;0,00%;0,53%;1,0;0,90;-1,0;Ferencvarosi TC vs Zalaegerszegi TE;Hungary Cup;Hungary;194165922,0;52,91%;;-100,0;09/05/2026;0,494900074193399;2,0206058385098933
+2026-05-09;13:00;Sim;;1,54;1,57;0,00%;1,95%;1,0;0,57;0,57;Bodo/Glimt vs SK Brann;Norway Cup;Norway;194210233,0;64,94%;;56,99999999999999;09/05/2026;0,5092776922477626;1,9635614354615545
+2026-05-09;13:00;Sim;;1,73;1,8;0,00%;4,05%;1,0;0,80;-1,0;Olimpia Grudziadz vs Rekord Bielsko-Biala;Poland II Liga;Poland;193286211,0;57,80%;;-100,0;09/05/2026;0,4847953484231946;2,0627218073166413
+2026-05-09;13:00;Sim;;1,58;1,61;0,00%;1,90%;1,0;0,61;0,61;FC Zurich vs Grasshoppers;Switzerland Super League;Switzerland;193332534,0;63,29%;;61,0;09/05/2026;0,5160596895109435;1,9377565862411887
+2026-05-09;14:00;Sim;;1,98;2,1;0,00%;6,06%;1,0;1,10;-1,0;Reus FC Reddis vs UD Ourense;Spain Segunda Division RFEF Play-Offs;Spain;194211651,0;50,51%;;-100,0;09/05/2026;0,3964074082140315;2,5226508299997343
+2026-05-09;14:00;Sim;;1,87;1,9;0,00%;1,60%;1,0;0,90;-1,0;Tudelano vs Real Oviedo Vetusta;Spain Segunda Division RFEF Play-Offs;Spain;194264292,0;53,48%;;-100,0;09/05/2026;0,4119048845764794;2,4277390477880587
+2026-05-09;14:30;Sim;;1,64;1,72;0,00%;4,88%;1,0;0,72;0,72;Stal Mielec vs Puszcza Niepolomice;Poland I Liga;Poland;193107593,0;60,98%;;72,0;09/05/2026;0,5085297777668047;1,9664493157945429
+2026-05-09;14:30;Sim;;1,55;1,61;0,00%;3,87%;1,0;0,61;0,61;Znicz Pruszków vs Polonia Bytom;Poland I Liga;Poland;193107600,0;64,52%;;61,0;09/05/2026;0,5118362546189561;1,9537460217593243
+2026-05-09;15:00;Sim;;2,47;3,0;0,00%;21,46%;1,0;2,00;-1,0;CD Moron vs Los Andes;Argentina Nacional B;Argentina;193326597,0;40,49%;;-100,0;09/05/2026;0,3193958424071125;3,130901334100764
+2026-05-09;15:00;Sim;;2,0;2,75;0,00%;37,50%;1,0;1,75;-1,0;Magesi FC vs Orlando Pirates;South Africa Premier;South Africa;193332482,0;50,00%;;-100,0;09/05/2026;0,4434553160248607;2,255013546687062
+2026-05-09;15:30;Sim;;2,46;2,75;0,00%;11,79%;1,0;1,75;1,75;CA San Miguel vs CA Estudiantes Caseros;Argentina Nacional B;Argentina;193326638,0;40,65%;;175,0;09/05/2026;0,2930436745314781;3,412448977613421
+2026-05-09;15:30;Sim;;2,19;2,5;0,00%;14,16%;1,0;1,50;-1,0;Talleres Remedios vs Villa San Carlos;Argentina Primera B Metropolitana;Argentina;194162333,0;45,66%;;-100,0;09/05/2026;0,3360165422676761;2,9760350999870915
+2026-05-09;15:30;Sim;;2,23;2,5;0,00%;12,11%;1,0;1,50;1,5;Deportivo Armenio vs Deportivo Camioneros;Argentina Primera B Metropolitana;Argentina;194162302,0;44,84%;;150,0;09/05/2026;0,3271432716324344;3,0567553422532736
+2026-05-09;15:30;Sim;;2,42;2,5;0,00%;3,31%;1,0;1,50;-1,0;CSD Flandria vs Deportivo Merlo;Argentina Primera B Metropolitana;Argentina;194162309,0;41,32%;;-100,0;09/05/2026;0,3531607473904067;2,831563744910738
+2026-05-09;15:30;Sim;;2,24;2,5;0,00%;11,61%;1,0;1,50;-1,0;Independiente Chivilcoy vs Club Atlético El Linqueño;Argentina Torneo A;Argentina;194260944,0;44,64%;;-100,0;09/05/2026;0,3348680173608435;2,9862422265313184
+2026-05-09;15:30;Sim;;2,42;2,5;0,00%;3,31%;1,0;1,50;1,5;Maracanã vs Sampaio Correa;Brazil Serie D;Brazil;194164520,0;41,32%;;150,0;09/05/2026;0,2737817638518579;3,652530882262163
+2026-05-09;15:30;Sim;;1,87;2,2;0,00%;17,65%;1,0;1,20;-1,0;Danubio vs Albion FC;Uruguay Apertura;Uruguay;194052234,0;53,48%;;-100,0;09/05/2026;0,472485160024138;2,1164641096554297
+2026-05-09;16:00;Sim;;1,92;2,1;0,00%;9,38%;1,0;1,10;-1,0;Goias vs Vila Nova;Brazil Serie B;Brazil;193192179,0;52,08%;;-100,0;09/05/2026;0,4299389268685804;2,3259063359930043
+2026-05-09;16:00;Sim;;2,04;2,37;0,00%;16,18%;1,0;1,37;-1,0;Madureira vs Portuguesa;Brazil Serie D;Brazil;194317071,0;49,02%;;-100,0;09/05/2026;0,4331656997945487;2,308580046606308
+2026-05-09;16:00;Sim;;2,01;2,2;0,00%;9,45%;1,0;1,20;-1,0;Pouso Alegre vs America RJ;Brazil Serie D;Brazil;194168750,0;49,75%;;-100,0;09/05/2026;0,3951169333994037;2,530889933029573
+2026-05-09;16:00;Sim;;1,94;1,95;0,00%;0,52%;1,0;0,95;-1,0;Bolton vs Bradford;England League 1;England;193996918,0;51,55%;;-100,0;09/05/2026;0,4812115470857048;2,078083803209517
+2026-05-09;17:00;Sim;;1,96;2,1;0,00%;7,14%;1,0;1,10;-1,0;Itabaiana vs Floresta;Brazil Serie C;Brazil;194168762,0;51,02%;;-100,0;09/05/2026;0,4089198757605623;2,44546086853618
+2026-05-09;17:00;Sim;;1,95;2,1;0,00%;7,69%;1,0;1,10;1,1;Paysandu vs Anapolis;Brazil Serie C;Brazil;194168776,0;51,28%;;110,00000000000001;09/05/2026;0,4899569815973718;2,0409913452981785
+2026-05-09;17:00;Sim;;2,11;2,2;0,00%;4,27%;1,0;1,20;-1,0;Marica vs Noroeste;Brazil Serie D;Brazil;194164522,0;47,39%;;-100,0;09/05/2026;0,3779544776968749;2,6458142797496715
+2026-05-09;18:00;Sim;;1,85;2,2;0,00%;18,92%;1,0;1,20;1,2;Fluminense vs Vitoria;Brazil Serie A;Brazil;193191342,0;54,05%;;120,0;09/05/2026;0,4289826746761803;2,3310910391982937
+2026-05-09;18:00;Sim;;1,89;1,9;0,00%;0,53%;1,0;0,90;0,9;Mixto (W) vs Bahia (W);Brazil Serie A1 Women;Brazil;194093983,0;52,91%;;90,0;09/05/2026;0,4856760000607626;2,0589815862700744
+2026-05-09;18:00;Sim;;1,99;2,2;0,00%;10,55%;1,0;1,20;1,2;Maranhao vs Botafogo PB;Brazil Serie C;Brazil;194168770,0;50,25%;;120,0;09/05/2026;0,4726280712397701;2,1158241438193053
+2026-05-09;18:00;Sim;;2,4;2,62;0,00%;9,17%;1,0;1,62;1,62;Marcilio Dias vs Brasil de Pelotas;Brazil Serie D;Brazil;194187677,0;41,67%;;162,0;09/05/2026;0,3291094368805256;3,038493733223727
+2026-05-09;18:00;Sim;;2,08;2,25;0,00%;8,17%;1,0;1,25;-1,0;XV Piracicaba vs Sampaio Correa RJ;Brazil Serie D;Brazil;194187687,0;48,08%;;-100,0;09/05/2026;0,3819216038273422;2,6183315414661226
+2026-05-09;18:30;Sim;;1,87;2,0;0,00%;6,95%;1,0;1,00;-1,0;Central Espanol vs Racing Club de Montevideo;Uruguay Apertura;Uruguay;194052225,0;53,48%;;-100,0;09/05/2026;0,4477159160751564;2,2335542037731138
+2026-05-09;19:00;Sim;;2,26;2,5;0,00%;10,62%;1,0;1,50;1,5;Velo Clube vs Nova Iguacu;Brazil Serie D;Brazil;194168781,0;44,25%;;150,0;09/05/2026;0,3164472230417409;3,1600746257566934
+2026-05-09;20:00;Sim;;1,9;2,0;0,00%;5,26%;1,0;1,00;-1,0;Louisville City FC vs Pittsburgh Riverhounds;USA USL Championship;USA;193333224,0;52,63%;;-100,0;09/05/2026;0,4444356342076666;2,250039540018526
+2026-05-09;20:30;Sim;;1,65;1,75;0,00%;6,06%;1,0;0,75;0,75;New England vs Philadelphia;USA MLS;USA;193330551,0;60,61%;;75,0;09/05/2026;0,4429311203780318;2,257682281308757
+2026-05-09;21:45;Sim;S;1,75;2,25;0,00%;28,57%;1,0;1,25;1,25;Angel City FC (W) vs San Diego Wave (W);USA NWSL Women;USA;194216953,0;57,14%;;125,0;09/05/2026;0,435302983403253;2,297245231210368
+2026-05-09;22:00;Sim;;2,04;2,1;0,00%;2,94%;1,0;1,10;1,1;Alianza Lima vs Sporting Cristal;Peru Liga 1;Peru;193329732,0;49,02%;;110,00000000000001;09/05/2026;0,3792159297811792;2,6370130694772342
+2026-05-09;22:20;Sim;;1,92;2,0;0,00%;4,17%;1,0;1,00;1,0;America de Cali vs Independiente Santa Fe;Colombia Primera A;Colombia;194127640,0;52,08%;;100,0;09/05/2026;0,4031464799474322;2,480481832927229
+2026-05-09;23:30;Sim;;1,81;1,83;0,00%;1,10%;1,0;0,83;-1,0;Spokane Zephyr (W) vs DC Power (W);USA USL Super League Women;USA;194216986,0;55,25%;;-100,0;09/05/2026;0,4339343464509815;2,3044907684489875
+2026-05-10;02:00;Sim;;1,94;1,95;0,00%;0,52%;1,0;0,95;0,95;Shimizu S-Pulse vs Avispa Fukuoka;Japan J-League;Japan;193328524,0;51,55%;;95,0;10/05/2026;0,4274196687758211;2,339615449257772
+2026-05-10;02:00;Sim;;1,93;2,0;0,00%;3,63%;1,0;1,00;-1,0;Vissel Kobe vs Fagiano Okayama;Japan J-League;Japan;193328527,0;51,81%;;-100,0;10/05/2026;0,4748202659056135;2,1060556293592447
+2026-05-10;02:00;Sim;;1,7;2,0;0,00%;17,65%;1,0;1,00;-1,0;Tochigi SC vs Blaublitz Akita;Japan J2/J3 Centennial League;Japan;193335589,0;58,82%;;-100,0;10/05/2026;0,4577685302967482;2,1845053762135542
+2026-05-10;02:00;Sim;;1,87;2,1;0,00%;12,30%;1,0;1,10;1,1;Tokushima Vortis vs Nara Club;Japan J2/J3 Centennial League;Japan;193335592,0;53,48%;;110,00000000000001;10/05/2026;0,5095049745764028;1,962685522640609
+2026-05-10;03:00;Sim;;1,95;2,1;0,00%;7,69%;1,0;1,10;1,1;FC Tokyo vs Tokyo Verdy;Japan J-League;Japan;193328531,0;51,28%;;110,00000000000001;10/05/2026;0,4274767949165157;2,3393027939504907
+2026-05-10;03:00;Sim;;1,76;1,83;0,00%;3,98%;1,0;0,83;-1,0;Ehime FC vs Kataller Toyama;Japan J2/J3 Centennial League;Japan;193335608,0;56,82%;;-100,0;10/05/2026;0,467658573963559;2,1383075546271657
+2026-05-10;04:00;Sim;;1,77;1,8;0,00%;1,69%;1,0;0,80;0,8;Dalian K'un City vs Guangdong GZ-Power;China Division 1;China;194219960,0;56,50%;;80,0;10/05/2026;0,4753311355273217;2,103792117674991
+2026-05-10;07:00;Sim;;2,32;2,75;0,00%;18,53%;1,0;1,75;1,75;Sevilla Atletico vs Eldense;Spain Primera Division RFEF Group 2;Spain;193319780,0;43,10%;;175,0;10/05/2026;0,422080892808098;2,3692084807216687
+2026-05-10;08:30;Sim;;2,04;2,1;0,00%;2,94%;1,0;1,10;1,1;Foshan Nanshi vs Suzhou Dongwu;China Division 1;China;194266032,0;49,02%;;110,00000000000001;10/05/2026;0,3869562730820789;2,584264645125009
+2026-05-10;09:00;Sim;;1,67;1,75;0,00%;4,79%;1,0;0,75;0,75;AIK vs Djurgarden;Sweden Allsvenskan;Sweden;193320621,0;59,88%;;75,0;10/05/2026;0,4991126563643843;2,003551670543627
+2026-05-10;09:00;Sim;;1,84;2,0;0,00%;8,70%;1,0;1,00;-1,0;Kalmar FF vs Halmstad;Sweden Allsvenskan;Sweden;193320631,0;54,35%;;-100,0;10/05/2026;0,4746901278046871;2,106633011290349
+2026-05-10;09:30;Sim;;2,37;3,4;0,00%;43,46%;1,0;2,40;-1,0;SC Poltava vs Shakhtar Donetsk;Ukraine Vyscha Liga;Ukraine;193758276,0;42,19%;;-100,0;10/05/2026;0,5231219419198445;1,9115965289727723
+2026-05-10;10:00;Sim;;1,54;1,61;0,00%;4,55%;1,0;0,61;-1,0;ND Primorje vs NS Mura;Slovenia Prva Liga;Slovenia;193330200,0;64,94%;;-100,0;10/05/2026;0,4964699818598277;2,014216412516004
+2026-05-10;12:00;Sim;;1,48;1,61;0,00%;8,78%;1,0;0,61;0,61;Moss vs Bryne;Norway Division 1;Norway;193331999,0;67,57%;;61,0;10/05/2026;0,5805062914364879;1,72263124813723
+2026-05-10;12:00;Sim;;1,87;2,0;0,00%;6,95%;1,0;1,00;1,0;Utebo vs Aguilas;Spain Segunda Division RFEF Play-Offs;Spain;194320560,0;53,48%;;100,0;10/05/2026;0,3849372889773424;2,597818997576675
+2026-05-10;12:25;Sim;;1,66;1,8;0,00%;8,43%;1,0;0,80;0,8;Baniyas SC vs Shabab Al Ahli Dubai;UAE Pro League;UAE;194265957,0;60,24%;;80,0;10/05/2026;0,5373517970990356;1,860974773740123
+2026-05-10;13:00;Sim;;2,06;2,1;0,00%;1,94%;1,0;1,10;1,1;Parma vs Roma;Italy Serie A;Italy;193004731,0;48,54%;;110,00000000000001;10/05/2026;0,435355901865765;2,296965996667105
+2026-05-10;13:00;Sim;;2,06;2,1;0,00%;1,94%;1,0;1,10;1,1;FK Panevezys vs FK Kauno Zalgiris;Lithuania A Lyga;Lithuania;193754998,0;48,54%;;110,00000000000001;10/05/2026;0,508437846819119;1,966804869958644
+2026-05-10;13:30;Sim;;2,19;2,37;0,00%;8,22%;1,0;1,37;1,37;AEK Athens vs Panathinaikos;Greece Super League 1;Greece;193328174,0;45,66%;;137,0;10/05/2026;0,3867901131905524;2,5853748079970766
+2026-05-10;13:30;Sim;;2,09;2,25;0,00%;7,66%;1,0;1,25;-1,0;Alcoyano vs UD San Sebastian Reyes;Spain Segunda Division RFEF Play-Offs;Spain;194267360,0;47,85%;;-100,0;10/05/2026;0,3181719905904904;3,142944340260063
+2026-05-10;14:00;Sim;;1,94;2,0;0,00%;3,09%;1,0;1,00;-1,0;Coruxo vs Atletico Baleares;Spain Segunda Division RFEF Play-Offs;Spain;194267364,0;51,55%;;-100,0;10/05/2026;0,4146759073494402;2,4115160074667945
+2026-05-10;15:00;Sim;;2,08;2,1;0,00%;0,96%;1,0;1,10;1,1;US Pianese vs Lecco;Italy Serie C Play-Offs;Italy;194324899,0;48,08%;;110,00000000000001;10/05/2026;0,3816791707356973;2,619994636012861
+2026-05-10;15:30;Sim;;2,31;2,37;0,00%;2,60%;1,0;1,37;-1,0;Argentino Quilmes vs CS Dock Sud;Argentina Primera B Metropolitana;Argentina;194220463,0;43,29%;;-100,0;10/05/2026;0,3513493709999722;2,846161787602265
+2026-05-10;15:30;Sim;;2,31;2,5;0,00%;8,23%;1,0;1,50;1,5;Arsenal de Sarandi vs Real Pilar;Argentina Primera B Metropolitana;Argentina;194220466,0;43,29%;;150,0;10/05/2026;0,331879708622011;3,01313084497156
+2026-05-10;15:30;Sim;;2,36;2,62;0,00%;11,02%;1,0;1,62;-1,0;Cipolletti vs Juventud Unida Universitario;Argentina Torneo A;Argentina;194273988,0;42,37%;;-100,0;10/05/2026;0,3409163537020196;2,93326223831379
+2026-05-10;16:00;Sim;;2,31;2,5;0,00%;8,23%;1,0;1,50;-1,0;Agropecuario vs CA Atlanta;Argentina Nacional B;Argentina;193326565,0;43,29%;;-100,0;10/05/2026;0,4051343620485723;2,468310825654633
+2026-05-10;16:00;Sim;;2,04;2,2;0,00%;7,84%;1,0;1,20;-1,0;Boca Unidos vs Sol de America de Formosa;Argentina Torneo A;Argentina;194267388,0;49,02%;;-100,0;10/05/2026;0,3637865499459532;2,748857128696589
+2026-05-10;16:00;Sim;;1,92;2,0;0,00%;4,17%;1,0;1,00;-1,0;Defensores de Belgrano VR vs CA 9 de Julio Rafaela;Argentina Torneo A;Argentina;194259978,0;52,08%;;-100,0;10/05/2026;0,4677921271506799;2,137697075822775
+2026-05-10;16:00;Sim;;2,01;2,62;0,00%;30,35%;1,0;1,62;1,62;CA Douglas Haig vs Atletico Escobar FC;Argentina Torneo A;Argentina;194270271,0;49,75%;;162,0;10/05/2026;0,305441000309971;3,2739439860437405
+2026-05-10;16:00;Sim;;2,59;2,62;0,00%;1,16%;1,0;1,62;-1,0;Tucuman Central vs Juventud Antoniana;Argentina Torneo A;Argentina;194267392,0;38,61%;;-100,0;10/05/2026;0,3470077289815822;2,881771887799041
+2026-05-10;16:00;Sim;;2,08;2,25;0,00%;8,17%;1,0;1,25;1,25;Portuguesa RJ vs Agua Santa;Brazil Serie D;Brazil;194187754,0;48,08%;;125,0;10/05/2026;0,3814547608611385;2,621535975082653
+2026-05-10;16:00;Sim;;1,34;2,0;0,00%;49,25%;1,0;1,00;1,0;Coquimbo Unido vs Huachipato;Chile Copa de la Liga;Chile;193985011,0;74,63%;;100,0;10/05/2026;0,4574161570421887;2,1861882192315045
+2026-05-10;16:00;Sim;;1,31;1,9;0,00%;45,04%;1,0;0,90;-1,0;Union La Calera vs Universidad de Chile;Chile Copa de la Liga;Chile;193985008,0;76,34%;;-100,0;10/05/2026;0,4185666761121869;2,3890999163823974
+2026-05-10;16:30;Sim;;2,44;2,62;0,00%;7,38%;1,0;1,62;1,62;San Martin Formosa vs CA Sarmiento de la Banda;Argentina Torneo A;Argentina;194312762,0;40,98%;;162,0;10/05/2026;0,2761804169592695;3,6208084200953934
+2026-05-10;17:00;Sim;;2,21;2,37;0,00%;7,24%;1,0;1,37;-1,0;ASA vs Atletico Alagoinhas;Brazil Serie D;Brazil;194187768,0;45,25%;;-100,0;10/05/2026;0,3566601973908462;2,8037813121121578
+2026-05-10;17:00;Sim;;1,89;2,2;0,00%;16,40%;1,0;1,20;-1,0;Treze vs Decisao;Brazil Serie D;Brazil;194187770,0;52,91%;;-100,0;10/05/2026;0,4606905684463502;2,170649667786257
+2026-05-10;17:00;Sim;;2,11;2,25;0,00%;6,64%;1,0;1,25;-1,0;Rionegro Aguilas v Jaguares de Cordoba;Colombia Cup;Colombia;194272404,0;47,39%;;-100,0;10/05/2026;0,4217623011115141;2,370998134177635
+2026-05-10;17:15;Sim;;1,83;1,9;0,00%;3,83%;1,0;0,90;0,9;Comerciantes Unidos vs FBC Melgar;Peru Liga 1;Peru;193329737,0;54,64%;;90,0;10/05/2026;0,4058574183189344;2,4639134113368897
+2026-05-10;17:30;Sim;;1,52;1,57;0,00%;3,29%;1,0;0,57;-1,0;New York City vs Columbus Crew;USA MLS;USA;193330578,0;65,79%;;-100,0;10/05/2026;0,5523502647029757;1,8104421296794628
+2026-05-10;18:00;Sim;;2,07;2,2;0,00%;6,28%;1,0;1,20;-1,0;Manauara vs GAS;Brazil Serie D;Brazil;194187776,0;48,31%;;-100,0;10/05/2026;0,4334083059604061;2,3072877906579943
+2026-05-10;18:30;Sim;;1,27;1,72;0,00%;35,43%;1,0;0,72;0,72;Universidad Catolica vs Nublense;Chile Copa de la Liga;Chile;193985013,0;78,74%;;72,0;10/05/2026;0,4351490763883859;2,298057737458529
+2026-05-10;19:30;Sim;;1,95;2,1;0,00%;7,69%;1,0;1,10;-1,0;Novorizontino vs Botafogo SP;Brazil Serie B;Brazil;193192210,0;51,28%;;-100,0;10/05/2026;0,4020040346740138;2,487531035055073
+2026-05-10;19:30;Sim;;1,94;2,0;0,00%;3,09%;1,0;1,00;-1,0;Nacional De Football vs Cerro;Uruguay Apertura;Uruguay;194052230,0;51,55%;;-100,0;10/05/2026;0,4381436624461103;2,2823512088841094
+2026-05-10;21:00;Sim;;1,31;2,1;0,00%;60,31%;1,0;1,10;1,1;O'Higgins vs Everton de Vina;Chile Copa de la Liga;Chile;193985017,0;76,34%;;110,00000000000001;10/05/2026;0,4416430873392876;2,2642666995149026
+2026-05-10;22:00;Sim;;1,67;1,8;0,00%;7,78%;1,0;0,80;0,8;LAFC vs Houston Dynamo;USA MLS;USA;193330598,0;59,88%;;80,0;10/05/2026;0,4615462274523136;2,166625516352644
+2026-05-11;11:00;Sim;S;1,8;1,8;0,00%;0,00%;1,0;0,80;-1,0;East Bengal Club vs Punjab FC;India Super League;India;194203859,0;55,56%;;-100,0;11/05/2026;0,4534383032441407;2,205366832662012
+2026-05-11;12:00;Sim;;1,84;1,9;0,00%;3,26%;1,0;0,90;-1,0;SC Grobinas vs FS Jelgava;Latvia Virsliga;Latvia;194270245,0;54,35%;;-100,0;11/05/2026;0,4291306133441563;2,330287419766525
+2026-05-11;13:00;Sim;;1,73;2,2;0,00%;27,17%;1,0;1,20;1,2;FC Kafr Qasim vs Hapoel Nof HaGalil;Israel Leumit Liga;Israel;194321779,0;57,80%;;120,0;11/05/2026;0,428039479718415;2,3362276405676554
+2026-05-11;13:00;Sim;;1,81;2,2;0,00%;21,55%;1,0;1,20;1,2;OC Safi vs FUS Rabat;Morocco GNF 1;Morocco;194314486,0;55,25%;;120,0;11/05/2026;0,4162636491055922;2,4023178575184123
+2026-05-11;13:30;Sim;S;1,79;1,9;0,00%;6,15%;1,0;0,90;0,9;Odra Opole vs Pogon Grodzisk Mazowiecki;Poland I Liga;Poland;193107622,0;55,87%;;90,0;11/05/2026;0,4671869680023813;2,1404660832252063
+2026-05-11;13:45;Sim;S;1,58;1,66;0,00%;5,06%;1,0;0,66;0,66;Al Jazira SC vs Al Wasl SC;UAE Pro League;UAE;194271005,0;63,29%;;66,0;11/05/2026;0,5434016717260781;1,840255950202774
+2026-05-11;14:00;Sim;;1,63;1,66;0,00%;1,84%;1,0;0,66;0,66;SK Super Nova vs Tukums 2000;Latvia Virsliga;Latvia;194270248,0;61,35%;;66,0;11/05/2026;0,5215483392635968;1,9173641393390568
+2026-05-11;14:00;Sim;S;1,47;1,57;0,00%;6,80%;1,0;0,57;-1,0;Egersunds vs Odd BK;Norway Division 1;Norway;193332025,0;68,03%;;-100,0;11/05/2026;0,5395758202123072;1,8533042238666408
+2026-05-11;15:30;Sim;S;1,85;2,0;0,00%;8,11%;1,0;1,00;1,0;Huesca vs Real Sociedad B;Spain Segunda;Spain;193003564,0;54,05%;;100,0;11/05/2026;0,4509127007393364;2,217719262822042
+2026-05-11;16:00;Sim;S;1,79;1,95;0,00%;8,94%;1,0;0,95;0,95;Tottenham vs Leeds;England Premier League;England;192501389,0;55,87%;;95,0;11/05/2026;0,4934013487616788;2,026743493438488
+2026-05-11;20:00;Sim;;2,16;2,2;0,00%;1,85%;1,0;1,20;-1,0;Deportivo Cali vs Atletico Bucaramanga;Colombia Cup;Colombia;194416378,0;46,30%;;-100,0;11/05/2026;0,3755891911943415;2,662476346413877
+2026-05-11;21:00;Sim;;1,78;1,8;0,00%;1,12%;1,0;0,80;0,8;Palestino vs Deportes Limache;Chile Copa de la Liga;Chile;193985025,0;56,18%;;80,0;11/05/2026;0,4342021554779318;2,3030693982389185
+2026-05-11;21:30;Sim;;1,79;1,9;0,00%;6,15%;1,0;0,90;0,9;Corinthians (W) vs Sao Paulo (W);Brazil Serie A1 Women;Brazil;194094028,0;55,87%;;90,0;11/05/2026;0,4596190866282771;2,1757099593620706
+2026-05-11;22:00;Sim;;2,3;2,62;0,00%;13,91%;1,0;1,62;-1,0;Millonarios vs Llaneros;Colombia Cup;Colombia;194314460,0;43,48%;;-100,0;11/05/2026;0,3668400718245455;2,725976115559614
+2026-05-12;07:30;Sim;;2,02;2,2;0,00%;8,91%;1,0;1,20;-1,0;Gwangju FC vs FC Seoul;South Korea K League 1;South Korea;193716987,0;49,50%;;-100,0;12/05/2026;0,4502262539796529;2,2211005468034
+2026-05-12;10:00;Sim;;1,47;1,57;0,00%;6,80%;1,0;0,57;-1,0;Namdhari FC vs Gokulam FC;India I-League;India;194433550,0;68,03%;;-100,0;12/05/2026;;
+2026-05-12;12:00;Sim;;1,77;1,9;0,00%;7,34%;1,0;0,90;0,9;FK Liepaja vs Ogre United;Latvia Virsliga;Latvia;194271058,0;56,50%;;90,0;12/05/2026;0,5015309886151034;1,99389076409928
+2026-05-12;13:00;Sim;;1,57;1,66;0,00%;5,73%;1,0;0,66;0,6;Riga FC vs FK Auda;Latvia Virsliga;Latvia;194271064,0;63,69%;;60,0;12/05/2026;0,5546415715486881;1,8029629373882583
+2026-05-12;14:30;Sim;;1,87;2,1;0,00%;12,30%;1,0;1,10;1,1;Al-Hussein SC vs Al-Wehdat;Jordan Cup;Jordan;194421039,0;53,48%;;110,00000000000001;12/05/2026;0,35960830823788;2,780795649868174
+2026-05-12;16:00;Sim;;1,9;2,0;0,00%;5,26%;1,0;1,00;-1,0;Itagui Leones vs Orsomarso;Colombia Cup;Colombia;194417287,0;52,63%;;-100,0;12/05/2026;0,3584180559300389;2,7900302270624637
+2026-05-12;16:00;Sim;;1,68;1,8;0,00%;7,14%;1,0;0,80;0,8;Southampton vs Middlesbrough;England Championship;England;193989627,0;59,52%;;80,0;12/05/2026;0,4710950738230859;2,122709263706445
+2026-05-12;16:00;Sim;;1,93;2,0;0,00%;3,63%;1,0;1,00;-1,0;Catanzaro vs Avellino;Italy Serie B;Italy;194413850,0;51,81%;;-100,0;12/05/2026;0,4708877650773339;2,123643786310702
+2026-05-12;19:00;Sim;;2,04;2,2;0,00%;7,84%;1,0;1,20;-1,0;Belgrano v Union Santa Fe;Argentina Liga Profesional;Argentina;194428321,0;49,02%;;-100,0;12/05/2026;0,3962469011590707;2,523672673280754
+2026-05-12;21:30;Sim;;2,5;2,75;0,00%;10,00%;1,0;1,75;-1,0;Argentinos Jrs v Huracan;Argentina Liga Profesional;Argentina;194405729,0;40,00%;;-100,0;12/05/2026;0,3653114181079733;2,737382991739514
+2026-05-12;21:30;Sim;;2,39;2,5;0,00%;4,60%;1,0;1,50;-1,0;Cruzeiro v Goias;Copa do Brasil;Brazil;193552748,0;41,84%;;-100,0;12/05/2026;0,4075488546339528;2,4536875394009536
+2026-05-13;00:00;Sim;;1,36;1,5;0,00%;10,29%;1,0;0,50;0,5;Honefoss vs Stjørdals/Blink;;;194527580,0;73,53%;;50,0;13/05/2026;0,524934881671331;1,9049945620332207
+2026-05-13;07:00;Sim;;2,15;2,2;0,00%;2,33%;1,0;1,20;-1,0;Machida Zelvia vs Tokyo Verdy;Japan J-League;Japan;193381836,0;46,51%;;-100,0;13/05/2026;0,3739319248729628;2,6742764102405068
+2026-05-13;07:00;Sim;;1,9;1,95;0,00%;2,63%;1,0;0,95;-1,0;Vissel Kobe vs Kyoto Sanga FC;Japan J-League;Japan;193381839,0;52,63%;;-100,0;13/05/2026;0,4767395733607795;2,097576870687776
+2026-05-13;11:00;Sim;;2,41;2,5;0,00%;3,73%;1,0;1,50;1,5;Haras El Hedoud vs Al Moqawloon Al Arab;Egypt Division 1;Egypt;194483334,0;41,49%;;150,0;13/05/2026;0,3266588934285178;3,0612879637727173
+2026-05-13;14:00;Sim;;2,61;3,0;0,00%;14,94%;1,0;2,00;-1,0;Al Ittihad Al Sakandary vs Talaea El Geish;Egypt Division 1;Egypt;194483347,0;38,31%;;-100,0;13/05/2026;0,2942479054734189;3,3984833295848413
+2026-05-13;14:00;Sim;;1,75;1,83;0,00%;4,57%;1,0;0,83;-1,0;FC Stockholm Internazionale vs AFC Eskilstuna;Sweden 1.div Norra;Sweden;194441716,0;57,14%;;-100,0;13/05/2026;0,5490275345857525;1,8213989565305744
+2026-05-13;14:00;Sim;;1,64;1,7;0,00%;3,66%;1,0;0,70;0,7;Helsingborg vs IK Oddevold;Sweden Superettan;Sweden;193320723,0;60,98%;;70,0;13/05/2026;0,5486286578905764;1,8227231897103329
+2026-05-13;15:00;Sim;;2,21;2,25;0,00%;1,81%;1,0;1,25;-1,0;Arsenal (W) vs Everton (W);England Super League Women;England;192939273,0;45,25%;;-100,0;13/05/2026;0,5008338207529851;1,9966662831001647
+2026-05-13;16:00;Sim;;1,83;2,0;0,00%;9,29%;1,0;1,00;-1,0;Lazio vs Inter Milan;Coppa Italia;Italy;193471922,0;54,64%;;-100,0;13/05/2026;0,4555102706969196;2,1953353612305304
+2026-05-13;16:30;Sim;;2,08;2,2;0,00%;5,77%;1,0;1,20;1,2;Getafe vs Mallorca;Spain La Liga;Spain;193003427,0;48,08%;;120,0;13/05/2026;0,3840832471299913;2,603595454571078
+2026-05-13;18:45;Sim;S;2,1;2,25;0,00%;7,14%;1,0;1,25;1,25;Rosario Central vs Racing Club;Argentina Liga Profesional;Argentina;194452880,0;47,62%;;125,0;13/05/2026;0,3596124227403104;2,7807638335072253
+2026-05-13;20:00;Sim;;1,64;1,83;0,00%;11,59%;1,0;0,83;-1,0;Coquimbo Unido v Colo Colo;Chile Copa de la Liga;Chile;193985031,0;60,98%;v4.1;-100,0;13/05/2026;0,455444080163259;2,1956544126934903
+2026-05-13;20:00;Sim;;1,94;2,1;0,00%;8,25%;1,0;1,10;-1,0;Carabobo vs Estudiantes Merida;Venezuela Primera Division;Venezuela;194469410,0;51,55%;;-100,0;13/05/2026;0,4440561433655325;2,25196242182019
+2026-05-13;20:15;Sim;;1,53;1,61;0,00%;5,23%;1,0;0,61;-1,0;Charlotte FC vs New York City;USA MLS;USA;193719699,0;65,36%;;-100,0;13/05/2026;0,5619609878460593;1,7794797897859496
+2026-05-13;20:30;Sim;;1,85;2,0;0,00%;8,11%;1,0;1,00;1,0;Academia Puerto Cabello vs Portuguesa FC;Venezuela Primera Division;Venezuela;194469415,0;54,05%;;100,0;13/05/2026;0,4339222681147559;2,304554914385321
+2026-05-13;23:00;Sim;;1,68;1,75;0,00%;4,17%;1,0;0,75;0,75;Cruz Azul vs Chivas Guadalajara;Mexico Liga MX;Mexico;194473788,0;59,52%;;75,0;13/05/2026;0,4756235510014635;2,102498699645391
+2026-05-14;08:00;Sim;;1,39;1,57;0,00%;12,95%;1,0;0,57;-1,0;Vasalunds IF vs Gefle IF;Sweden 1.div Norra;Sweden;194526452,0;71,94%;;-100,0;14/05/2026;0,6071681556942234;1,646987483836564
+2026-05-14;08:00;Sim;;1,51;1,61;0,00%;6,62%;1,0;0,61;-1,0;Tvååkers IF vs BK Olympic;Sweden 1.div Södra;Sweden;194526456,0;66,23%;;-100,0;14/05/2026;0,48898051544823;2,045067080057903
+2026-05-14;08:00;Sim;;1,53;1,57;0,00%;2,61%;1,0;0,57;-1,0;Västra Frölunda IF vs IK Kongahälla;Sweden 2.div Västra Götaland;Sweden;194534326,0;65,36%;;-100,0;14/05/2026;0,5822862252611424;1,7173655141610278
+2026-05-14;10:00;Sim;;1,41;1,5;0,00%;6,38%;1,0;0,50;0,5;Assyriska Föreningen vs Umea FC;Sweden 1.div Norra;Sweden;194526454,0;70,92%;;50,0;14/05/2026;0,5766675930806836;1,734098253310089
+2026-05-14;10:00;Sim;;1,42;1,57;0,00%;10,56%;1,0;0,57;0,57;Lidköpings FK vs Grebbestads IF;Sweden 2.div Norra Götaland;Sweden;194526445,0;70,42%;;56,99999999999999;14/05/2026;0,5016775894973;1,993308107890424
+2026-05-14;10:30;Sim;;1,55;1,66;0,00%;7,10%;1,0;0,66;0,66;Vidar vs Sotra;Norway Division 2 Group 1;Norway;194534332,0;64,52%;;66,0;14/05/2026;0,541819975549629;1,845628067436092
+2026-05-14;11:00;Sim;;1,77;1,9;0,00%;7,34%;1,0;0,90;0,9;Ängelholms FF vs Atvidabergs FF;Sweden 1.div Södra;Sweden;194526458,0;56,50%;;90,0;14/05/2026;0,4666641459146939;2,142864125924672
+2026-05-14;13:35;Sim;;1,99;2,25;0,00%;13,07%;1,0;1,25;-1,0;Al-Nahda vs Al Seeb;Oman League;Oman;194530574,0;50,25%;;-100,0;14/05/2026;0,3972206811555878;2,517485946615059
+2026-05-14;14:00;Sim;S;1,83;2,1;0,00%;14,75%;1,0;1,10;1,1;Valencia vs Rayo Vallecano;Spain La Liga;Spain;193003466,0;54,64%;;110,00000000000001;14/05/2026;0,4188851850487307;2,3872833139237235
+2026-05-14;15:00;Sim;S;1,61;1,95;0,00%;21,12%;1,0;0,95;0,95;Girona v Real Sociedad;Spain La Liga;Spain;193003440,0;62,11%;;95,0;14/05/2026;0,4833625243211473;2,068836289218213
+2026-05-14;17:00;Sim;S;1,97;2,1;0,00%;6,60%;1,0;1,10;-1,0;Libertad Asuncion v 2 de Mayo;Paraguay Division Profesional;Paraguay;194490707,0;50,76%;;-100,0;14/05/2026;0,4714831245452859;2,1209621871456044
+2026-05-14;22:00;Sim;;1,6;1,66;0,00%;3,75%;1,0;0,66;-1,0;Pachuca v Unam Pumas;Mexico Liga MX;Mexico;194473790,0;62,50%;;-100,0;14/05/2026;0,5138052757079516;1,9462588280420337
+2026-05-15;00:00;Sim;S;1,89;2,2;0,00%;16,40%;1,0;1,20;-1,0;Flamengo (W) vs Fluminense (W);Brazil Serie A1 Women;Brazil;194094033,0;52,91%;Reality Scanner V4;-100,0;15/05/2026;;
+2026-05-15;00:00;Sim;;2,04;2,2;0,00%;7,84%;1,0;1,20;-1,0;Universitario de Deportes vs Atletico Grau;Peru Liga 1;Peru;193715860,0;49,02%;Reality Scanner V4;-100,0;15/05/2026;;
+2026-05-15;00:00;Sim;;1,74;1,83;0,00%;5,17%;1,0;0,83;0,83;Bay FC (W) vs Boston Legacy FC (W);USA NWSL Women;USA;194538173,0;57,47%;Reality Scanner V4;83,0;15/05/2026;;
+2026-05-15;00:00;Sim;;1,89;2,0;0,00%;5,82%;1,0;1,00;-1,0;Seattle Reign (W) vs Gotham FC (W);USA NWSL Women;USA;194538169,0;52,91%;Reality Scanner V4;-100,0;15/05/2026;;
+2026-05-15;06:15;Sim;;1,54;1,57;0,00%;1,95%;1,0;0,57;1,57;Brisbane Roar NPL vs Lions FC;Australia NPL Queensland;Australia;193269016,0;64,94%;;157,0;15/05/2026;0,5718992368182686;1,7485567160514528
+2026-05-15;07:30;Sim;;1,7;1,83;0,00%;7,65%;1,0;0,83;0,83;Bentleigh Greens vs Heidelberg Utd;Australia NPL Victoria;Australia;193268696,0;58,82%;;83,0;15/05/2026;0,5429254660847814;1,8418700550947973
+2026-05-15;08:35;Sim;;1,57;1,8;0,00%;14,65%;1,0;0,80;-1,0;Henan vs Shenzhen Xinpengcheng;China Super League;China;193711554,0;63,69%;;-100,0;15/05/2026;0,4592028831122169;2,177681933398693
+2026-05-15;08:35;Sim;;1,67;1,8;0,00%;7,78%;1,0;0,80;0,8;Tianjin Jinmen Tigers vs Chengdu Rongcheng;China Super League;China;193711564,0;59,88%;;80,0;15/05/2026;0,5318636821171011;1,8801774842794112
+2026-05-15;09:00;Sim;;1,47;1,66;0,00%;12,93%;1,0;0,66;0,66;Beijing Guoan vs Qingdao Hainiu;China Super League;China;193711568,0;68,03%;;66,0;15/05/2026;0,5184359278825061;1,9288749435430477
+2026-05-15;09:00;Sim;;1,57;1,8;0,00%;14,65%;1,0;0,80;0,8;Dalian Young Boy vs Qingdao West Coast;China Super League;China;193711570,0;63,69%;;80,0;15/05/2026;0,4455281530652319;2,2445220321050137
+2026-05-15;10:00;Sim;;1,93;2,0;0,00%;3,63%;1,0;1,00;1,0;Hapoel Afula vs Hapoel Nof HaGalil;Israel Leumit Liga;Israel;194525528,0;51,81%;;100,0;15/05/2026;0,4346712030632777;2,3005841941414054
+2026-05-15;12:00;Sim;;1,65;1,66;0,00%;0,61%;1,0;0,66;0,66;LKS Lodz II vs Unia Skierniewice;Poland II Liga;Poland;193286259,0;60,61%;;66,0;15/05/2026;0,4980067654326001;2,0080008172791013
+2026-05-15;13:00;Sim;;1,65;1,72;0,00%;4,24%;1,0;0,72;0,72;Pogon Siedlce vs Stal Mielec;Poland I Liga;Poland;193336402,0;60,61%;;72,0;15/05/2026;0,4820276425947031;2,0745655167234847
+2026-05-15;13:15;Sim;;1,65;1,8;0,00%;9,09%;1,0;0,80;-1,0;Damac FC vs Al Feiha;Saudi Arabia Pro League;Saudi Arabia;193715946,0;60,61%;;-100,0;15/05/2026;0,4634810935959781;2,157580656981561
+2026-05-15;13:30;Sim;;1,54;1,57;0,00%;1,95%;1,0;0,57;0,57;FC Rosengård (W) vs Kristianstads (W);Sweden Damallsvenskan;Sweden;194538428,0;64,94%;;56,99999999999999;15/05/2026;0,5465006610137276;1,8298206050189496
+2026-05-15;14:00;Sim;;1,26;1,44;0,00%;14,29%;1,0;0,44;0,44;Ullensaker/Kisa vs Eidsvold TF;Norway Division 2 Group 2;Norway;194533796,0;79,37%;;44,0;15/05/2026;0,6256346596011471;1,5983743647820785
+2026-05-15;14:30;Sim;;1,94;2,25;0,00%;15,98%;1,0;1,25;1,25;Versailles vs Stade Briochin;France National;France;194517930,0;51,55%;;125,0;15/05/2026;0,4219523714169141;2,369930110149405
+2026-05-15;15:00;Sim;;1,65;2,1;0,00%;27,27%;1,0;1,10;-1,0;Bari vs Sudtirol;Italy Serie B;Italy;194413852,0;60,61%;;-100,0;15/05/2026;0,4318093957868715;2,315831229995606
+2026-05-15;15:00;Sim;;2,29;2,62;0,00%;14,41%;1,0;1,62;1,62;Kawkab Marrakech vs JS Soualem;Morocco Cup;Morocco;194531962,0;43,67%;;162,0;15/05/2026;0,4006113299289198;2,496178787551119
+2026-05-15;15:30;Sim;;1,98;2,1;0,00%;6,06%;1,0;1,10;-1,0;Korona Kielce vs Widzew Lodz;Poland Ekstraklasa;Poland;193267628,0;50,51%;;-100,0;15/05/2026;0,4005153600211157;2,4967769105543627
+2026-05-15;15:30;Sim;;1,64;1,83;0,00%;11,59%;1,0;0,83;0,83;CD Castellon vs Cadiz;Spain Segunda;Spain;193003587,0;60,98%;;83,0;15/05/2026;0,4551851395466374;2,1969034492043056
+2026-05-15;15:45;Sim;;1,74;1,8;0,00%;3,45%;1,0;0,80;-1,0;Cobh Ramblers vs Athlone Town;Republic of Ireland First Division;Ireland;194525648,0;57,47%;;-100,0;15/05/2026;0,4215337510370529;2,3722836552379523
+2026-05-15;15:45;Sim;;1,51;1,95;0,00%;29,14%;1,0;0,95;0,95;Bohemians Dublin vs Drogheda United;Republic of Ireland Premier Division;Ireland;193201033,0;66,23%;;95,0;15/05/2026;0,4473939895058221;2,23516137519682
+2026-05-15;15:45;Sim;;1,92;2,0;0,00%;4,17%;1,0;1,00;-1,0;St Patrick's Athletic vs Shelbourne;Republic of Ireland Premier Division;Ireland;193201037,0;52,08%;;-100,0;15/05/2026;0,469737048070219;2,128846075186387
+2026-05-15;17:00;Sim;;1,75;1,9;0,00%;8,57%;1,0;0,90;0,9;Sportivo Trinidense vs Cerro Porteno;Paraguay Division Profesional;Paraguay;194533800,0;57,14%;;90,0;15/05/2026;0,3798811688234509;2,632395205853284
+2026-05-15;17:00;Sim;S;1,56;1,8;0,00%;15,38%;1,0;0,80;0,8;FC Cajamarca vs Sporting Cristal;Peru Liga 1;Peru;193715854,0;64,10%;;80,0;15/05/2026;0,4641100692669886;2,1546566462622576
+2026-05-15;20:00;Sim;;1,52;1,72;0,00%;13,16%;1,0;0,72;0,72;Montevideo City Torque vs Nacional De Football;Uruguay Torneo Intermedio;Uruguay;194538975,0;65,79%;;72,0;15/05/2026;;
+2026-05-15;21:00;Sim;;2,77;3,0;0,00%;8,30%;1,0;2,00;2,0;Racing de Cordoba vs Central Norte;Argentina Nacional B;Argentina;193710534,0;36,10%;Reality Scanner V4;200,0;15/05/2026;;
+2026-05-15;21:00;Sim;;1,69;1,83;0,00%;8,28%;1,0;0,83;-1,0;Coquimbo Unido vs Audax Italiano;Chile Liga de Primera;Chile;193193631,0;59,17%;Reality Scanner V4;-100,0;15/05/2026;;
+2026-05-16;00:00;Sim;;1,65;1,8;0,00%;9,09%;5,0;4,00;-5,0;Metrostars vs Adelaide Comets;Australia South Australia Premier League;Australia;194507847,0;60,61%;Reality Scanner V4;-100,0;16/05/2026;0,5720070135760493;1,7482272560278536
+2026-05-16;00:00;Sim;;1,54;1,75;0,00%;13,64%;5,0;3,75;3,75;Shandong Taishan vs Chongqing Tonglianglong;China Super League;China;193711579,0;64,94%;Reality Scanner V4;75,0;16/05/2026;0,4841123489510591;2,065631947903783
+2026-05-16;00:00;Sim;;1,9;2,1;0,00%;10,53%;5,0;5,50;5,5;NK Sesvete vs NK Dugopolje;Croatia 1.NL;Croatia;194530172,0;52,63%;Reality Scanner V4;110,00000000000001;16/05/2026;0,4417657412174319;2,263638039487026
+2026-05-16;00:00;Sim;;1,59;1,72;0,00%;8,18%;5,0;3,60;-5,0;Middelfart vs HB Køge;Denmark Division 1;Denmark;193331601,0;62,89%;Reality Scanner V4;-100,0;16/05/2026;0,5322506799120296;1,878810415714009
+2026-05-16;00:00;Sim;;1,52;1,57;0,00%;3,29%;5,0;2,85;2,85;Brighton (W) vs Tottenham (W);England Super League Women;England;193000184,0;65,79%;Reality Scanner V4;57,00000000000001;16/05/2026;0,5119503289886874;1,953310682824884
+2026-05-16;00:00;Sim;;1,9;2,0;0,00%;5,26%;5,0;5,00;-5,0;Chelsea (W) vs Man Utd (W);England Super League Women;England;193000186,0;52,63%;Reality Scanner V4;-100,0;16/05/2026;0,4937032303523959;2,0255042159274605
+2026-05-16;00:00;Sim;;2,01;2,37;0,00%;17,91%;5,0;6,85;6,85;Liverpool (W) vs Arsenal (W);England Super League Women;England;193000192,0;49,75%;Reality Scanner V4;137,0;16/05/2026;0,4963990635268021;2,014504174103529
+2026-05-16;00:00;Sim;;1,24;1,5;0,00%;20,97%;5,0;2,50;2,5;Union Plaani vs PPJ;Finland Kakkonen Group A;Finland;194585654,0;80,65%;Reality Scanner V4;50,0;16/05/2026;0,6046906093677449;1,6537355314812168
+2026-05-16;00:00;Sim;;1,33;1,8;0,00%;35,34%;5,0;4,00;4,0;MSV Duisburg vs FC Viktoria Köln;Germany 3. Liga;Germany;194547218,0;75,19%;Reality Scanner V4;80,0;16/05/2026;0,4766929600485786;2,09778198133262
+2026-05-16;00:00;Sim;;1,27;1,5;0,00%;18,11%;5,0;2,50;2,5;SSV Ulm 1846 vs Rot-Weiss Essen;Germany 3. Liga;Germany;194547266,0;78,74%;Reality Scanner V4;50,0;16/05/2026;0,5753930980716654;1,7379392721463922
+2026-05-16;00:00;Sim;;1,72;1,83;0,00%;6,40%;5,0;4,15;4,15;Chennaiyin FC vs Bengaluru;India Super League;India;194579045,0;58,14%;Reality Scanner V4;83,0;16/05/2026;0,4280915998624303;2,3359432055619624
+2026-05-16;00:00;Sim;;2,06;2,2;0,00%;6,80%;5,0;6,00;-5,0;Mito Hollyhock vs Tokyo Verdy;Japan J-League;Japan;193381841,0;48,54%;Reality Scanner V4;-100,0;16/05/2026;0,4465294536757415;2,239488912275115
+2026-05-16;00:00;Sim;;1,78;2,0;0,00%;12,36%;5,0;5,00;5,0;Sagamihara vs Vanraure Hachinohe;Japan J2/J3 Centennial League;Japan;194092228,0;56,18%;Reality Scanner V4;100,0;16/05/2026;0,4531178935204639;2,206926293076405
+2026-05-16;00:00;Sim;;1,77;1,83;0,00%;3,39%;5,0;4,15;4,15;SK Super Nova vs Ogre United;Latvia Virsliga;Latvia;194490398,0;56,50%;Reality Scanner V4;83,0;16/05/2026;0,4778572056609632;2,0926709809593445
+2026-05-16;00:00;Sim;;1,33;1,53;0,00%;15,04%;5,0;2,65;-5,0;Levanger vs Trygg/Lade;Norway Division 2 Group 2;Norway;194589685,0;75,19%;Reality Scanner V4;-100,0;16/05/2026;0,6037349381020496;1,6563532777983638
+2026-05-16;00:00;Sim;;2,51;3,0;0,00%;19,52%;5,0;10,00;-5,0;Orlando Pirates vs Durban City;South Africa Premier;South Africa;193716927,0;39,84%;Reality Scanner V4;-100,0;16/05/2026;0,3355123576684909;2,98050726489425
+2026-05-16;00:00;Sim;;1,5;1,61;0,00%;7,33%;5,0;3,05;3,05;Karlbergs BK vs FC Järfälla;Sweden 1.div Norra;Sweden;194577900,0;66,67%;Reality Scanner V4;61,0;16/05/2026;0,5350635374657662;1,86893342761289
+2026-05-16;11:00;Sim;;1,33;1,36;0,00%;2,26%;5,0;1,80;1,8;HPS vs Atlantis;Finland Kakkonen Group A;Finland;194585656,0;75,19%;Reality Scanner V4;36,0;16/05/2026;;
+2026-05-16;11:00;Sim;;1,39;1,4;0,00%;0,72%;5,0;2,00;2,0;Puiu vs PEPO;Finland Kakkonen Group A;Finland;194585659,0;71,94%;Reality Scanner V4;40,0;16/05/2026;;
+2026-05-16;11:00;Sim;;1,29;1,36;0,00%;5,43%;5,0;1,80;1,8;TP-47 vs FF Jaro II;Finland Kakkonen Group C;Finland;194585747,0;77,52%;Reality Scanner V4;36,0;16/05/2026;;
+2026-05-16;11:00;Sim;;1,76;2,05;0,00%;16,48%;5,0;5,25;5,25;IFK Mariehamn vs KuPS Kuopio;Finland Veikkausliiga;Finland;194469867,0;56,82%;Reality Scanner V4;105,0;16/05/2026;0,4385874213543228;2,280041951203561
+2026-05-16;11:00;Sim;;1,71;1,9;0,00%;11,11%;5,0;4,50;4,5;Hegelmann Litauen vs Suduva Marijampole;Lithuania A Lyga;Lithuania;194526042,0;58,48%;Reality Scanner V4;90,0;16/05/2026;0,4570245331469328;2,188061557774064
+2026-05-16;11:00;Sim;;1,51;1,66;0,00%;9,93%;5,0;3,30;3,3;Bryne vs Strommen;Norway Division 1;Norway;193332045,0;66,23%;Reality Scanner V4;65,99999999999999;16/05/2026;0,5842734877958552;1,7115243278419487
+2026-05-16;11:00;Sim;;1,5;1,53;0,00%;2,00%;5,0;2,65;2,65;Hodd vs Sogndal;Norway Division 1;Norway;193332063,0;66,67%;Reality Scanner V4;53,0;16/05/2026;0,5129961744692503;1,9493284754143247
+2026-05-16;11:00;Sim;S;1,57;1,72;0,00%;9,55%;5,0;3,60;3,6;Arendal vs FK Jerv;Norway Division 2 Group 1;Norway;194589351,0;63,69%;Reality Scanner V4;72,0;16/05/2026;0,529275124694371;1,889372963077537
+2026-05-16;11:00;Sim;;1,64;1,75;0,00%;6,71%;5,0;3,75;3,75;Fredrikstad vs HamKam;Norway Eliteserien;Norway;193331894,0;60,98%;Reality Scanner V4;75,0;16/05/2026;0,51092605531163;1,957226554366101
+2026-05-16;11:00;Sim;;1,59;1,72;0,00%;8,18%;5,0;3,60;3,6;Hammarby TFF vs FC Stockholm Internazionale;Sweden 1.div Norra;Sweden;194577902,0;62,89%;Reality Scanner V4;72,0;16/05/2026;0,5387137541750937;1,8562699318143767
+2026-05-16;12:00;Sim;;1,71;1,75;0,00%;2,34%;5,0;3,75;-5,0;FC Blau Weiss Linz vs Grazer AK;Austria Bundesliga;Austria;193323540,0;58,48%;Reality Scanner V4;-100,0;16/05/2026;0,4785594713795807;2,089600081505328
+2026-05-16;12:00;Sim;;1,77;1,8;0,00%;1,69%;5,0;4,00;-5,0;SCR Altach vs SV Ried;Austria Bundesliga;Austria;193323546,0;56,50%;Reality Scanner V4;-100,0;16/05/2026;0,456670475835864;2,189757961496632
+2026-05-16;12:00;Sim;;1,77;2,0;0,00%;12,99%;5,0;5,00;-5,0;Banik Ostrava vs FC Zlin;Czechia First League;Czech Republic;194582425,0;56,50%;Reality Scanner V4;-100,0;16/05/2026;0,4947353659716574;2,0212785410185274
+2026-05-16;12:00;Sim;;1,49;1,53;0,00%;2,68%;5,0;2,65;-5,0;IK Brage vs IFK Norrkoping;Sweden Superettan;Sweden;193320754,0;67,11%;Reality Scanner V4;-100,0;16/05/2026;0,52431688379402;1,907239922399544
+2026-05-16;12:00;Sim;;1,59;2,1;0,00%;32,08%;5,0;5,50;5,5;Boston River vs Cerro;Uruguay Torneo Intermedio;Uruguay;194538977,0;62,89%;Reality Scanner V4;110,00000000000001;16/05/2026;0,3994911018500875;2,503178399194629
+2026-05-16;12:15;Sim;;1,7;1,83;0,00%;7,65%;5,0;4,15;-5,0;Ferencvarosi TC vs Zalaegerszegi TE;Hungary NB I;Hungary;193713772,0;58,82%;Reality Scanner V4;-100,0;16/05/2026;0,4444013601236319;2,2502130720498466
+2026-05-16;12:15;Sim;;1,62;1,8;0,00%;11,11%;5,0;4,00;-5,0;Kisvarda FC vs Gyor Eto FC;Hungary NB I;Hungary;193713779,0;61,73%;Reality Scanner V4;-100,0;16/05/2026;0,472581568489551;2,116032343715425
+2026-05-16;12:30;Sim;;2,11;2,75;0,00%;30,33%;5,0;8,75;-5,0;Orijent vs Karlovac;Croatia 1.NL;Croatia;194588352,0;47,39%;Reality Scanner V4;-100,0;16/05/2026;0,5755732153804932;1,737395410145211
+2026-05-16;13:00;Sim;;1,75;1,8;0,00%;2,86%;5,0;4,00;-5,0;AC Oulu vs TPS;Finland Veikkausliiga;Finland;194469876,0;57,14%;Reality Scanner V4;-100,0;16/05/2026;0,4875107705069673;2,051232525032354
+2026-05-16;13:00;Sim;;1,63;1,75;0,00%;7,36%;5,0;3,75;-5,0;IF Gnistan vs FF Jaro;Finland Veikkausliiga;Finland;194469894,0;61,35%;Reality Scanner V4;-100,0;16/05/2026;0,5058968743657799;1,976683537667859
+2026-05-16;13:00;Sim;;1,96;2,0;0,00%;2,04%;5,0;5,00;-5,0;Ramtha SC vs Al-Hussein SC;Jordan Cup;Jordan;194640780,0;51,02%;Reality Scanner V4;-100,0;16/05/2026;0,4750373486242414;2,105093205414047
+2026-05-16;13:15;Sim;S;1,61;1,7;0,00%;5,59%;5,0;3,50;-5,0;Standard Liege vs Genk;Belgium First Division A;Belgium;193331411,0;62,11%;Reality Scanner V4;-100,0;16/05/2026;0,4869709072142528;2,0535065476785923
+2026-05-16;13:30;Sim;;1,58;1,61;0,00%;1,90%;5,0;3,05;3,05;Almeria vs Las Palmas;Spain Segunda;Spain;193003584,0;63,29%;Reality Scanner V4;61,0;16/05/2026;0,5274034955297553;1,8960778841969157
+2026-05-16;13:30;Sim;;1,91;2,1;0,00%;9,95%;5,0;5,50;-5,0;Granada vs Burgos;Spain Segunda;Spain;193003635,0;52,36%;Reality Scanner V4;-100,0;16/05/2026;0,4109873982464707;2,433158707804442
+2026-05-16;13:30;Sim;S;1,74;1,8;0,00%;3,45%;5,0;4,00;4,0;Racing Santander vs Valladolid;Spain Segunda;Spain;193003644,0;57,47%;Reality Scanner V4;80,0;16/05/2026;0,4820686097386001;2,074389216408488
+2026-05-16;14:00;Sim;;2,3;2,37;0,00%;3,04%;5,0;6,85;6,85;ES Setif vs CR Belouizdad;Algeria Division 1;Algeria;194577913,0;43,48%;Reality Scanner V4;137,0;16/05/2026;0,4001504567806671;2,4990537534094863
+2026-05-16;14:30;Sim;;1,72;1,8;0,00%;4,65%;5,0;4,00;4,0;Chrobry Glogow vs Znicz Pruszków;Poland I Liga;Poland;193336408,0;58,14%;Reality Scanner V4;80,0;16/05/2026;0,4800958697266798;2,082912976644281
+2026-05-16;15:00;Sim;;2,08;2,2;0,00%;5,77%;5,0;6,00;-5,0;America MG (W) vs Atletico Mineiro (W);Brazil Serie A1 Women;Brazil;194094035,0;48,08%;Reality Scanner V4;-100,0;16/05/2026;0,4564763974099191;2,1906889709634294
+2026-05-16;15:00;Sim;;1,85;2,1;0,00%;13,51%;5,0;5,50;5,5;Juve Stabia vs Monza;Italy Serie B;Italy;194577016,0;54,05%;Reality Scanner V4;110,00000000000001;16/05/2026;0,430782437709978;2,3213520123149283
+2026-05-16;15:00;Sim;;1,92;2,1;0,00%;9,38%;5,0;5,50;-5,0;OC Safi vs Olympique Dcheira;Morocco Cup;Morocco;194578368,0;52,08%;Reality Scanner V4;-100,0;16/05/2026;0,4178318490529321;2,393301537365047
+2026-05-16;15:00;Sim;;2,0;2,2;0,00%;10,00%;5,0;6,00;-5,0;FK Napredak vs FK Radnicki 1923;Serbia Super Liga;Serbia;194091089,0;50,00%;Reality Scanner V4;-100,0;16/05/2026;0,43117972468888;2,3192131344033378
+2026-05-16;15:00;Sim;;2,03;2,1;0,00%;3,45%;5,0;5,50;5,5;Javor Ivanjica vs Mladost Lucani;Serbia Super Liga;Serbia;194091062,0;49,26%;Reality Scanner V4;110,00000000000001;16/05/2026;0,4170142580786332;2,397993791899668
+2026-05-16;15:00;Sim;;1,68;1,9;0,00%;13,10%;5,0;4,50;-5,0;Juventud De Las Piedras vs Club Atletico Progreso;Uruguay Torneo Intermedio;Uruguay;194538980,0;59,52%;Reality Scanner V4;-100,0;16/05/2026;0,4156157004842383;2,406063083689592
+2026-05-16;15:15;Sim;;1,73;1,9;0,00%;9,83%;5,0;4,50;4,5;UD Logrones vs Getafe B;Spain Segunda Division RFEF Play-Offs;Spain;194595853,0;57,80%;Reality Scanner V4;90,0;16/05/2026;0,4123272207934296;2,4252523828607533
+2026-05-16;15:30;Sim;;2,6;2,75;0,00%;5,77%;5,0;8,75;-5,0;CS Dock Sud vs CSD Flandria;Argentina Primera B Metropolitana;Argentina;194542132,0;38,46%;Reality Scanner V4;-100,0;16/05/2026;0,335980762290126;2,97635202929998
+2026-05-16;15:30;Sim;;2,38;2,5;0,00%;5,04%;5,0;7,50;-5,0;Real Pilar vs Excursionistas;Argentina Primera B Metropolitana;Argentina;194542151,0;42,02%;Reality Scanner V4;-100,0;16/05/2026;0,3389156552680035;2,950577920725775
+2026-05-16;15:30;Sim;;2,57;2,75;0,00%;7,00%;5,0;8,75;-5,0;UAI Urquiza vs Villa Dalmine;Argentina Primera B Metropolitana;Argentina;194542145,0;38,91%;Reality Scanner V4;-100,0;16/05/2026;0,2833432977783444;3,5292751886691702
+2026-05-16;16:00;Sim;;1,95;2,1;0,00%;7,69%;5,0;5,50;-5,0;Gremio (W) vs Mixto (W);Brazil Serie A1 Women;Brazil;194094039,0;51,28%;Reality Scanner V4;-100,0;16/05/2026;0,3850117587498378;2,59731652334605
+2026-05-16;16:00;Sim;;1,9;2,2;0,00%;15,79%;5,0;6,00;-5,0;Sabadell vs Antequera;Spain Primera Division RFEF Group 2;Spain;193718007,0;52,63%;Reality Scanner V4;-100,0;16/05/2026;0,4287290771812523;2,332469899417004
+2026-05-16;17:00;Sim;;2,49;2,75;0,00%;10,44%;5,0;8,75;-5,0;CA Atlanta vs Atletico Rafaela;Argentina Nacional B;Argentina;193710453,0;40,16%;Reality Scanner V4;-100,0;16/05/2026;0,3220385818145029;3,1052083547171145
+2026-05-16;17:00;Sim;;1,81;2,0;0,00%;10,50%;5,0;5,00;5,0;Ypiranga RS vs Maringa;Brazil Serie C;Brazil;194371128,0;55,25%;Reality Scanner V4;100,0;16/05/2026;0,5117971292556696;1,953895379520718
+2026-05-16;17:15;Sim;;1,88;2,0;0,00%;6,38%;5,0;5,00;-5,0;Guarani Asuncion vs Sportivo Ameliano;Paraguay Division Profesional;Paraguay;194490717,0;53,19%;Reality Scanner V4;-100,0;16/05/2026;0,3970362597924938;2,5186553033401364
+2026-05-16;17:15;Sim;;1,56;1,8;0,00%;15,38%;5,0;4,00;-5,0;Juan Pablo II College vs Alianza Atletico;Peru Liga 1;Peru;193715875,0;64,10%;Reality Scanner V4;-100,0;16/05/2026;0,4547168565581577;2,1991658906232145
+2026-05-16;17:30;Sim;;2,28;2,5;0,00%;9,65%;5,0;7,50;-5,0;Alianza vs CD Real Santander;Colombia Cup;Colombia;194698285,0;43,86%;Reality Scanner V4;-100,0;16/05/2026;0,3169250609830009;3,1553100962992047
+2026-05-16;17:30;Sim;S;1,57;1,66;0,00%;5,73%;5,0;3,30;-5,0;CF Montreal vs Chicago Fire;USA MLS;USA;193719786,0;63,69%;Reality Scanner V4;-100,0;16/05/2026;0,5687926252567526;1,7581069048525315
+2026-05-16;18:30;Sim;;2,0;2,25;0,00%;12,50%;5,0;6,25;6,25;Universidad Catolica del Ecuador vs Delfin SC;Ecuador LigaPro Serie A;Ecuador;193711631,0;50,00%;Reality Scanner V4;125,0;16/05/2026;0,3159553373926309;3,164994278172448
+2026-05-16;18:30;Sim;;1,59;2,0;0,00%;25,79%;5,0;5,00;5,0;Penarol vs Liverpool Montevideo;Uruguay Torneo Intermedio;Uruguay;194538982,0;62,89%;Reality Scanner V4;100,0;16/05/2026;0,4176569006739629;2,3943040425820463
+2026-05-16;19:30;Sim;;2,22;2,62;0,00%;18,02%;5,0;8,10;8,1;Floresta vs Amazonas;Brazil Serie C;Brazil;194371138,0;45,05%;Reality Scanner V4;162,0;16/05/2026;0,3337816909437799;2,995961226067391
+2026-05-16;19:30;Sim;;2,18;2,37;0,00%;8,72%;5,0;6,85;-5,0;North Carolina Courage (W) vs Chicago Stars (W);USA NWSL Women;USA;194538178,0;45,87%;Reality Scanner V4;-100,0;16/05/2026;0,4044016174683115;2,4727832036803243
+2026-05-16;20:30;Sim;;2,22;2,25;0,00%;1,35%;5,0;6,25;-5,0;Cuiaba vs Novorizontino;Brazil Serie B;Brazil;193711513,0;45,05%;Reality Scanner V4;-100,0;16/05/2026;0,3638129343265591;2,7486577770888805
+2026-05-16;20:30;Sim;;1,56;1,7;0,00%;8,97%;5,0;3,50;3,5;Charlotte FC vs Toronto FC;USA MLS;USA;193719790,0;64,10%;Reality Scanner V4;70,0;16/05/2026;0,5503332954480417;1,8170773805508045
+2026-05-16;21:45;Sim;;1,67;1,72;0,00%;2,99%;5,0;3,60;3,6;Denver Summit FC (W) vs Orlando Pride (W);USA NWSL Women;USA;194538185,0;59,88%;Reality Scanner V4;72,0;16/05/2026;0,4823477440178026;2,073188771407046
+2026-05-16;22:30;Sim;;1,66;1,72;0,00%;3,61%;5,0;3,60;-5,0;Sport Boys vs Cusco FC;Peru Liga 1;Peru;193715880,0;60,24%;Reality Scanner V4;-100,0;16/05/2026;0,4073874923085382;2,45465941939922
+2026-05-17;01:00;Sim;;1,75;1,9;0,00%;8,57%;5,0;4,50;4,5;V-Varen Nagasaki vs Vissel Kobe;Japan J-League;Japan;193381857,0;57,14%;Reality Scanner V4;90,0;17/05/2026;0,4766080493649138;2,098155713435382
+2026-05-17;02:00;Sim;;1,84;1,95;0,00%;5,98%;5,0;4,75;-5,0;JEF Utd Chiba vs Kashima Antlers;Japan J-League;Japan;193381869,0;54,35%;Reality Scanner V4;-100,0;17/05/2026;0,4284183242175655;2,334161751051563
+2026-05-17;04:30;Sim;;1,72;1,83;0,00%;6,40%;5,0;4,15;4,15;Gimhae FC 2008 vs Daegu FC;South Korea K League 2;South Korea;193203810,0;58,14%;Reality Scanner V4;83,0;17/05/2026;0,4872762090658984;2,052219930246649
+2026-05-17;04:30;Sim;;1,93;2,2;0,00%;13,99%;5,0;6,00;6,0;Seongnam FC vs Gyeongnam FC;South Korea K League 2;South Korea;193203821,0;51,81%;Reality Scanner V4;120,0;17/05/2026;0,4002191419873532;2,4986248693890065
+2026-05-17;08:00;Sim;;1,68;1,83;0,00%;8,93%;5,0;4,15;4,15;FC Helsingor vs Skive;Denmark Division 2;Denmark;194639000,0;59,52%;Reality Scanner V4;83,0;17/05/2026;0,485992218078489;2,0576418822340394
+2026-05-17;08:30;Sim;;1,7;2,1;0,00%;23,53%;5,0;5,50;-5,0;Sporting Club Delhi vs Inter Kashi FC;India Super League;India;194532477,0;58,82%;Reality Scanner V4;-100,0;17/05/2026;0,4202872876772707;2,3793192180693747
+2026-05-17;09:00;Sim;;1,61;1,7;0,00%;5,59%;5,0;3,50;-5,0;Brommapojkarna vs Kalmar FF;Sweden Allsvenskan;Sweden;193320650,0;62,11%;Reality Scanner V4;-100,0;17/05/2026;0,5102095976656259;1,9599749683274212
+2026-05-17;10:00;Sim;;1,56;1,66;0,00%;6,41%;5,0;3,30;-5,0;IBV Vestmannaeyjar vs Vikingur Reykjavik;Iceland Premier League;Iceland;194532855,0;64,10%;Reality Scanner V4;-100,0;17/05/2026;0,5883484542417204;1,6996701412578432
+2026-05-17;10:00;Sim;;1,59;1,66;0,00%;4,40%;5,0;3,30;3,3;Nordic United FC vs Falkenbergs FF;Sweden Superettan;Sweden;193320770,0;62,89%;Reality Scanner V4;65,99999999999999;17/05/2026;0,4864257740526106;2,0558078899905348
+2026-05-17;10:00;Sim;;1,79;1,9;0,00%;6,15%;5,0;4,50;4,5;Central Espanol vs Defensor Sporting;Uruguay Torneo Intermedio;Uruguay;194538984,0;55,87%;Reality Scanner V4;90,0;17/05/2026;0,3944039402418033;2,535465198247558
+2026-05-17;10:30;Sim;;1,75;1,83;0,00%;4,57%;5,0;4,15;-5,0;Elversberg vs SC Preussen Munster;Germany Bundesliga II;Germany;193001592,0;57,14%;Reality Scanner V4;-100,0;17/05/2026;0,5027938012950598;1,9888829347962185
+2026-05-17;11:00;Sim;;1,79;1,93;2,50%;5,13%;5,0;4,65;4,65;Everton vs Sunderland;England Premier League;England;192998811,0;;Reality Scanner V4;93,0;17/05/2026;0,4606566598080391;2,170809447555285
+2026-05-17;11:00;Sim;;1,89;2,0;0,00%;5,82%;5,0;5,00;-5,0;FC Kuressaare vs JK Nomme Kalju;Estonia Meistriliiga;Estonia;193331800,0;;Reality Scanner V4;-100,0;17/05/2026;0,5050646200570337;1,9799407449017747
+2026-05-17;11:00;Sim;;1,68;1,83;0,00%;8,93%;5,0;4,15;-5,0;FK Auda vs RFS;Latvia Virsliga;Latvia;194490403,0;59,52%;Reality Scanner V4;-100,0;17/05/2026;0,557081139877792;1,7950674207925097
+2026-05-17;11:30;Sim;;1,69;1,75;0,00%;3,55%;5,0;3,75;3,75;Västerås SK FK vs AIK;Sweden Allsvenskan;Sweden;193320661,0;59,17%;Reality Scanner V4;75,0;17/05/2026;0,523499213059503;1,910218897821797
+2026-05-17;12:00;Sim;;1,85;2,1;0,00%;13,51%;5,0;5,50;-5,0;Viktoria Plzen vs FK Jablonec;Czechia First League;Czech Republic;194641343,0;;Reality Scanner V4;-100,0;17/05/2026;0,4183529406402806;2,39032049864171
+2026-05-17;12:30;Sim;;1,85;2,0;0,00%;8,11%;5,0;5,00;5,0;MP vs Jippo;Finland Ykkosliiga;Finland;194589295,0;54,05%;Reality Scanner V4;100,0;17/05/2026;0,4441694415144012;2,251387995541746
+2026-05-17;12:30;Sim;;1,59;1,72;0,00%;8,18%;5,0;3,60;3,6;Olimpija Ljubljana vs NK Radomlje;Slovenia Prva Liga;Slovenia;193716913,0;62,89%;Reality Scanner V4;72,0;17/05/2026;0,4774005048463877;2,0946729112673568
+2026-05-17;13:30;Sim;;1,62;1,75;0,00%;8,02%;5,0;3,75;-5,0;Club Brugge vs Union Saint Gilloise;Belgium First Division A;Belgium;193331434,0;;Reality Scanner V4;-100,0;17/05/2026;0,4966229188569906;2,0135961278336314
+2026-05-17;13:30;Sim;S;1,86;2,1;0,00%;12,90%;5,0;5,50;5,5;Huachipato vs Union La Calera;Chile Liga de Primera;Chile;193193646,0;;Reality Scanner V4;110,00000000000001;17/05/2026;0,4260374786673591;2,347205827811569
+2026-05-17;13:30;Sim;;1,52;1,8;0,00%;18,42%;5,0;4,00;4,0;AEK Athens vs Olympiacos;Greece Super League 1;Greece;193754247,0;65,79%;Reality Scanner V4;80,0;17/05/2026;0,3751465135590858;2,6656180938341736
+2026-05-17;13:30;Sim;S;1,77;1,9;0,00%;7,34%;5,0;4,50;-5,0;FK Radnik Surdulica vs Crvena Zvezda;Serbia Super Liga;Serbia;194091129,0;;Reality Scanner V4;-100,0;17/05/2026;0,4893635297925667;2,0434664531650526
+2026-05-17;13:45;Sim;S;1,98;2,1;0,00%;6,06%;5,0;5,50;-5,0;Istra 1961 vs HNK Rijeka;Croatia HNL;Croatia;193719939,0;;Reality Scanner V4;-100,0;17/05/2026;0,4205796001421084;2,377665540593441
+2026-05-17;14:00;Sim;;1,57;1,66;0,00%;5,73%;5,0;3,30;-5,0;Atletico Ottawa vs HFX Wanderers FC;Canada Premier League;Canada;193192712,0;63,69%;Reality Scanner V4;-100,0;17/05/2026;0,4895485778642816;2,0426940298112792
+2026-05-17;14:00;Sim;S;1,41;1,5;0,00%;6,38%;5,0;2,50;2,5;FH Hafnarfjordur vs KA Akureyri;Iceland Premier League;Iceland;194532871,0;;Reality Scanner V4;50,0;17/05/2026;0,5991615056755555;1,668996291536134
+2026-05-17;14:00;Sim;;1,7;1,8;0,00%;5,88%;5,0;4,00;4,0;Athletic Club vs Celta Vigo;Spain La Liga;Spain;193332391,0;58,82%;Reality Scanner V4;80,0;17/05/2026;0,4851158103129347;2,0613591999727428
+2026-05-17;14:00;Sim;;1,82;2,2;0,00%;20,88%;5,0;6,00;-5,0;Elche vs Getafe;Spain La Liga;Spain;193332402,0;54,95%;Reality Scanner V4;-100,0;17/05/2026;0,4250218340303886;2,3528147664849963
+2026-05-17;14:00;Sim;;1,64;1,75;0,00%;6,71%;5,0;3,75;-5,0;Real Oviedo vs CD Alaves;Spain La Liga;Spain;193332417,0;60,98%;Reality Scanner V4;-100,0;17/05/2026;0,4738551047903912;2,1103452923590527
+2026-05-17;14:00;Sim;;1,75;2,0;0,00%;14,29%;5,0;5,00;5,0;Osasuna vs Espanyol;Spain La Liga;Spain;193332397,0;57,14%;Reality Scanner V4;100,0;17/05/2026;0,4369071255937153;2,288810716534736
+2026-05-17;14:00;Sim;;1,54;1,72;0,00%;11,69%;5,0;3,60;3,6;Fenerbahce vs Eyupspor;Türkiye Super Lig;Turkey;193718072,0;64,94%;Reality Scanner V4;72,0;17/05/2026;0,4407803364685432;2,268698597839489
+2026-05-17;14:30;Sim;;1,39;1,57;0,00%;12,95%;5,0;2,85;2,85;Keflavik vs Stjarnan;Iceland Premier League;Iceland;194532878,0;;Reality Scanner V4;57,00000000000001;17/05/2026;0,6038096812332974;1,656148244939087
+2026-05-17;15:00;Sim;;2,24;2,37;0,00%;5,80%;5,0;6,85;-5,0;Club Atlético El Linqueño vs Gimnasia C. Uruguay;Argentina Torneo A;Argentina;194637813,0;;Reality Scanner V4;-100,0;17/05/2026;0,331373432394923;3,0177343278199187
+2026-05-17;15:00;Sim;;1,67;1,9;0,00%;13,77%;5,0;4,50;-5,0;Catanzaro vs Palermo;Italy Serie B;Italy;194577020,0;;Reality Scanner V4;-100,0;17/05/2026;0,5034575483626899;1,9862608416365657
+2026-05-17;15:00;Sim;;1,74;1,8;0,00%;3,45%;5,0;4,00;-5,0;Potenza vs Ascoli;Italy Serie C Play-Offs;Italy;194697246,0;;Reality Scanner V4;-100,0;17/05/2026;0,4658541563392559;2,1465899569688496
+2026-05-17;15:00;Sim;;1,99;2,1;0,00%;5,53%;5,0;5,50;-5,0;US Yacoub El Mansour vs MAS Fes;Morocco Cup;Morocco;194640392,0;;Reality Scanner V4;-100,0;17/05/2026;0,4306864817460484;2,3218692030376733
+2026-05-17;15:00;Sim;;1,73;2,2;0,00%;27,17%;5,0;6,00;-5,0;Racing Club de Montevideo vs Cerro Largo;Uruguay Torneo Intermedio;Uruguay;194538987,0;57,80%;Reality Scanner V4;-100,0;17/05/2026;0,3941982423664101;2,536788234287105
+2026-05-17;15:15;Sim;S;1,24;1,3;0,00%;4,84%;5,0;1,50;1,5;KR Reykjavik vs Fram Reykjavik;Iceland Premier League;Iceland;194532883,0;;Reality Scanner V4;30,0;17/05/2026;0,6931625063547343;1,4426610616864164
+2026-05-17;15:15;Sim;;1,5;1,66;0,00%;10,67%;5,0;3,30;3,3;Polonia Bytom vs Slask Wroclaw;Poland I Liga;Poland;193336455,0;;Reality Scanner V4;65,99999999999999;17/05/2026;0,5766221733455312;1,7342348456064696
+2026-05-17;16:00;Sim;;1,97;2,2;0,00%;11,68%;5,0;6,00;-5,0;Caxias vs Paysandu;Brazil Serie C;Brazil;194371164,0;50,76%;Reality Scanner V4;-100,0;17/05/2026;0,4280808743923153;2,336001731957356
+2026-05-17;16:00;Sim;;2,14;2,75;0,00%;28,50%;5,0;8,75;-5,0;Brasil de Pelotas vs Sao Jose RS;Brazil Serie D;Brazil;194639820,0;;Reality Scanner V4;-100,0;17/05/2026;0,3539086195214663;2,82558016182814
+2026-05-17;16:00;Sim;;2,22;2,5;0,00%;12,61%;5,0;7,50;-5,0;Cianorte vs FC Cascavel;Brazil Serie D;Brazil;194640997,0;;Reality Scanner V4;-100,0;17/05/2026;0,3449851225836222;2,8986673217778693
+2026-05-17;16:15;Sim;;1,77;2,0;0,00%;12,99%;5,0;5,00;5,0;Real Zaragoza vs Sporting Gijon;Spain Segunda;Spain;193003652,0;;Reality Scanner V4;100,0;17/05/2026;0,4287240103732833;2,332497465285073
+2026-05-17;16:30;Sim;;2,47;2,62;0,00%;6,07%;5,0;8,10;-5,0;CA Sarmiento de la Banda vs Tucuman Central;Argentina Torneo A;Argentina;194637836,0;;Reality Scanner V4;-100,0;17/05/2026;0,3551278631695645;2,815879258798874
+2026-05-17;17:00;Sim;S;2,42;2,62;0,00%;8,26%;5,0;8,10;8,1;Sampaio Correa vs Parnahyba;Brazil Serie D;Brazil;194639826,0;;Reality Scanner V4;162,0;17/05/2026;0,3160197594869971;3,1643490814442705
+2026-05-17;18:00;Sim;S;2,15;2,37;0,00%;10,23%;5,0;6,85;6,85;Anapolis vs Barra SC;Brazil Serie C;Brazil;194371169,0;;Reality Scanner V4;137,0;17/05/2026;0,3863715488531657;2,5881755910667272
+2026-05-17;18:00;Sim;;1,54;1,9;0,00%;23,38%;5,0;4,50;-5,0;Albion FC vs Montevideo Wanderers;Uruguay Torneo Intermedio;Uruguay;194538994,0;64,94%;Reality Scanner V4;-100,0;17/05/2026;0,4082049871189949;2,449743589156357
+2026-05-17;18:30;Sim;;1,81;1,95;0,00%;7,73%;5,0;4,75;-5,0;Bragantino vs Vitoria;Brazil Serie A;Brazil;193710991,0;55,25%;Reality Scanner V4;-100,0;17/05/2026;0,4526833154264083;2,2090449479303143
+2026-05-17;18:30;Sim;;2,13;2,25;0,00%;5,63%;5,0;6,25;6,25;Criciuma vs Atletico GO;Brazil Serie B;Brazil;193711526,0;46,95%;Reality Scanner V4;125,0;17/05/2026;0,3248170173865282;3,078646954519201
+2026-05-17;18:30;Sim;;1,98;2,1;0,00%;6,06%;5,0;5,50;5,5;Colo Colo vs Nublense;Chile Liga de Primera;Chile;193193652,0;;Reality Scanner V4;110,00000000000001;17/05/2026;0,3629154277950264;2,755455315362014
+2026-05-17;19:00;Sim;S;1,83;1,9;0,00%;3,83%;5,0;4,50;-5,0;Portland Thorns (W) vs Angel City FC (W);USA NWSL Women;USA;194538187,0;;Reality Scanner V4;-100,0;17/05/2026;0,4459485724562625;2,2424060067869607
+2026-05-17;22:00;Sim;;1,68;1,83;0,00%;8,93%;5,0;4,15;-5,0;Vancouver FC vs Cavalry FC;Canada Premier League;Canada;193192720,0;59,52%;Reality Scanner V4;-100,0;17/05/2026;0,4382977169174633;2,281549001632856
