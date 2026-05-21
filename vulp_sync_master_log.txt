@@ -370,3 +370,17 @@
 [09:12:57] 💾 Salvando CSV Master... (Inseridos: 36 | Atualizados: 288)
 [09:14:50] 💎 Gerando Parquet...
 [09:15:05] ✅ Tudo pronto!
+[09:38:21] 📂 Carregando Base Mestre...
+[09:38:37] 🚀 Lendo: schedule_matches.csv
+[09:38:37] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches.csv:
+[09:38:37]    - [ ] UAE U21 Super Cup
+[09:38:37]    - [ ] Scotland Women Premier League Play-Offs
+[09:38:37]    - [ ] Bahraini Premier League Play-Offs
+[09:38:42] 💾 Salvando CSV Master... (Inseridos: 208 | Atualizados: 274)
+[09:39:22] 💎 Gerando Parquet...
+[09:39:29] ✅ Tudo pronto!
+[09:42:03] 📂 Carregando Base Mestre...
+[09:42:17] 🚀 Lendo: schedule_matches.csv
+[09:42:22] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 204)
+[09:43:12] 💎 Gerando Parquet...
+[09:43:21] ✅ Tudo pronto!
