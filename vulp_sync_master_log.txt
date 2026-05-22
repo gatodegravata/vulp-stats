@@ -396,3 +396,16 @@
 [09:34:00] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 288)
 [09:34:40] 💎 Gerando Parquet...
 [09:34:47] ✅ Tudo pronto!
+[18:27:54] 📂 Carregando Base Mestre...
+[18:28:08] 🚀 Lendo: schedule_matches.csv
+[18:28:08] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches.csv:
+[18:28:08]    - [ ] Burkina Faso League 1 Playoffs
+[18:28:08]    - [ ] FA WSL Playoffs
+[18:28:11] 💾 Salvando CSV Master... (Inseridos: 818 | Atualizados: 275)
+[18:28:31] 💎 Gerando Parquet...
+[18:28:35] ✅ Tudo pronto!
+[18:56:56] 📂 Carregando Base Mestre...
+[18:57:04] 🚀 Lendo: schedule_matches.csv
+[18:57:06] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 904)
+[18:57:24] 💎 Gerando Parquet...
+[18:57:27] ✅ Tudo pronto!
