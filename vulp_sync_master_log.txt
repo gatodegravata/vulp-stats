@@ -409,3 +409,16 @@
 [18:57:06] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 904)
 [18:57:24] 💎 Gerando Parquet...
 [18:57:27] ✅ Tudo pronto!
+[14:10:49] 📂 Carregando Base Mestre...
+[14:11:08] 🚀 Lendo: schedule_matches22.csv
+[14:11:08] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches22.csv:
+[14:11:08]    - [ ] Burkina Faso League 1 Play-Offs
+[14:11:08]    - [ ] Brazil Campeonato Paraibano U20
+[14:11:13] 💾 Salvando CSV Master... (Inseridos: 72 | Atualizados: 903)
+[14:11:57] 💎 Gerando Parquet...
+[14:12:05] ✅ Tudo pronto!
+[14:31:26] 📂 Carregando Base Mestre...
+[14:31:45] 🚀 Lendo: schedule_matches22.csv
+[14:31:50] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 452)
+[14:32:33] 💎 Gerando Parquet...
+[14:32:40] ✅ Tudo pronto!
