@@ -469,3 +469,16 @@
 [08:54:25] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 201)
 [08:55:09] 💎 Gerando Parquet...
 [08:55:17] ✅ Tudo pronto!
+[09:25:35] 📂 Carregando Base Mestre...
+[09:25:53] 🚀 Lendo: schedule_matches27.csv
+[09:25:53] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches27.csv:
+[09:25:53]    - [ ] Bulgaria First League Play-Offs
+[09:25:53]    - [ ] Azerbaijan Premier League Play-Offs
+[09:25:57] 💾 Salvando CSV Master... (Inseridos: 137 | Atualizados: 198)
+[09:26:20] 💎 Gerando Parquet...
+[09:26:24] ✅ Tudo pronto!
+[09:26:32] 📂 Carregando Base Mestre...
+[09:26:44] 🚀 Lendo: schedule_matches27.csv
+[09:26:47] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 143)
+[09:27:15] 💎 Gerando Parquet...
+[09:27:19] ✅ Tudo pronto!
