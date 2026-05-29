@@ -482,3 +482,17 @@
 [09:26:47] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 143)
 [09:27:15] 💎 Gerando Parquet...
 [09:27:19] ✅ Tudo pronto!
+[09:47:18] 📂 Carregando Base Mestre...
+[09:47:37] 🚀 Lendo: schedule_matches28.csv
+[09:47:37] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches28.csv:
+[09:47:37]    - [ ] Scotland Premier League Play-Offs Women
+[09:47:37]    - [ ] Montenegro Prva Liga Play-Offs
+[09:47:37]    - [ ] Jordan U19 League Women
+[09:47:44] 💾 Salvando CSV Master... (Inseridos: 859 | Atualizados: 119)
+[09:48:35] 💎 Gerando Parquet...
+[09:48:44] ✅ Tudo pronto!
+[09:48:54] 📂 Carregando Base Mestre...
+[09:49:08] 🚀 Lendo: schedule_matches28.csv
+[09:49:12] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 857)
+[09:49:49] 💎 Gerando Parquet...
+[09:49:54] ✅ Tudo pronto!
