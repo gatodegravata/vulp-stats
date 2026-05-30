@@ -496,3 +496,29 @@
 [09:49:12] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 857)
 [09:49:49] 💎 Gerando Parquet...
 [09:49:54] ✅ Tudo pronto!
+[11:51:59] 📂 Carregando Base Mestre...
+[11:52:14] 🚀 Lendo: schedule_matches29.csv
+[11:52:14] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches29.csv:
+[11:52:14]    - [ ] Iceland 2 Deild Women
+[11:52:14]    - [ ] Brazil Serie A U20 Women
+[11:52:14]    - [ ] Brazil Torneio Otavio Pinto Guimaraes U20
+[11:52:18] 💾 Salvando CSV Master... (Inseridos: 329 | Atualizados: 669)
+[11:53:04] 💎 Gerando Parquet...
+[11:53:10] ✅ Tudo pronto!
+[11:53:32] 📂 Carregando Base Mestre...
+[11:53:42] 🚀 Lendo: schedule_matches29.csv
+[11:53:47] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 495)
+[11:54:26] 💎 Gerando Parquet...
+[11:54:33] ✅ Tudo pronto!
+[17:23:30] 📂 Carregando Base Mestre...
+[17:23:47] 🚀 Lendo: schedule_matches.csv
+[17:23:47] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches.csv:
+[17:23:47]    - [ ] North Macedonia First League Play-Offs
+[17:23:50] 💾 Salvando CSV Master... (Inseridos: 340 | Atualizados: 633)
+[17:24:17] 💎 Gerando Parquet...
+[17:24:24] ✅ Tudo pronto!
+[17:40:24] 📂 Carregando Base Mestre...
+[17:40:33] 🚀 Lendo: schedule_matches.csv
+[17:40:35] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 774)
+[17:41:10] 💎 Gerando Parquet...
+[17:41:15] ✅ Tudo pronto!
