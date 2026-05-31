@@ -11,6 +11,8 @@
 !scripts/
 !colab/
 !.github
+!futpythontrader/
+futpythontrader/*
 !futpythontrader/base_fut_trader_consolidada.parquet
 
 # 3. Exceções de Arquivos na Raiz
