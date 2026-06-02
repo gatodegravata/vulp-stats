@@ -1,0 +1,105 @@
+﻿rodada;fase_nome;grupo;mandante;visitante;placar_mandante;placar_visitante;data_realizacao;hora_realizacao;estadio;status
+1;Fase de Grupos - Rodada 1;Grupo A;Mexico;South Africa;;;2026-06-11T16:00;16:00;Azteca;scheduled
+1;Fase de Grupos - Rodada 1;Grupo A;South Korea;Czechia;;;2026-06-11T23:00;23:00;Akron;scheduled
+1;Fase de Grupos - Rodada 1;Grupo B;Canada;Bosnia-Herzegovina;;;2026-06-12T16:00;16:00;Toronto Field;scheduled
+1;Fase de Grupos - Rodada 1;Grupo B;Qatar;Switzerland;;;2026-06-13T16:00;16:00;Santa Clara;scheduled
+1;Fase de Grupos - Rodada 1;Grupo C;Brazil;Morocco;;;2026-06-13T19:00;19:00;Nova Jersey;scheduled
+1;Fase de Grupos - Rodada 1;Grupo C;Haiti;Scotland;;;2026-06-13T22:00;22:00;Boston;scheduled
+1;Fase de Grupos - Rodada 1;Grupo D;USA;Paraguay;;;2026-06-12T22:00;22:00;Los Angeles;scheduled
+1;Fase de Grupos - Rodada 1;Grupo D;Australia;Türkiye;;;2026-06-14T01:00;01:00;Vancouver Place;scheduled
+1;Fase de Grupos - Rodada 1;Grupo E;Germany;Curacao;;;2026-06-14T14:00;14:00;Houston;scheduled
+1;Fase de Grupos - Rodada 1;Grupo E;Ivory Coast;Ecuador;;;2026-06-14T20:00;20:00;Filadélfia;scheduled
+1;Fase de Grupos - Rodada 1;Grupo F;Holland;Japan;;;2026-06-14T17:00;17:00;Dallas;scheduled
+1;Fase de Grupos - Rodada 1;Grupo F;Sweden;Tunisia;;;2026-06-14T23:00;23:00;El Gigante de Acero;scheduled
+1;Fase de Grupos - Rodada 1;Grupo G;Belgium;Egypt;;;2026-06-15T16:00;16:00;Seattle Field;scheduled
+1;Fase de Grupos - Rodada 1;Grupo G;Iran;New Zealand;;;2026-06-15T22:00;22:00;Los Angeles;scheduled
+1;Fase de Grupos - Rodada 1;Grupo H;Spain;Cape Verde;;;2026-06-15T13:00;13:00;Atlanta;scheduled
+1;Fase de Grupos - Rodada 1;Grupo H;Saudi Arabia;Uruguay;;;2026-06-15T19:00;19:00;Miami;scheduled
+1;Fase de Grupos - Rodada 1;Grupo I;France;Senegal;;;2026-06-16T16:00;16:00;Nova Jersey;scheduled
+1;Fase de Grupos - Rodada 1;Grupo I;Iraq;Norway;;;2026-06-16T19:00;19:00;Boston;scheduled
+1;Fase de Grupos - Rodada 1;Grupo J;Argentina;Algeria;;;2026-06-16T22:00;22:00;Kansas City;scheduled
+1;Fase de Grupos - Rodada 1;Grupo J;Austria;Jordan;;;2026-06-17T01:00;01:00;Santa Clara;scheduled
+1;Fase de Grupos - Rodada 1;Grupo K;Portugal;DR Congo;;;2026-06-17T14:00;14:00;Houston;scheduled
+1;Fase de Grupos - Rodada 1;Grupo K;Uzbekistan;Colombia;;;2026-06-17T23:00;23:00;Azteca;scheduled
+1;Fase de Grupos - Rodada 1;Grupo L;England;Croatia;;;2026-06-17T17:00;17:00;Dallas;scheduled
+1;Fase de Grupos - Rodada 1;Grupo L;Ghana;Panama;;;2026-06-17T20:00;20:00;Toronto Field;scheduled
+2;Fase de Grupos - Rodada 2;Grupo A;Czechia;South Africa;;;2026-06-18T13:00;13:00;Atlanta;scheduled
+2;Fase de Grupos - Rodada 2;Grupo A;Mexico;South Korea;;;2026-06-18T22:00;22:00;Akron;scheduled
+2;Fase de Grupos - Rodada 2;Grupo B;Switzerland;Bosnia-Herzegovina;;;2026-06-18T16:00;16:00;Los Angeles;scheduled
+2;Fase de Grupos - Rodada 2;Grupo B;Canada;Qatar;;;2026-06-18T19:00;19:00;Vancouver Place;scheduled
+2;Fase de Grupos - Rodada 2;Grupo C;Scotland;Morocco;;;2026-06-19T19:00;19:00;Boston;scheduled
+2;Fase de Grupos - Rodada 2;Grupo C;Brazil;Haiti;;;2026-06-19T21:30;21:30;Filadélfia;scheduled
+2;Fase de Grupos - Rodada 2;Grupo D;USA;Australia;;;2026-06-19T16:00;16:00;Seattle Field;scheduled
+2;Fase de Grupos - Rodada 2;Grupo D;Türkiye;Paraguay;;;2026-06-20T01:00;01:00;Santa Clara;scheduled
+2;Fase de Grupos - Rodada 2;Grupo E;Germany;Ivory Coast;;;2026-06-20T17:00;17:00;Toronto Field;scheduled
+2;Fase de Grupos - Rodada 2;Grupo E;Ecuador;Curacao;;;2026-06-20T21:00;21:00;Kansas City;scheduled
+2;Fase de Grupos - Rodada 2;Grupo F;Holland;Sweden;;;2026-06-20T14:00;14:00;Houston;scheduled
+2;Fase de Grupos - Rodada 2;Grupo F;Tunisia;Japan;;;2026-06-21T01:00;01:00;El Gigante de Acero;scheduled
+2;Fase de Grupos - Rodada 2;Grupo G;Belgium;Iran;;;2026-06-21T16:00;16:00;Los Angeles;scheduled
+2;Fase de Grupos - Rodada 2;Grupo G;New Zealand;Egypt;;;2026-06-21T22:00;22:00;Vancouver Place;scheduled
+2;Fase de Grupos - Rodada 2;Grupo H;Spain;Saudi Arabia;;;2026-06-21T13:00;13:00;Atlanta;scheduled
+2;Fase de Grupos - Rodada 2;Grupo H;Uruguay;Cape Verde;;;2026-06-21T19:00;19:00;Miami;scheduled
+2;Fase de Grupos - Rodada 2;Grupo I;France;Iraq;;;2026-06-22T18:00;18:00;Filadélfia;scheduled
+2;Fase de Grupos - Rodada 2;Grupo I;Norway;Senegal;;;2026-06-22T21:00;21:00;Nova Jersey;scheduled
+2;Fase de Grupos - Rodada 2;Grupo J;Argentina;Austria;;;2026-06-22T14:00;14:00;Dallas;scheduled
+2;Fase de Grupos - Rodada 2;Grupo J;Jordan;Algeria;;;2026-06-23T00:00;00:00;Santa Clara;scheduled
+2;Fase de Grupos - Rodada 2;Grupo K;Portugal;Uzbekistan;;;2026-06-23T14:00;14:00;Houston;scheduled
+2;Fase de Grupos - Rodada 2;Grupo K;Colombia;DR Congo;;;2026-06-23T23:00;23:00;Akron;scheduled
+2;Fase de Grupos - Rodada 2;Grupo L;England;Ghana;;;2026-06-23T17:00;17:00;Boston;scheduled
+2;Fase de Grupos - Rodada 2;Grupo L;Panama;Croatia;;;2026-06-23T20:00;20:00;Toronto Field;scheduled
+3;Fase de Grupos - Rodada 3;Grupo A;South Africa;South Korea;;;2026-06-24T22:00;22:00;El Gigante de Acero;scheduled
+3;Fase de Grupos - Rodada 3;Grupo A;Czechia;Mexico;;;2026-06-24T22:00;22:00;Azteca;scheduled
+3;Fase de Grupos - Rodada 3;Grupo B;Switzerland;Canada;;;2026-06-24T16:00;16:00;Vancouver Place;scheduled
+3;Fase de Grupos - Rodada 3;Grupo B;Bosnia-Herzegovina;Qatar;;;2026-06-24T16:00;16:00;Seattle Field;scheduled
+3;Fase de Grupos - Rodada 3;Grupo C;Morocco;Haiti;;;2026-06-24T19:00;19:00;Atlanta;scheduled
+3;Fase de Grupos - Rodada 3;Grupo C;Scotland;Brazil;;;2026-06-24T19:00;19:00;Miami;scheduled
+3;Fase de Grupos - Rodada 3;Grupo D;Türkiye;USA;;;2026-06-25T23:00;23:00;Los Angeles;scheduled
+3;Fase de Grupos - Rodada 3;Grupo D;Paraguay;Australia;;;2026-06-25T23:00;23:00;Santa Clara;scheduled
+3;Fase de Grupos - Rodada 3;Grupo E;Ecuador;Germany;;;2026-06-25T17:00;17:00;Nova Jersey;scheduled
+3;Fase de Grupos - Rodada 3;Grupo E;Curacao;Ivory Coast;;;2026-06-25T17:00;17:00;Filadélfia;scheduled
+3;Fase de Grupos - Rodada 3;Grupo F;Tunisia;Holland;;;2026-06-25T20:00;20:00;Kansas City;scheduled
+3;Fase de Grupos - Rodada 3;Grupo F;Japan;Sweden;;;2026-06-25T20:00;20:00;Dallas;scheduled
+3;Fase de Grupos - Rodada 3;Grupo G;Egypt;Iran;;;2026-06-27T00:00;00:00;Seattle Field;scheduled
+3;Fase de Grupos - Rodada 3;Grupo G;New Zealand;Belgium;;;2026-06-27T00:00;00:00;Vancouver Place;scheduled
+3;Fase de Grupos - Rodada 3;Grupo H;Cape Verde;Saudi Arabia;;;2026-06-26T21:00;21:00;Houston;scheduled
+3;Fase de Grupos - Rodada 3;Grupo H;Uruguay;Spain;;;2026-06-26T21:00;21:00;Akron;scheduled
+3;Fase de Grupos - Rodada 3;Grupo I;Senegal;Iraq;;;2026-06-26T16:00;16:00;Toronto Field;scheduled
+3;Fase de Grupos - Rodada 3;Grupo I;Norway;France;;;2026-06-26T16:00;16:00;Boston;scheduled
+3;Fase de Grupos - Rodada 3;Grupo J;Jordan;Argentina;;;2026-06-27T23:00;23:00;Dallas;scheduled
+3;Fase de Grupos - Rodada 3;Grupo J;Algeria;Austria;;;2026-06-27T23:00;23:00;Kansas City;scheduled
+3;Fase de Grupos - Rodada 3;Grupo K;DR Congo;Uzbekistan;;;2026-06-27T20:30;20:30;Atlanta;scheduled
+3;Fase de Grupos - Rodada 3;Grupo K;Colombia;Portugal;;;2026-06-27T20:30;20:30;Miami;scheduled
+3;Fase de Grupos - Rodada 3;Grupo L;Croatia;Ghana;;;2026-06-27T18:00;18:00;Filadélfia;scheduled
+3;Fase de Grupos - Rodada 3;Grupo L;Panama;England;;;2026-06-27T18:00;18:00;Nova Jersey;scheduled
+4;16 avos de final;;;;;;2026-06-29;17:30:00;Boston;scheduled
+4;16 avos de final;;;;;;2026-06-30;18:00:00;Nova Jersey;scheduled
+4;16 avos de final;;;;;;2026-06-28;16:00:00;Los Angeles;scheduled
+4;16 avos de final;;;;;;2026-06-29;22:00:00;El Gigante de Acero;scheduled
+4;16 avos de final;;;;;;2026-07-02;20:00:00;Toronto Field;scheduled
+4;16 avos de final;;;;;;2026-07-02;16:00:00;Los Angeles;scheduled
+4;16 avos de final;;;;;;2026-07-01;21:00:00;Santa Clara;scheduled
+4;16 avos de final;;;;;;2026-07-01;17:00:00;Seattle Field;scheduled
+4;16 avos de final;;;;;;2026-06-29;14:00:00;Houston;scheduled
+4;16 avos de final;;;;;;2026-06-30;14:00:00;Dallas;scheduled
+4;16 avos de final;;;;;;2026-06-30;22:00:00;Azteca;scheduled
+4;16 avos de final;;;;;;2026-07-01;13:00:00;Atlanta;scheduled
+4;16 avos de final;;;;;;2026-07-03;19:00:00;Miami;scheduled
+4;16 avos de final;;;;;;2026-07-03;15:00:00;Dallas;scheduled
+4;16 avos de final;;;;;;2026-07-03;00:00:00;Vancouver Place;scheduled
+4;16 avos de final;;;;;;2026-07-03;22:30:00;Kansas City;scheduled
+5;Oitavas de final;;;;;;2026-07-04;18:00:00;Filadélfia;scheduled
+5;Oitavas de final;;;;;;2026-07-04;14:00:00;Houston;scheduled
+5;Oitavas de final;;;;;;2026-07-06;16:00:00;Dallas;scheduled
+5;Oitavas de final;;;;;;2026-07-06;21:00:00;Seattle Field;scheduled
+5;Oitavas de final;;;;;;2026-07-05;17:00:00;Nova Jersey;scheduled
+5;Oitavas de final;;;;;;2026-07-05;21:00:00;Azteca;scheduled
+5;Oitavas de final;;;;;;2026-07-07;13:00:00;Atlanta;scheduled
+5;Oitavas de final;;;;;;2026-07-07;17:00:00;Vancouver Place;scheduled
+6;Quartas de final;;;;;;2026-07-09;17:00:00;Boston;scheduled
+6;Quartas de final;;;;;;2026-07-10;16:00:00;Los Angeles;scheduled
+6;Quartas de final;;;;;;2026-07-11;18:00:00;Miami;scheduled
+6;Quartas de final;;;;;;2026-07-11;22:00:00;Kansas City;scheduled
+7;Semifinal;;;;;;2026-07-14;16:00:00;Dallas;scheduled
+7;Semifinal;;;;;;2026-07-15;16:00:00;Atlanta;scheduled
+8;Final & 3º Lugar;;;;;;2026-07-18;18:00:00;Miami;scheduled
+8;Final & 3º Lugar;;;;;;2026-07-19;16:00:00;Nova Jersey;scheduled
