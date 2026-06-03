@@ -549,3 +549,32 @@
 [09:41:36] 💾 Salvando CSV Master... (Inseridos: 104 | Atualizados: 111)
 [09:42:38] 💎 Gerando Parquet...
 [09:42:45] ✅ Tudo pronto!
+[17:20:37] 📂 Carregando Base Mestre...
+[17:20:47] 🚀 Lendo: faltam_FINALIZADO.csv
+[17:20:48] ⚠️ ATENÇÃO: Ligas novas encontradas em faltam_FINALIZADO.csv:
+[17:20:48]    - [ ] French League Cup
+[17:20:48]    - [ ] Euro 2020 Qualifying
+[17:20:48]    - [ ] CONCACAF Nations League Qualifying
+[17:20:48]    - [ ] African Nations Cup Qualifiers
+[17:20:48]    - [ ] WAFU Cup of Nations
+[17:20:48]    - [ ] AFC U19 Championships
+[17:20:48] 🚀 Lendo: schedule_matches02.csv
+[17:20:48] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches02.csv:
+[17:20:48]    - [ ] Spain Regional Cup Women
+[17:20:51] 💾 Salvando CSV Master... (Inseridos: 4068 | Atualizados: 94)
+[17:21:23] 💎 Gerando Parquet...
+[17:21:34] ✅ Tudo pronto!
+[17:23:45] 📂 Carregando Base Mestre...
+[17:23:57] 🚀 Lendo: faltam_FINALIZADO.csv
+[17:24:00] 🚀 Lendo: schedule_matches02.csv
+[17:24:01] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches02.csv:
+[17:24:01]    - [ ] Spain Regional Cup Women
+[17:24:03] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 438)
+[17:24:30] 💎 Gerando Parquet...
+[17:24:41] ✅ Tudo pronto!
+[17:26:17] 📂 Carregando Base Mestre...
+[17:26:29] 🚀 Lendo: faltam_FINALIZADO.csv
+[17:26:32] 🚀 Lendo: schedule_matches02.csv
+[17:26:35] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 438)
+[17:27:02] 💎 Gerando Parquet...
+[17:27:13] ✅ Tudo pronto!
