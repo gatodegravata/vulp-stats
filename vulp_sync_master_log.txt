@@ -578,3 +578,17 @@
 [17:26:35] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 438)
 [17:27:02] 💎 Gerando Parquet...
 [17:27:13] ✅ Tudo pronto!
+[17:59:20] 📂 Carregando Base Mestre...
+[17:59:49] 🚀 Lendo: schedule_matches03.csv
+[17:59:49] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches03.csv:
+[17:59:49]    - [ ] Ukraine Vyscha Liga Play-Offs
+[17:59:49]    - [ ] Brazil Campeonato Paulista Serie B U20
+[17:59:49]    - [ ] Brazil Campeonato Amapaense B
+[17:59:55] 💾 Salvando CSV Master... (Inseridos: 152 | Atualizados: 142)
+[18:00:50] 💎 Gerando Parquet...
+[18:01:06] ✅ Tudo pronto!
+[18:01:35] 📂 Carregando Base Mestre...
+[18:01:57] 🚀 Lendo: schedule_matches03.csv
+[18:02:04] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 162)
+[18:03:42] 💎 Gerando Parquet...
+[18:04:02] ✅ Tudo pronto!
