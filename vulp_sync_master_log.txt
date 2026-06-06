@@ -597,3 +597,16 @@
 [09:03:10] 💾 Salvando CSV Master... (Inseridos: 227 | Atualizados: 141)
 [09:03:45] 💎 Gerando Parquet...
 [09:03:59] ✅ Tudo pronto!
+[10:21:08] 📂 Carregando Base Mestre...
+[10:21:30] 🚀 Lendo: schedule_matches05.csv
+[10:21:30] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches05.csv:
+[10:21:30]    - [ ] Women’s International Match
+[10:21:30]    - [ ] Suriname Cup
+[10:21:37] 💾 Salvando CSV Master... (Inseridos: 828 | Atualizados: 212)
+[10:23:02] 💎 Gerando Parquet...
+[10:23:17] ✅ Tudo pronto!
+[10:23:22] 📂 Carregando Base Mestre...
+[10:23:39] 🚀 Lendo: schedule_matches05.csv
+[10:23:43] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 660)
+[10:24:29] 💎 Gerando Parquet...
+[10:24:50] ✅ Tudo pronto!
