@@ -610,3 +610,17 @@
 [10:23:43] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 660)
 [10:24:29] 💎 Gerando Parquet...
 [10:24:50] ✅ Tudo pronto!
+[13:45:28] 📂 Carregando Base Mestre...
+[13:45:41] 🚀 Lendo: schedule_matches.csv
+[13:45:42] 🚀 Lendo: schedule_matches06.csv
+[13:45:42] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches06.csv:
+[13:45:42]    - [ ] Taiwan Premier League Play-Offs
+[13:45:46] 💾 Salvando CSV Master... (Inseridos: 353 | Atualizados: 644)
+[13:46:28] 💎 Gerando Parquet...
+[13:46:42] ✅ Tudo pronto!
+[13:46:59] 📂 Carregando Base Mestre...
+[13:47:16] 🚀 Lendo: schedule_matches.csv
+[13:47:20] 🚀 Lendo: schedule_matches06.csv
+[13:47:27] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 465)
+[13:48:26] 💎 Gerando Parquet...
+[13:48:48] ✅ Tudo pronto!
