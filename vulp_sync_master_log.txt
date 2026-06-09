@@ -630,3 +630,17 @@
 [09:17:25] 💾 Salvando CSV Master... (Inseridos: 111 | Atualizados: 394)
 [09:18:26] 💎 Gerando Parquet...
 [09:18:50] ✅ Tudo pronto!
+[10:10:09] 📂 Carregando Base Mestre...
+[10:10:40] 🚀 Lendo: schedule_matches.csv
+[10:10:47] 🚀 Lendo: schedule_matches08.csv
+[10:10:48] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches08.csv:
+[10:10:48]    - [ ] ASEAN Championship Qualifying
+[10:11:06] 💾 Salvando CSV Master... (Inseridos: 205 | Atualizados: 299)
+[10:12:06] 💎 Gerando Parquet...
+[10:12:21] ✅ Tudo pronto!
+[10:12:30] 📂 Carregando Base Mestre...
+[10:12:55] 🚀 Lendo: schedule_matches.csv
+[10:13:00] 🚀 Lendo: schedule_matches08.csv
+[10:13:06] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 407)
+[10:13:49] 💎 Gerando Parquet...
+[10:14:03] ✅ Tudo pronto!
