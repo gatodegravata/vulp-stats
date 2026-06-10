@@ -644,3 +644,20 @@
 [10:13:06] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 407)
 [10:13:49] 💎 Gerando Parquet...
 [10:14:03] ✅ Tudo pronto!
+[09:43:35] 📂 Carregando Base Mestre...
+[09:44:00] 🚀 Lendo: schedule_matches.csv
+[09:44:00] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches.csv:
+[09:44:00]    - [ ] Peru Copa de la Liga
+[09:44:05] 🚀 Lendo: schedule_matches09.csv
+[09:44:05] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches09.csv:
+[09:44:05]    - [ ] Brazil Camp Amazonense U20 Women - 70 mins play
+[09:44:12] 💾 Salvando CSV Master... (Inseridos: 268 | Atualizados: 397)
+[09:45:12] 💎 Gerando Parquet...
+[09:45:20] 📂 Carregando Base Mestre...
+[09:45:45] 🚀 Lendo: schedule_matches.csv
+[09:45:49] 🚀 Lendo: schedule_matches09.csv
+[09:45:49] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches09.csv:
+[09:45:49]    - [ ] Brazil Camp Amazonense U20 Women - 70 mins play
+[09:45:56] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 520)
+[09:46:56] 💎 Gerando Parquet...
+[09:47:15] ✅ Tudo pronto!
