@@ -661,3 +661,19 @@
 [09:45:56] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 520)
 [09:46:56] 💎 Gerando Parquet...
 [09:47:15] ✅ Tudo pronto!
+[11:49:11] 📂 Carregando Base Mestre...
+[11:49:39] 🚀 Lendo: schedule_matches.csv
+[11:49:44] 🚀 Lendo: schedule_matches10.csv
+[11:49:44] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches10.csv:
+[11:49:44]    - [ ] Brazil Camp Amazonense U20 Women - 70 mins play
+[11:49:44]    - [ ] China Super Championship Women
+[11:49:44]    - [ ] Brazil Copa Ouro U20
+[11:49:51] 💾 Salvando CSV Master... (Inseridos: 203 | Atualizados: 503)
+[11:51:08] 💎 Gerando Parquet...
+[11:51:34] ✅ Tudo pronto!
+[11:59:07] 📂 Carregando Base Mestre...
+[11:59:30] 🚀 Lendo: schedule_matches.csv
+[11:59:35] 🚀 Lendo: schedule_matches10.csv
+[11:59:44] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 577)
+[12:00:53] 💎 Gerando Parquet...
+[12:01:18] ✅ Tudo pronto!
