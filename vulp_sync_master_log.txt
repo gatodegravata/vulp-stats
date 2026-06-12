@@ -677,3 +677,17 @@
 [11:59:44] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 577)
 [12:00:53] 💎 Gerando Parquet...
 [12:01:18] ✅ Tudo pronto!
+[08:16:19] 📂 Carregando Base Mestre...
+[08:16:45] 🚀 Lendo: schedule_matches.csv
+[08:16:49] 🚀 Lendo: schedule_matches11.csv
+[08:16:49] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches11.csv:
+[08:16:49]    - [ ] Vietnam V- League Play-Offs
+[08:16:56] 💾 Salvando CSV Master... (Inseridos: 243 | Atualizados: 545)
+[08:18:01] 💎 Gerando Parquet...
+[08:18:19] ✅ Tudo pronto!
+[08:19:14] 📂 Carregando Base Mestre...
+[08:19:37] 🚀 Lendo: schedule_matches.csv
+[08:19:41] 🚀 Lendo: schedule_matches11.csv
+[08:19:48] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 689)
+[08:21:09] 💎 Gerando Parquet...
+[08:21:27] ✅ Tudo pronto!
