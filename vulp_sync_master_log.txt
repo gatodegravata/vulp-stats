@@ -691,3 +691,19 @@
 [08:19:48] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 689)
 [08:21:09] 💎 Gerando Parquet...
 [08:21:27] ✅ Tudo pronto!
+[10:56:16] 📂 Carregando Base Mestre...
+[10:56:39] 🚀 Lendo: schedule_matches.csv
+[10:56:39] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches.csv:
+[10:56:39]    - [ ] Uruguay Copa Nacional de Clubes
+[10:56:44] 🚀 Lendo: schedule_matches12.csv
+[10:56:44] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches12.csv:
+[10:56:44]    - [ ] Uruguay Copa Nacional de Clubes
+[10:56:51] 💾 Salvando CSV Master... (Inseridos: 468 | Atualizados: 674)
+[10:57:52] 💎 Gerando Parquet...
+[10:58:12] ✅ Tudo pronto!
+[10:58:45] 📂 Carregando Base Mestre...
+[10:59:03] 🚀 Lendo: schedule_matches.csv
+[10:59:09] 🚀 Lendo: schedule_matches12.csv
+[10:59:16] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 833)
+[11:00:12] 💎 Gerando Parquet...
+[11:00:34] ✅ Tudo pronto!
