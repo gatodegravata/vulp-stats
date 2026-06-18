@@ -745,3 +745,9 @@
 [09:05:56] 💾 Salvando CSV Master... (Inseridos: 159 | Atualizados: 440)
 [09:06:54] 💎 Gerando Parquet...
 [09:07:23] ✅ Tudo pronto!
+[09:11:07] 📂 Carregando Base Mestre...
+[09:11:30] 🚀 Lendo: schedule_matches.csv
+[09:11:37] 🚀 Lendo: schedule_matches17.csv
+[09:11:42] 💾 Salvando CSV Master... (Inseridos: 5 | Atualizados: 706)
+[09:12:26] 💎 Gerando Parquet...
+[09:12:40] ✅ Tudo pronto!
