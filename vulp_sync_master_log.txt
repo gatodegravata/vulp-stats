@@ -756,3 +756,16 @@
 [09:37:02] 💾 Salvando CSV Master... (Inseridos: 2 | Atualizados: 526)
 [09:37:37] 💎 Gerando Parquet...
 [09:37:51] ✅ Tudo pronto!
+[13:38:20] 📂 Carregando Base Mestre...
+[13:38:59] 🚀 Lendo: schedule_matches18-21.csv
+[13:39:00] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches18-21.csv:
+[13:39:00]    - [ ] South Korea K-League Women
+[13:39:00]    - [ ] Brazil Campeonato Tocantinense U20
+[13:39:05] 💾 Salvando CSV Master... (Inseridos: 596 | Atualizados: 597)
+[13:40:01] 💎 Gerando Parquet...
+[13:40:18] ✅ Tudo pronto!
+[13:40:24] 📂 Carregando Base Mestre...
+[13:40:45] 🚀 Lendo: schedule_matches18-21.csv
+[13:40:53] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 128)
+[13:41:53] 💎 Gerando Parquet...
+[13:42:08] ✅ Tudo pronto!
