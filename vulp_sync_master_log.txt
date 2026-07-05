@@ -813,3 +813,16 @@
 [10:18:39] 💾 Salvando CSV Master... (Inseridos: 94 | Atualizados: 52)
 [10:19:07] 💎 Gerando Parquet...
 [10:19:20] ✅ Tudo pronto!
+[17:33:14] 📂 Carregando Base Mestre...
+[17:33:27] 🚀 Lendo: schedule_matches30-04.csv
+[17:33:28] ⚠️ ATENÇÃO: Ligas novas encontradas em schedule_matches30-04.csv:
+[17:33:28]    - [ ] Brazil Campeonato Piauiense U20
+[17:33:28]    - [ ] Brazil Campeonato Amapaense Women
+[17:33:29] 💾 Salvando CSV Master... (Inseridos: 1104 | Atualizados: 79)
+[17:33:58] 💎 Gerando Parquet...
+[17:34:08] ✅ Tudo pronto!
+[17:34:14] 📂 Carregando Base Mestre...
+[17:34:27] 🚀 Lendo: schedule_matches30-04.csv
+[17:34:28] 💾 Salvando CSV Master... (Inseridos: 0 | Atualizados: 152)
+[17:34:58] 💎 Gerando Parquet...
+[17:35:08] ✅ Tudo pronto!
