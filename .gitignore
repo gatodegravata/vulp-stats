@@ -14,6 +14,9 @@
 !futpythontrader/
 futpythontrader/*
 !futpythontrader/base_fut_trader_consolidada.parquet
+!futpythontrader/dicionario_dados.csv
+!futpythontrader/ligas.json
+!queries/schema.sql
 
 # 3. Exceções de Arquivos na Raiz
 # Aqui permitimos apenas o que você realmente quer na raiz

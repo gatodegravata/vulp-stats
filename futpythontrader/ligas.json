@@ -1,0 +1,4552 @@
+[
+    {
+        "pais": "argentina",
+        "liga": "copa-de-la-liga-profesional",
+        "temporada": "2024"
+    },
+    {
+        "pais": "argentina",
+        "liga": "primera-nacional",
+        "temporada": "2026"
+    },
+    {
+        "pais": "argentina",
+        "liga": "primera-nacional",
+        "temporada": "2025"
+    },
+    {
+        "pais": "argentina",
+        "liga": "primera-nacional",
+        "temporada": "2024"
+    },
+    {
+        "pais": "argentina",
+        "liga": "primera-nacional",
+        "temporada": "2023"
+    },
+    {
+        "pais": "argentina",
+        "liga": "primera-nacional",
+        "temporada": "2022"
+    },
+    {
+        "pais": "argentina",
+        "liga": "primera-nacional",
+        "temporada": "2021"
+    },
+    {
+        "pais": "argentina",
+        "liga": "torneo-betano",
+        "temporada": "2026"
+    },
+    {
+        "pais": "argentina",
+        "liga": "torneo-betano",
+        "temporada": "2025"
+    },
+    {
+        "pais": "argentina",
+        "liga": "torneo-betano",
+        "temporada": "2024"
+    },
+    {
+        "pais": "argentina",
+        "liga": "torneo-betano",
+        "temporada": "2023"
+    },
+    {
+        "pais": "argentina",
+        "liga": "torneo-betano",
+        "temporada": "2022"
+    },
+    {
+        "pais": "argentina",
+        "liga": "torneo-federal",
+        "temporada": "2026"
+    },
+    {
+        "pais": "argentina",
+        "liga": "torneo-federal",
+        "temporada": "2025"
+    },
+    {
+        "pais": "argentina",
+        "liga": "torneo-federal",
+        "temporada": "2024"
+    },
+    {
+        "pais": "argentina",
+        "liga": "torneo-federal",
+        "temporada": "2023"
+    },
+    {
+        "pais": "argentina",
+        "liga": "torneo-federal",
+        "temporada": "2022"
+    },
+    {
+        "pais": "argentina",
+        "liga": "torneo-federal",
+        "temporada": "2021"
+    },
+    {
+        "pais": "australia",
+        "liga": "a-league",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "australia",
+        "liga": "a-league",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "australia",
+        "liga": "a-league",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "australia",
+        "liga": "a-league",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "australia",
+        "liga": "a-league",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "australia",
+        "liga": "a-league",
+        "temporada": "2020-2021"
+    },
+    {
+        "pais": "australia",
+        "liga": "australian-championship",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "austria",
+        "liga": "2-liga",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "austria",
+        "liga": "2-liga",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "austria",
+        "liga": "2-liga",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "austria",
+        "liga": "2-liga",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "austria",
+        "liga": "2-liga",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "austria",
+        "liga": "bundesliga",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "austria",
+        "liga": "bundesliga",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "austria",
+        "liga": "bundesliga",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "austria",
+        "liga": "bundesliga",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "austria",
+        "liga": "bundesliga",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "austria",
+        "liga": "bundesliga",
+        "temporada": "2020-2021"
+    },
+    {
+        "pais": "belgium",
+        "liga": "challenger-pro-league",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "belgium",
+        "liga": "challenger-pro-league",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "belgium",
+        "liga": "challenger-pro-league",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "belgium",
+        "liga": "challenger-pro-league",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "belgium",
+        "liga": "challenger-pro-league",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "belgium",
+        "liga": "jupiler-pro-league",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "belgium",
+        "liga": "jupiler-pro-league",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "belgium",
+        "liga": "jupiler-pro-league",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "belgium",
+        "liga": "jupiler-pro-league",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "belgium",
+        "liga": "jupiler-pro-league",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "belgium",
+        "liga": "jupiler-pro-league",
+        "temporada": "2020-2021"
+    },
+    {
+        "pais": "bolivia",
+        "liga": "copa-pacena",
+        "temporada": "2025"
+    },
+    {
+        "pais": "bolivia",
+        "liga": "copa-simon-bolivar",
+        "temporada": "2025"
+    },
+    {
+        "pais": "bolivia",
+        "liga": "division-profesional",
+        "temporada": "2026"
+    },
+    {
+        "pais": "bolivia",
+        "liga": "division-profesional",
+        "temporada": "2025"
+    },
+    {
+        "pais": "bolivia",
+        "liga": "division-profesional",
+        "temporada": "2024"
+    },
+    {
+        "pais": "bolivia",
+        "liga": "division-profesional",
+        "temporada": "2023"
+    },
+    {
+        "pais": "bolivia",
+        "liga": "division-profesional",
+        "temporada": "2022"
+    },
+    {
+        "pais": "bolivia",
+        "liga": "division-profesional",
+        "temporada": "2021"
+    },
+    {
+        "pais": "bosnia-and-herzegovina",
+        "liga": "prva-liga-fbih",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "bosnia-and-herzegovina",
+        "liga": "prva-liga-fbih",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "bosnia-and-herzegovina",
+        "liga": "prva-liga-fbih",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "bosnia-and-herzegovina",
+        "liga": "prva-liga-fbih",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "bosnia-and-herzegovina",
+        "liga": "prva-liga-fbih",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "bosnia-and-herzegovina",
+        "liga": "wwin-liga-bih",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "bosnia-and-herzegovina",
+        "liga": "wwin-liga-bih",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "bosnia-and-herzegovina",
+        "liga": "wwin-liga-bih",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "bosnia-and-herzegovina",
+        "liga": "wwin-liga-bih",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "bosnia-and-herzegovina",
+        "liga": "wwin-liga-bih",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "brazil",
+        "liga": "brasileiro-women",
+        "temporada": "2026"
+    },
+    {
+        "pais": "brazil",
+        "liga": "brasileiro-women",
+        "temporada": "2025"
+    },
+    {
+        "pais": "brazil",
+        "liga": "brasileiro-women",
+        "temporada": "2024"
+    },
+    {
+        "pais": "brazil",
+        "liga": "brasileiro-women",
+        "temporada": "2023"
+    },
+    {
+        "pais": "brazil",
+        "liga": "brasileiro-women",
+        "temporada": "2022"
+    },
+    {
+        "pais": "brazil",
+        "liga": "brasileiro-women",
+        "temporada": "2021"
+    },
+    {
+        "pais": "brazil",
+        "liga": "copa-betano-do-brasil",
+        "temporada": "2026"
+    },
+    {
+        "pais": "brazil",
+        "liga": "copa-betano-do-brasil",
+        "temporada": "2025"
+    },
+    {
+        "pais": "brazil",
+        "liga": "copa-betano-do-brasil",
+        "temporada": "2024"
+    },
+    {
+        "pais": "brazil",
+        "liga": "copa-betano-do-brasil",
+        "temporada": "2023"
+    },
+    {
+        "pais": "brazil",
+        "liga": "copa-betano-do-brasil",
+        "temporada": "2022"
+    },
+    {
+        "pais": "brazil",
+        "liga": "copa-betano-do-brasil",
+        "temporada": "2021"
+    },
+    {
+        "pais": "brazil",
+        "liga": "serie-a-betano",
+        "temporada": "2026"
+    },
+    {
+        "pais": "brazil",
+        "liga": "serie-a-betano",
+        "temporada": "2025"
+    },
+    {
+        "pais": "brazil",
+        "liga": "serie-a-betano",
+        "temporada": "2024"
+    },
+    {
+        "pais": "brazil",
+        "liga": "serie-a-betano",
+        "temporada": "2023"
+    },
+    {
+        "pais": "brazil",
+        "liga": "serie-a-betano",
+        "temporada": "2022"
+    },
+    {
+        "pais": "brazil",
+        "liga": "serie-a-betano",
+        "temporada": "2021"
+    },
+    {
+        "pais": "brazil",
+        "liga": "serie-b",
+        "temporada": "2026"
+    },
+    {
+        "pais": "brazil",
+        "liga": "serie-b",
+        "temporada": "2025"
+    },
+    {
+        "pais": "brazil",
+        "liga": "serie-b",
+        "temporada": "2024"
+    },
+    {
+        "pais": "brazil",
+        "liga": "serie-b",
+        "temporada": "2023"
+    },
+    {
+        "pais": "brazil",
+        "liga": "serie-b",
+        "temporada": "2022"
+    },
+    {
+        "pais": "brazil",
+        "liga": "serie-b",
+        "temporada": "2021"
+    },
+    {
+        "pais": "brazil",
+        "liga": "serie-b-superbet",
+        "temporada": "2026"
+    },
+    {
+        "pais": "brazil",
+        "liga": "serie-c",
+        "temporada": "2026"
+    },
+    {
+        "pais": "brazil",
+        "liga": "serie-c",
+        "temporada": "2025"
+    },
+    {
+        "pais": "brazil",
+        "liga": "serie-c",
+        "temporada": "2024"
+    },
+    {
+        "pais": "brazil",
+        "liga": "serie-c",
+        "temporada": "2023"
+    },
+    {
+        "pais": "brazil",
+        "liga": "serie-c",
+        "temporada": "2022"
+    },
+    {
+        "pais": "brazil",
+        "liga": "serie-c",
+        "temporada": "2021"
+    },
+    {
+        "pais": "brazil",
+        "liga": "serie-d",
+        "temporada": "2026"
+    },
+    {
+        "pais": "brazil",
+        "liga": "serie-d",
+        "temporada": "2025"
+    },
+    {
+        "pais": "brazil",
+        "liga": "serie-d",
+        "temporada": "2024"
+    },
+    {
+        "pais": "brazil",
+        "liga": "serie-d",
+        "temporada": "2023"
+    },
+    {
+        "pais": "brazil",
+        "liga": "serie-d",
+        "temporada": "2022"
+    },
+    {
+        "pais": "brazil",
+        "liga": "serie-d",
+        "temporada": "2021"
+    },
+    {
+        "pais": "bulgaria",
+        "liga": "efbet-league",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "bulgaria",
+        "liga": "efbet-league",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "bulgaria",
+        "liga": "efbet-league",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "bulgaria",
+        "liga": "efbet-league",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "bulgaria",
+        "liga": "efbet-league",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "bulgaria",
+        "liga": "vtora-liga",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "bulgaria",
+        "liga": "vtora-liga",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "bulgaria",
+        "liga": "vtora-liga",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "bulgaria",
+        "liga": "vtora-liga",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "bulgaria",
+        "liga": "vtora-liga",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "chile",
+        "liga": "copa-chile",
+        "temporada": "2026"
+    },
+    {
+        "pais": "chile",
+        "liga": "copa-chile",
+        "temporada": "2025"
+    },
+    {
+        "pais": "chile",
+        "liga": "copa-chile",
+        "temporada": "2024"
+    },
+    {
+        "pais": "chile",
+        "liga": "copa-chile",
+        "temporada": "2023"
+    },
+    {
+        "pais": "chile",
+        "liga": "copa-chile",
+        "temporada": "2022"
+    },
+    {
+        "pais": "chile",
+        "liga": "copa-chile",
+        "temporada": "2021"
+    },
+    {
+        "pais": "chile",
+        "liga": "copa-de-la-liga",
+        "temporada": "2026"
+    },
+    {
+        "pais": "chile",
+        "liga": "liga-de-ascenso",
+        "temporada": "2026"
+    },
+    {
+        "pais": "chile",
+        "liga": "liga-de-ascenso",
+        "temporada": "2025"
+    },
+    {
+        "pais": "chile",
+        "liga": "liga-de-ascenso",
+        "temporada": "2024"
+    },
+    {
+        "pais": "chile",
+        "liga": "liga-de-ascenso",
+        "temporada": "2023"
+    },
+    {
+        "pais": "chile",
+        "liga": "liga-de-ascenso",
+        "temporada": "2022"
+    },
+    {
+        "pais": "chile",
+        "liga": "liga-de-ascenso",
+        "temporada": "2021"
+    },
+    {
+        "pais": "chile",
+        "liga": "liga-de-primera",
+        "temporada": "2026"
+    },
+    {
+        "pais": "chile",
+        "liga": "liga-de-primera",
+        "temporada": "2025"
+    },
+    {
+        "pais": "chile",
+        "liga": "liga-de-primera",
+        "temporada": "2024"
+    },
+    {
+        "pais": "chile",
+        "liga": "liga-de-primera",
+        "temporada": "2023"
+    },
+    {
+        "pais": "chile",
+        "liga": "liga-de-primera",
+        "temporada": "2022"
+    },
+    {
+        "pais": "chile",
+        "liga": "liga-de-primera",
+        "temporada": "2021"
+    },
+    {
+        "pais": "china",
+        "liga": "league-one",
+        "temporada": "2026"
+    },
+    {
+        "pais": "china",
+        "liga": "league-one",
+        "temporada": "2025"
+    },
+    {
+        "pais": "china",
+        "liga": "league-one",
+        "temporada": "2024"
+    },
+    {
+        "pais": "china",
+        "liga": "league-one",
+        "temporada": "2023"
+    },
+    {
+        "pais": "china",
+        "liga": "league-one",
+        "temporada": "2022"
+    },
+    {
+        "pais": "china",
+        "liga": "league-one",
+        "temporada": "2021"
+    },
+    {
+        "pais": "china",
+        "liga": "super-league",
+        "temporada": "2026"
+    },
+    {
+        "pais": "china",
+        "liga": "super-league",
+        "temporada": "2025"
+    },
+    {
+        "pais": "china",
+        "liga": "super-league",
+        "temporada": "2024"
+    },
+    {
+        "pais": "china",
+        "liga": "super-league",
+        "temporada": "2023"
+    },
+    {
+        "pais": "china",
+        "liga": "super-league",
+        "temporada": "2022"
+    },
+    {
+        "pais": "china",
+        "liga": "super-league",
+        "temporada": "2021"
+    },
+    {
+        "pais": "colombia",
+        "liga": "copa-colombia",
+        "temporada": "2025"
+    },
+    {
+        "pais": "colombia",
+        "liga": "primera-a",
+        "temporada": "2026"
+    },
+    {
+        "pais": "colombia",
+        "liga": "primera-a",
+        "temporada": "2025"
+    },
+    {
+        "pais": "colombia",
+        "liga": "primera-a",
+        "temporada": "2024"
+    },
+    {
+        "pais": "colombia",
+        "liga": "primera-a",
+        "temporada": "2023"
+    },
+    {
+        "pais": "colombia",
+        "liga": "primera-a",
+        "temporada": "2022"
+    },
+    {
+        "pais": "colombia",
+        "liga": "primera-a",
+        "temporada": "2021"
+    },
+    {
+        "pais": "colombia",
+        "liga": "primera-b",
+        "temporada": "2026"
+    },
+    {
+        "pais": "colombia",
+        "liga": "primera-b",
+        "temporada": "2025"
+    },
+    {
+        "pais": "colombia",
+        "liga": "primera-b",
+        "temporada": "2024"
+    },
+    {
+        "pais": "colombia",
+        "liga": "primera-b",
+        "temporada": "2023"
+    },
+    {
+        "pais": "colombia",
+        "liga": "primera-b",
+        "temporada": "2022"
+    },
+    {
+        "pais": "colombia",
+        "liga": "primera-b",
+        "temporada": "2021"
+    },
+    {
+        "pais": "croatia",
+        "liga": "hnl",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "croatia",
+        "liga": "hnl",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "croatia",
+        "liga": "hnl",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "croatia",
+        "liga": "hnl",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "croatia",
+        "liga": "hnl",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "croatia",
+        "liga": "prva-nl",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "croatia",
+        "liga": "prva-nl",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "croatia",
+        "liga": "prva-nl",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "croatia",
+        "liga": "prva-nl",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "croatia",
+        "liga": "prva-nl",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "cyprus",
+        "liga": "cyprus-league",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "cyprus",
+        "liga": "cyprus-league",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "cyprus",
+        "liga": "cyprus-league",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "cyprus",
+        "liga": "cyprus-league",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "cyprus",
+        "liga": "cyprus-league",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "cyprus",
+        "liga": "division-2",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "cyprus",
+        "liga": "division-2",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "cyprus",
+        "liga": "division-2",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "cyprus",
+        "liga": "division-2",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "cyprus",
+        "liga": "division-2",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "czech-republic",
+        "liga": "chance-liga",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "czech-republic",
+        "liga": "chance-liga",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "czech-republic",
+        "liga": "chance-liga",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "czech-republic",
+        "liga": "chance-liga",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "czech-republic",
+        "liga": "chance-liga",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "czech-republic",
+        "liga": "chnl",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "czech-republic",
+        "liga": "chnl",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "czech-republic",
+        "liga": "chnl",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "czech-republic",
+        "liga": "chnl",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "czech-republic",
+        "liga": "chnl",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "denmark",
+        "liga": "1st-division",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "denmark",
+        "liga": "1st-division",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "denmark",
+        "liga": "1st-division",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "denmark",
+        "liga": "1st-division",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "denmark",
+        "liga": "1st-division",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "denmark",
+        "liga": "superliga",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "denmark",
+        "liga": "superliga",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "denmark",
+        "liga": "superliga",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "denmark",
+        "liga": "superliga",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "denmark",
+        "liga": "superliga",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "ecuador",
+        "liga": "copa-ecuador",
+        "temporada": "2026"
+    },
+    {
+        "pais": "ecuador",
+        "liga": "copa-ecuador",
+        "temporada": "2025"
+    },
+    {
+        "pais": "ecuador",
+        "liga": "copa-ecuador",
+        "temporada": "2024"
+    },
+    {
+        "pais": "ecuador",
+        "liga": "copa-ecuador",
+        "temporada": "2022"
+    },
+    {
+        "pais": "ecuador",
+        "liga": "liga-pro",
+        "temporada": "2026"
+    },
+    {
+        "pais": "ecuador",
+        "liga": "liga-pro",
+        "temporada": "2025"
+    },
+    {
+        "pais": "ecuador",
+        "liga": "liga-pro",
+        "temporada": "2024"
+    },
+    {
+        "pais": "ecuador",
+        "liga": "liga-pro",
+        "temporada": "2023"
+    },
+    {
+        "pais": "ecuador",
+        "liga": "liga-pro",
+        "temporada": "2022"
+    },
+    {
+        "pais": "ecuador",
+        "liga": "liga-pro",
+        "temporada": "2021"
+    },
+    {
+        "pais": "ecuador",
+        "liga": "serie-b",
+        "temporada": "2026"
+    },
+    {
+        "pais": "ecuador",
+        "liga": "serie-b",
+        "temporada": "2025"
+    },
+    {
+        "pais": "ecuador",
+        "liga": "serie-b",
+        "temporada": "2024"
+    },
+    {
+        "pais": "ecuador",
+        "liga": "serie-b",
+        "temporada": "2023"
+    },
+    {
+        "pais": "ecuador",
+        "liga": "serie-b",
+        "temporada": "2022"
+    },
+    {
+        "pais": "ecuador",
+        "liga": "serie-b",
+        "temporada": "2021"
+    },
+    {
+        "pais": "egypt",
+        "liga": "division-2-a",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "egypt",
+        "liga": "division-2-a",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "egypt",
+        "liga": "division-2-a",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "egypt",
+        "liga": "premier-league",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "egypt",
+        "liga": "premier-league",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "egypt",
+        "liga": "premier-league",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "egypt",
+        "liga": "premier-league",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "egypt",
+        "liga": "premier-league",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "england",
+        "liga": "championship",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "england",
+        "liga": "championship",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "england",
+        "liga": "championship",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "england",
+        "liga": "championship",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "england",
+        "liga": "championship",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "england",
+        "liga": "efl-cup",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "england",
+        "liga": "efl-cup",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "england",
+        "liga": "efl-cup",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "england",
+        "liga": "efl-cup",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "england",
+        "liga": "efl-cup",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "england",
+        "liga": "fa-cup",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "england",
+        "liga": "fa-cup",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "england",
+        "liga": "fa-cup",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "england",
+        "liga": "fa-cup",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "england",
+        "liga": "fa-cup",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "england",
+        "liga": "league-one",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "england",
+        "liga": "league-one",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "england",
+        "liga": "league-one",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "england",
+        "liga": "league-one",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "england",
+        "liga": "league-one",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "england",
+        "liga": "league-two",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "england",
+        "liga": "league-two",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "england",
+        "liga": "league-two",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "england",
+        "liga": "league-two",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "england",
+        "liga": "league-two",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "england",
+        "liga": "national-league",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "england",
+        "liga": "national-league",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "england",
+        "liga": "national-league",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "england",
+        "liga": "national-league",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "england",
+        "liga": "national-league",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "england",
+        "liga": "premier-league",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "england",
+        "liga": "premier-league",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "england",
+        "liga": "premier-league",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "england",
+        "liga": "premier-league",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "england",
+        "liga": "premier-league",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "england",
+        "liga": "wsl",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "england",
+        "liga": "wsl",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "england",
+        "liga": "wsl",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "england",
+        "liga": "wsl",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "england",
+        "liga": "wsl",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "estonia",
+        "liga": "esiliiga",
+        "temporada": "2026"
+    },
+    {
+        "pais": "estonia",
+        "liga": "esiliiga",
+        "temporada": "2025"
+    },
+    {
+        "pais": "estonia",
+        "liga": "esiliiga",
+        "temporada": "2024"
+    },
+    {
+        "pais": "estonia",
+        "liga": "esiliiga",
+        "temporada": "2023"
+    },
+    {
+        "pais": "estonia",
+        "liga": "esiliiga",
+        "temporada": "2022"
+    },
+    {
+        "pais": "estonia",
+        "liga": "esiliiga",
+        "temporada": "2021"
+    },
+    {
+        "pais": "estonia",
+        "liga": "meistriliiga",
+        "temporada": "2026"
+    },
+    {
+        "pais": "estonia",
+        "liga": "meistriliiga",
+        "temporada": "2025"
+    },
+    {
+        "pais": "estonia",
+        "liga": "meistriliiga",
+        "temporada": "2024"
+    },
+    {
+        "pais": "estonia",
+        "liga": "meistriliiga",
+        "temporada": "2023"
+    },
+    {
+        "pais": "estonia",
+        "liga": "meistriliiga",
+        "temporada": "2022"
+    },
+    {
+        "pais": "estonia",
+        "liga": "meistriliiga",
+        "temporada": "2021"
+    },
+    {
+        "pais": "europe",
+        "liga": "champions-league",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "europe",
+        "liga": "champions-league",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "europe",
+        "liga": "champions-league",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "europe",
+        "liga": "champions-league",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "europe",
+        "liga": "champions-league",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "europe",
+        "liga": "euro",
+        "temporada": "2020"
+    },
+    {
+        "pais": "europe",
+        "liga": "euro",
+        "temporada": "2016"
+    },
+    {
+        "pais": "europe",
+        "liga": "euro",
+        "temporada": "2012"
+    },
+    {
+        "pais": "europe",
+        "liga": "euro",
+        "temporada": "2008"
+    },
+    {
+        "pais": "europe",
+        "liga": "euro",
+        "temporada": "2004"
+    },
+    {
+        "pais": "europe",
+        "liga": "euro",
+        "temporada": "2000"
+    },
+    {
+        "pais": "europe",
+        "liga": "europa-conference-league",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "europe",
+        "liga": "europa-conference-league",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "europe",
+        "liga": "europa-conference-league",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "europe",
+        "liga": "europa-conference-league",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "europe",
+        "liga": "europa-league",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "europe",
+        "liga": "europa-league",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "europe",
+        "liga": "europa-league",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "europe",
+        "liga": "europa-league",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "europe",
+        "liga": "europa-league",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "europe",
+        "liga": "uefa-nations-league",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "europe",
+        "liga": "uefa-nations-league",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "europe",
+        "liga": "uefa-nations-league",
+        "temporada": "2020-2021"
+    },
+    {
+        "pais": "europe",
+        "liga": "uefa-nations-league",
+        "temporada": "2018-2019"
+    },
+    {
+        "pais": "finland",
+        "liga": "veikkausliiga",
+        "temporada": "2026"
+    },
+    {
+        "pais": "finland",
+        "liga": "veikkausliiga",
+        "temporada": "2025"
+    },
+    {
+        "pais": "finland",
+        "liga": "veikkausliiga",
+        "temporada": "2024"
+    },
+    {
+        "pais": "finland",
+        "liga": "veikkausliiga",
+        "temporada": "2023"
+    },
+    {
+        "pais": "finland",
+        "liga": "veikkausliiga",
+        "temporada": "2022"
+    },
+    {
+        "pais": "finland",
+        "liga": "veikkausliiga",
+        "temporada": "2021"
+    },
+    {
+        "pais": "finland",
+        "liga": "ykkosliiga",
+        "temporada": "2026"
+    },
+    {
+        "pais": "finland",
+        "liga": "ykkosliiga",
+        "temporada": "2025"
+    },
+    {
+        "pais": "finland",
+        "liga": "ykkosliiga",
+        "temporada": "2024"
+    },
+    {
+        "pais": "finland",
+        "liga": "ykkosliiga",
+        "temporada": "2023"
+    },
+    {
+        "pais": "finland",
+        "liga": "ykkosliiga",
+        "temporada": "2022"
+    },
+    {
+        "pais": "finland",
+        "liga": "ykkosliiga",
+        "temporada": "2021"
+    },
+    {
+        "pais": "france",
+        "liga": "coupe-de-france",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "france",
+        "liga": "coupe-de-france",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "france",
+        "liga": "coupe-de-france",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "france",
+        "liga": "coupe-de-france",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "france",
+        "liga": "coupe-de-france",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "france",
+        "liga": "ligue-1",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "france",
+        "liga": "ligue-1",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "france",
+        "liga": "ligue-1",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "france",
+        "liga": "ligue-1",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "france",
+        "liga": "ligue-1",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "france",
+        "liga": "ligue-2",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "france",
+        "liga": "ligue-2",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "france",
+        "liga": "ligue-2",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "france",
+        "liga": "ligue-2",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "france",
+        "liga": "ligue-2",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "france",
+        "liga": "national",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "france",
+        "liga": "national",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "france",
+        "liga": "national",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "france",
+        "liga": "national",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "france",
+        "liga": "national",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "france",
+        "liga": "national-2-group-a",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "france",
+        "liga": "national-2-group-a",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "france",
+        "liga": "national-2-group-a",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "france",
+        "liga": "national-2-group-a",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "france",
+        "liga": "national-2-group-a",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "france",
+        "liga": "national-2-group-b",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "france",
+        "liga": "national-2-group-b",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "france",
+        "liga": "national-2-group-b",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "france",
+        "liga": "national-2-group-b",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "france",
+        "liga": "national-2-group-b",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "france",
+        "liga": "national-2-group-c",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "france",
+        "liga": "national-2-group-c",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "france",
+        "liga": "national-2-group-c",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "france",
+        "liga": "national-2-group-c",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "france",
+        "liga": "national-2-group-c",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "france",
+        "liga": "premiere-ligue-women",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "france",
+        "liga": "premiere-ligue-women",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "france",
+        "liga": "premiere-ligue-women",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "france",
+        "liga": "premiere-ligue-women",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "france",
+        "liga": "premiere-ligue-women",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "germany",
+        "liga": "2-bundesliga",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "germany",
+        "liga": "2-bundesliga",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "germany",
+        "liga": "2-bundesliga",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "germany",
+        "liga": "2-bundesliga",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "germany",
+        "liga": "2-bundesliga",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "germany",
+        "liga": "3-liga",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "germany",
+        "liga": "3-liga",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "germany",
+        "liga": "3-liga",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "germany",
+        "liga": "3-liga",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "germany",
+        "liga": "3-liga",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "germany",
+        "liga": "bundesliga",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "germany",
+        "liga": "bundesliga",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "germany",
+        "liga": "bundesliga",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "germany",
+        "liga": "bundesliga",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "germany",
+        "liga": "bundesliga",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "germany",
+        "liga": "bundesliga-women",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "germany",
+        "liga": "bundesliga-women",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "germany",
+        "liga": "bundesliga-women",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "germany",
+        "liga": "bundesliga-women",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "germany",
+        "liga": "bundesliga-women",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "germany",
+        "liga": "dfb-pokal",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "germany",
+        "liga": "dfb-pokal",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "germany",
+        "liga": "dfb-pokal",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "germany",
+        "liga": "dfb-pokal",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "germany",
+        "liga": "dfb-pokal",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "greece",
+        "liga": "super-league",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "greece",
+        "liga": "super-league",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "greece",
+        "liga": "super-league",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "greece",
+        "liga": "super-league",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "greece",
+        "liga": "super-league",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "greece",
+        "liga": "super-league-2",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "greece",
+        "liga": "super-league-2",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "greece",
+        "liga": "super-league-2",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "greece",
+        "liga": "super-league-2",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "greece",
+        "liga": "super-league-2",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "iceland",
+        "liga": "besta-deild-karla",
+        "temporada": "2026"
+    },
+    {
+        "pais": "iceland",
+        "liga": "besta-deild-karla",
+        "temporada": "2025"
+    },
+    {
+        "pais": "iceland",
+        "liga": "besta-deild-karla",
+        "temporada": "2024"
+    },
+    {
+        "pais": "iceland",
+        "liga": "besta-deild-karla",
+        "temporada": "2023"
+    },
+    {
+        "pais": "iceland",
+        "liga": "besta-deild-karla",
+        "temporada": "2022"
+    },
+    {
+        "pais": "iceland",
+        "liga": "besta-deild-karla",
+        "temporada": "2021"
+    },
+    {
+        "pais": "iceland",
+        "liga": "division-1",
+        "temporada": "2026"
+    },
+    {
+        "pais": "iceland",
+        "liga": "division-1",
+        "temporada": "2025"
+    },
+    {
+        "pais": "iceland",
+        "liga": "division-1",
+        "temporada": "2024"
+    },
+    {
+        "pais": "iceland",
+        "liga": "division-1",
+        "temporada": "2023"
+    },
+    {
+        "pais": "iceland",
+        "liga": "division-1",
+        "temporada": "2022"
+    },
+    {
+        "pais": "iceland",
+        "liga": "division-1",
+        "temporada": "2021"
+    },
+    {
+        "pais": "ireland",
+        "liga": "division-1",
+        "temporada": "2026"
+    },
+    {
+        "pais": "ireland",
+        "liga": "division-1",
+        "temporada": "2025"
+    },
+    {
+        "pais": "ireland",
+        "liga": "division-1",
+        "temporada": "2024"
+    },
+    {
+        "pais": "ireland",
+        "liga": "division-1",
+        "temporada": "2023"
+    },
+    {
+        "pais": "ireland",
+        "liga": "division-1",
+        "temporada": "2022"
+    },
+    {
+        "pais": "ireland",
+        "liga": "division-1",
+        "temporada": "2021"
+    },
+    {
+        "pais": "ireland",
+        "liga": "premier-division",
+        "temporada": "2026"
+    },
+    {
+        "pais": "ireland",
+        "liga": "premier-division",
+        "temporada": "2025"
+    },
+    {
+        "pais": "ireland",
+        "liga": "premier-division",
+        "temporada": "2024"
+    },
+    {
+        "pais": "ireland",
+        "liga": "premier-division",
+        "temporada": "2023"
+    },
+    {
+        "pais": "ireland",
+        "liga": "premier-division",
+        "temporada": "2022"
+    },
+    {
+        "pais": "ireland",
+        "liga": "premier-division",
+        "temporada": "2021"
+    },
+    {
+        "pais": "israel",
+        "liga": "leumit-league",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "israel",
+        "liga": "leumit-league",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "israel",
+        "liga": "leumit-league",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "israel",
+        "liga": "leumit-league",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "israel",
+        "liga": "leumit-league",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "israel",
+        "liga": "ligat-ha-al",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "israel",
+        "liga": "ligat-ha-al",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "israel",
+        "liga": "ligat-ha-al",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "israel",
+        "liga": "ligat-ha-al",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "israel",
+        "liga": "ligat-ha-al",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "italy",
+        "liga": "coppa-italia",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "italy",
+        "liga": "coppa-italia",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "italy",
+        "liga": "coppa-italia",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "italy",
+        "liga": "coppa-italia",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "italy",
+        "liga": "coppa-italia",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-a",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-a",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-a",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-a",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-a",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-a-women",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-a-women",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-a-women",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-a-women",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-a-women",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-b",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-b",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-b",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-b",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-b",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-c-group-a",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-c-group-a",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-c-group-a",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-c-group-a",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-c-group-a",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-c-group-b",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-c-group-b",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-c-group-b",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-c-group-b",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-c-group-b",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-c-group-c",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-c-group-c",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-c-group-c",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-c-group-c",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-c-group-c",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-a",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-a",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-a",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-a",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-a",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-b",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-b",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-b",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-b",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-b",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-c",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-c",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-c",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-c",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-c",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-d",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-d",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-d",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-d",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-d",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-e",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-e",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-e",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-e",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-e",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-f",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-f",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-f",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-f",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-f",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-g",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-g",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-g",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-g",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-g",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-h",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-h",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-h",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-h",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-h",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-i",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-i",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-i",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-i",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "italy",
+        "liga": "serie-d-group-i",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "japan",
+        "liga": "j1-league",
+        "temporada": "2026"
+    },
+    {
+        "pais": "japan",
+        "liga": "j1-league",
+        "temporada": "2025"
+    },
+    {
+        "pais": "japan",
+        "liga": "j1-league",
+        "temporada": "2024"
+    },
+    {
+        "pais": "japan",
+        "liga": "j1-league",
+        "temporada": "2023"
+    },
+    {
+        "pais": "japan",
+        "liga": "j1-league",
+        "temporada": "2022"
+    },
+    {
+        "pais": "japan",
+        "liga": "j1-league",
+        "temporada": "2021"
+    },
+    {
+        "pais": "japan",
+        "liga": "j2-j3-league",
+        "temporada": "2026"
+    },
+    {
+        "pais": "japan",
+        "liga": "j2-league",
+        "temporada": "2025"
+    },
+    {
+        "pais": "japan",
+        "liga": "j2-league",
+        "temporada": "2024"
+    },
+    {
+        "pais": "japan",
+        "liga": "j2-league",
+        "temporada": "2023"
+    },
+    {
+        "pais": "japan",
+        "liga": "j2-league",
+        "temporada": "2022"
+    },
+    {
+        "pais": "japan",
+        "liga": "j2-league",
+        "temporada": "2021"
+    },
+    {
+        "pais": "japan",
+        "liga": "j3-league",
+        "temporada": "2026"
+    },
+    {
+        "pais": "japan",
+        "liga": "j3-league",
+        "temporada": "2025"
+    },
+    {
+        "pais": "japan",
+        "liga": "j3-league",
+        "temporada": "2024"
+    },
+    {
+        "pais": "japan",
+        "liga": "j3-league",
+        "temporada": "2023"
+    },
+    {
+        "pais": "japan",
+        "liga": "j3-league",
+        "temporada": "2022"
+    },
+    {
+        "pais": "japan",
+        "liga": "j3-league",
+        "temporada": "2021"
+    },
+    {
+        "pais": "mexico",
+        "liga": "liga-de-expansion-mx",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "mexico",
+        "liga": "liga-de-expansion-mx",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "mexico",
+        "liga": "liga-de-expansion-mx",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "mexico",
+        "liga": "liga-de-expansion-mx",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "mexico",
+        "liga": "liga-de-expansion-mx",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "mexico",
+        "liga": "liga-mx",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "mexico",
+        "liga": "liga-mx",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "mexico",
+        "liga": "liga-mx",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "mexico",
+        "liga": "liga-mx",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "mexico",
+        "liga": "liga-mx",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "netherlands",
+        "liga": "eerste-divisie",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "netherlands",
+        "liga": "eerste-divisie",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "netherlands",
+        "liga": "eerste-divisie",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "netherlands",
+        "liga": "eerste-divisie",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "netherlands",
+        "liga": "eerste-divisie",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "netherlands",
+        "liga": "eredivisie",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "netherlands",
+        "liga": "eredivisie",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "netherlands",
+        "liga": "eredivisie",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "netherlands",
+        "liga": "eredivisie",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "netherlands",
+        "liga": "eredivisie",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "netherlands",
+        "liga": "knvb-beker",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "netherlands",
+        "liga": "knvb-beker",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "netherlands",
+        "liga": "knvb-beker",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "netherlands",
+        "liga": "knvb-beker",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "netherlands",
+        "liga": "knvb-beker",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "northern-ireland",
+        "liga": "nifl-championship",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "northern-ireland",
+        "liga": "nifl-championship",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "northern-ireland",
+        "liga": "nifl-championship",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "northern-ireland",
+        "liga": "nifl-championship",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "northern-ireland",
+        "liga": "nifl-championship",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "northern-ireland",
+        "liga": "nifl-premiership",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "northern-ireland",
+        "liga": "nifl-premiership",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "northern-ireland",
+        "liga": "nifl-premiership",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "northern-ireland",
+        "liga": "nifl-premiership",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "northern-ireland",
+        "liga": "nifl-premiership",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "norway",
+        "liga": "eliteserien",
+        "temporada": "2026"
+    },
+    {
+        "pais": "norway",
+        "liga": "eliteserien",
+        "temporada": "2025"
+    },
+    {
+        "pais": "norway",
+        "liga": "eliteserien",
+        "temporada": "2024"
+    },
+    {
+        "pais": "norway",
+        "liga": "eliteserien",
+        "temporada": "2023"
+    },
+    {
+        "pais": "norway",
+        "liga": "eliteserien",
+        "temporada": "2022"
+    },
+    {
+        "pais": "norway",
+        "liga": "eliteserien",
+        "temporada": "2021"
+    },
+    {
+        "pais": "norway",
+        "liga": "obos-ligaen",
+        "temporada": "2026"
+    },
+    {
+        "pais": "norway",
+        "liga": "obos-ligaen",
+        "temporada": "2025"
+    },
+    {
+        "pais": "norway",
+        "liga": "obos-ligaen",
+        "temporada": "2024"
+    },
+    {
+        "pais": "norway",
+        "liga": "obos-ligaen",
+        "temporada": "2023"
+    },
+    {
+        "pais": "norway",
+        "liga": "obos-ligaen",
+        "temporada": "2022"
+    },
+    {
+        "pais": "norway",
+        "liga": "obos-ligaen",
+        "temporada": "2021"
+    },
+    {
+        "pais": "paraguay",
+        "liga": "copa-de-primera",
+        "temporada": "2026"
+    },
+    {
+        "pais": "paraguay",
+        "liga": "copa-de-primera",
+        "temporada": "2025"
+    },
+    {
+        "pais": "paraguay",
+        "liga": "copa-de-primera",
+        "temporada": "2024"
+    },
+    {
+        "pais": "paraguay",
+        "liga": "copa-de-primera",
+        "temporada": "2023"
+    },
+    {
+        "pais": "paraguay",
+        "liga": "copa-de-primera",
+        "temporada": "2022"
+    },
+    {
+        "pais": "paraguay",
+        "liga": "copa-de-primera",
+        "temporada": "2021"
+    },
+    {
+        "pais": "paraguay",
+        "liga": "copa-paraguay",
+        "temporada": "2025"
+    },
+    {
+        "pais": "paraguay",
+        "liga": "division-intermedia",
+        "temporada": "2026"
+    },
+    {
+        "pais": "paraguay",
+        "liga": "division-intermedia",
+        "temporada": "2025"
+    },
+    {
+        "pais": "paraguay",
+        "liga": "division-intermedia",
+        "temporada": "2024"
+    },
+    {
+        "pais": "paraguay",
+        "liga": "division-intermedia",
+        "temporada": "2023"
+    },
+    {
+        "pais": "paraguay",
+        "liga": "division-intermedia",
+        "temporada": "2022"
+    },
+    {
+        "pais": "paraguay",
+        "liga": "division-intermedia",
+        "temporada": "2021"
+    },
+    {
+        "pais": "peru",
+        "liga": "liga-1",
+        "temporada": "2026"
+    },
+    {
+        "pais": "peru",
+        "liga": "liga-1",
+        "temporada": "2025"
+    },
+    {
+        "pais": "peru",
+        "liga": "liga-1",
+        "temporada": "2024"
+    },
+    {
+        "pais": "peru",
+        "liga": "liga-1",
+        "temporada": "2023"
+    },
+    {
+        "pais": "peru",
+        "liga": "liga-1",
+        "temporada": "2022"
+    },
+    {
+        "pais": "peru",
+        "liga": "liga-1",
+        "temporada": "2021"
+    },
+    {
+        "pais": "peru",
+        "liga": "liga-2",
+        "temporada": "2026"
+    },
+    {
+        "pais": "peru",
+        "liga": "liga-2",
+        "temporada": "2025"
+    },
+    {
+        "pais": "peru",
+        "liga": "liga-2",
+        "temporada": "2024"
+    },
+    {
+        "pais": "peru",
+        "liga": "liga-2",
+        "temporada": "2023"
+    },
+    {
+        "pais": "peru",
+        "liga": "liga-2",
+        "temporada": "2022"
+    },
+    {
+        "pais": "peru",
+        "liga": "liga-2",
+        "temporada": "2021"
+    },
+    {
+        "pais": "poland",
+        "liga": "division-1",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "poland",
+        "liga": "division-1",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "poland",
+        "liga": "division-1",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "poland",
+        "liga": "division-1",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "poland",
+        "liga": "division-1",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "poland",
+        "liga": "ekstraklasa",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "poland",
+        "liga": "ekstraklasa",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "poland",
+        "liga": "ekstraklasa",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "poland",
+        "liga": "ekstraklasa",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "poland",
+        "liga": "ekstraklasa",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "portugal",
+        "liga": "league-cup",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "portugal",
+        "liga": "league-cup",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "portugal",
+        "liga": "league-cup",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "portugal",
+        "liga": "league-cup",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "portugal",
+        "liga": "league-cup",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "portugal",
+        "liga": "liga-3",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "portugal",
+        "liga": "liga-3",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "portugal",
+        "liga": "liga-3",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "portugal",
+        "liga": "liga-3",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "portugal",
+        "liga": "liga-3",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "portugal",
+        "liga": "liga-portugal",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "portugal",
+        "liga": "liga-portugal",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "portugal",
+        "liga": "liga-portugal",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "portugal",
+        "liga": "liga-portugal",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "portugal",
+        "liga": "liga-portugal",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "portugal",
+        "liga": "liga-portugal-2",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "portugal",
+        "liga": "liga-portugal-2",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "portugal",
+        "liga": "liga-portugal-2",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "portugal",
+        "liga": "liga-portugal-2",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "portugal",
+        "liga": "liga-portugal-2",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "portugal",
+        "liga": "taca-de-portugal",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "portugal",
+        "liga": "taca-de-portugal",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "portugal",
+        "liga": "taca-de-portugal",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "portugal",
+        "liga": "taca-de-portugal",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "portugal",
+        "liga": "taca-de-portugal",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "romania",
+        "liga": "liga-2",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "romania",
+        "liga": "liga-2",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "romania",
+        "liga": "liga-2",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "romania",
+        "liga": "liga-2",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "romania",
+        "liga": "liga-2",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "romania",
+        "liga": "superliga",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "romania",
+        "liga": "superliga",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "romania",
+        "liga": "superliga",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "romania",
+        "liga": "superliga",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "romania",
+        "liga": "superliga",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "saudi-arabia",
+        "liga": "division-1",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "saudi-arabia",
+        "liga": "division-1",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "saudi-arabia",
+        "liga": "division-1",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "saudi-arabia",
+        "liga": "division-1",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "saudi-arabia",
+        "liga": "division-1",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "saudi-arabia",
+        "liga": "saudi-professional-league",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "saudi-arabia",
+        "liga": "saudi-professional-league",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "saudi-arabia",
+        "liga": "saudi-professional-league",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "saudi-arabia",
+        "liga": "saudi-professional-league",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "saudi-arabia",
+        "liga": "saudi-professional-league",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "scotland",
+        "liga": "championship",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "scotland",
+        "liga": "championship",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "scotland",
+        "liga": "championship",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "scotland",
+        "liga": "championship",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "scotland",
+        "liga": "championship",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "scotland",
+        "liga": "league-cup",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "scotland",
+        "liga": "league-cup",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "scotland",
+        "liga": "league-cup",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "scotland",
+        "liga": "league-cup",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "scotland",
+        "liga": "league-cup",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "scotland",
+        "liga": "league-one",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "scotland",
+        "liga": "league-one",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "scotland",
+        "liga": "league-one",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "scotland",
+        "liga": "league-one",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "scotland",
+        "liga": "league-one",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "scotland",
+        "liga": "league-two",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "scotland",
+        "liga": "league-two",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "scotland",
+        "liga": "league-two",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "scotland",
+        "liga": "league-two",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "scotland",
+        "liga": "league-two",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "scotland",
+        "liga": "premiership",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "scotland",
+        "liga": "premiership",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "scotland",
+        "liga": "premiership",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "scotland",
+        "liga": "premiership",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "scotland",
+        "liga": "premiership",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "scotland",
+        "liga": "scottish-cup",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "scotland",
+        "liga": "scottish-cup",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "scotland",
+        "liga": "scottish-cup",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "scotland",
+        "liga": "scottish-cup",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "scotland",
+        "liga": "scottish-cup",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "serbia",
+        "liga": "mozzart-bet-prva-liga",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "serbia",
+        "liga": "mozzart-bet-prva-liga",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "serbia",
+        "liga": "mozzart-bet-prva-liga",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "serbia",
+        "liga": "mozzart-bet-prva-liga",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "serbia",
+        "liga": "mozzart-bet-prva-liga",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "serbia",
+        "liga": "mozzart-bet-super-liga",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "serbia",
+        "liga": "mozzart-bet-super-liga",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "serbia",
+        "liga": "mozzart-bet-super-liga",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "serbia",
+        "liga": "mozzart-bet-super-liga",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "serbia",
+        "liga": "mozzart-bet-super-liga",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "slovakia",
+        "liga": "2-liga",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "slovakia",
+        "liga": "2-liga",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "slovakia",
+        "liga": "2-liga",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "slovakia",
+        "liga": "2-liga",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "slovakia",
+        "liga": "2-liga",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "slovakia",
+        "liga": "nike-liga",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "slovakia",
+        "liga": "nike-liga",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "slovakia",
+        "liga": "nike-liga",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "slovakia",
+        "liga": "nike-liga",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "slovakia",
+        "liga": "nike-liga",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "slovenia",
+        "liga": "2-snl",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "slovenia",
+        "liga": "2-snl",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "slovenia",
+        "liga": "2-snl",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "slovenia",
+        "liga": "2-snl",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "slovenia",
+        "liga": "2-snl",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "slovenia",
+        "liga": "prva-liga",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "slovenia",
+        "liga": "prva-liga",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "slovenia",
+        "liga": "prva-liga",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "slovenia",
+        "liga": "prva-liga",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "slovenia",
+        "liga": "prva-liga",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "south-africa",
+        "liga": "betway-premiership",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "south-africa",
+        "liga": "betway-premiership",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "south-africa",
+        "liga": "betway-premiership",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "south-africa",
+        "liga": "betway-premiership",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "south-africa",
+        "liga": "betway-premiership",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "south-africa",
+        "liga": "motsepe-foundation-championship",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "south-africa",
+        "liga": "motsepe-foundation-championship",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "south-africa",
+        "liga": "motsepe-foundation-championship",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "south-africa",
+        "liga": "motsepe-foundation-championship",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "south-africa",
+        "liga": "motsepe-foundation-championship",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "south-america",
+        "liga": "copa-america",
+        "temporada": "2021"
+    },
+    {
+        "pais": "south-america",
+        "liga": "copa-america",
+        "temporada": "2019"
+    },
+    {
+        "pais": "south-america",
+        "liga": "copa-america",
+        "temporada": "2016"
+    },
+    {
+        "pais": "south-america",
+        "liga": "copa-america",
+        "temporada": "2015"
+    },
+    {
+        "pais": "south-america",
+        "liga": "copa-america",
+        "temporada": "2011"
+    },
+    {
+        "pais": "south-america",
+        "liga": "copa-america",
+        "temporada": "2007"
+    },
+    {
+        "pais": "south-america",
+        "liga": "copa-america",
+        "temporada": "2004"
+    },
+    {
+        "pais": "south-america",
+        "liga": "copa-america",
+        "temporada": "2001"
+    },
+    {
+        "pais": "south-america",
+        "liga": "copa-libertadores",
+        "temporada": "2026"
+    },
+    {
+        "pais": "south-america",
+        "liga": "copa-libertadores",
+        "temporada": "2025"
+    },
+    {
+        "pais": "south-america",
+        "liga": "copa-libertadores",
+        "temporada": "2024"
+    },
+    {
+        "pais": "south-america",
+        "liga": "copa-libertadores",
+        "temporada": "2023"
+    },
+    {
+        "pais": "south-america",
+        "liga": "copa-libertadores",
+        "temporada": "2022"
+    },
+    {
+        "pais": "south-america",
+        "liga": "copa-libertadores",
+        "temporada": "2021"
+    },
+    {
+        "pais": "south-america",
+        "liga": "copa-sudamericana",
+        "temporada": "2026"
+    },
+    {
+        "pais": "south-america",
+        "liga": "copa-sudamericana",
+        "temporada": "2025"
+    },
+    {
+        "pais": "south-america",
+        "liga": "copa-sudamericana",
+        "temporada": "2024"
+    },
+    {
+        "pais": "south-america",
+        "liga": "copa-sudamericana",
+        "temporada": "2023"
+    },
+    {
+        "pais": "south-america",
+        "liga": "copa-sudamericana",
+        "temporada": "2022"
+    },
+    {
+        "pais": "south-america",
+        "liga": "copa-sudamericana",
+        "temporada": "2021"
+    },
+    {
+        "pais": "south-korea",
+        "liga": "k-league-1",
+        "temporada": "2026"
+    },
+    {
+        "pais": "south-korea",
+        "liga": "k-league-1",
+        "temporada": "2025"
+    },
+    {
+        "pais": "south-korea",
+        "liga": "k-league-1",
+        "temporada": "2024"
+    },
+    {
+        "pais": "south-korea",
+        "liga": "k-league-1",
+        "temporada": "2023"
+    },
+    {
+        "pais": "south-korea",
+        "liga": "k-league-1",
+        "temporada": "2022"
+    },
+    {
+        "pais": "south-korea",
+        "liga": "k-league-1",
+        "temporada": "2021"
+    },
+    {
+        "pais": "south-korea",
+        "liga": "k-league-2",
+        "temporada": "2026"
+    },
+    {
+        "pais": "south-korea",
+        "liga": "k-league-2",
+        "temporada": "2025"
+    },
+    {
+        "pais": "south-korea",
+        "liga": "k-league-2",
+        "temporada": "2024"
+    },
+    {
+        "pais": "south-korea",
+        "liga": "k-league-2",
+        "temporada": "2023"
+    },
+    {
+        "pais": "south-korea",
+        "liga": "k-league-2",
+        "temporada": "2022"
+    },
+    {
+        "pais": "south-korea",
+        "liga": "k-league-2",
+        "temporada": "2021"
+    },
+    {
+        "pais": "spain",
+        "liga": "copa-del-rey",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "spain",
+        "liga": "copa-del-rey",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "spain",
+        "liga": "copa-del-rey",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "spain",
+        "liga": "copa-del-rey",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "spain",
+        "liga": "copa-del-rey",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "spain",
+        "liga": "laliga",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "spain",
+        "liga": "laliga",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "spain",
+        "liga": "laliga",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "spain",
+        "liga": "laliga",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "spain",
+        "liga": "laliga",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "spain",
+        "liga": "laliga2",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "spain",
+        "liga": "laliga2",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "spain",
+        "liga": "laliga2",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "spain",
+        "liga": "laliga2",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "spain",
+        "liga": "laliga2",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "spain",
+        "liga": "liga-f-women",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "spain",
+        "liga": "liga-f-women",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "spain",
+        "liga": "liga-f-women",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "spain",
+        "liga": "liga-f-women",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "spain",
+        "liga": "liga-f-women",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "spain",
+        "liga": "primera-rfef-group-1",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "spain",
+        "liga": "primera-rfef-group-1",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "spain",
+        "liga": "primera-rfef-group-1",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "spain",
+        "liga": "primera-rfef-group-1",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "spain",
+        "liga": "primera-rfef-group-1",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "spain",
+        "liga": "primera-rfef-group-2",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "spain",
+        "liga": "primera-rfef-group-2",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "spain",
+        "liga": "primera-rfef-group-2",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "spain",
+        "liga": "primera-rfef-group-2",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "spain",
+        "liga": "primera-rfef-group-2",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "spain",
+        "liga": "segunda-rfef-group-1",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "spain",
+        "liga": "segunda-rfef-group-1",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "spain",
+        "liga": "segunda-rfef-group-1",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "spain",
+        "liga": "segunda-rfef-group-1",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "spain",
+        "liga": "segunda-rfef-group-1",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "spain",
+        "liga": "segunda-rfef-group-2",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "spain",
+        "liga": "segunda-rfef-group-2",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "spain",
+        "liga": "segunda-rfef-group-2",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "spain",
+        "liga": "segunda-rfef-group-2",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "spain",
+        "liga": "segunda-rfef-group-2",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "spain",
+        "liga": "segunda-rfef-group-3",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "spain",
+        "liga": "segunda-rfef-group-3",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "spain",
+        "liga": "segunda-rfef-group-3",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "spain",
+        "liga": "segunda-rfef-group-3",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "spain",
+        "liga": "segunda-rfef-group-3",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "spain",
+        "liga": "segunda-rfef-group-4",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "spain",
+        "liga": "segunda-rfef-group-4",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "spain",
+        "liga": "segunda-rfef-group-4",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "spain",
+        "liga": "segunda-rfef-group-4",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "spain",
+        "liga": "segunda-rfef-group-4",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "spain",
+        "liga": "segunda-rfef-group-5",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "spain",
+        "liga": "segunda-rfef-group-5",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "spain",
+        "liga": "segunda-rfef-group-5",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "spain",
+        "liga": "segunda-rfef-group-5",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "spain",
+        "liga": "segunda-rfef-group-5",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "sweden",
+        "liga": "allsvenskan",
+        "temporada": "2026"
+    },
+    {
+        "pais": "sweden",
+        "liga": "allsvenskan",
+        "temporada": "2025"
+    },
+    {
+        "pais": "sweden",
+        "liga": "allsvenskan",
+        "temporada": "2024"
+    },
+    {
+        "pais": "sweden",
+        "liga": "allsvenskan",
+        "temporada": "2023"
+    },
+    {
+        "pais": "sweden",
+        "liga": "allsvenskan",
+        "temporada": "2022"
+    },
+    {
+        "pais": "sweden",
+        "liga": "allsvenskan",
+        "temporada": "2021"
+    },
+    {
+        "pais": "sweden",
+        "liga": "superettan",
+        "temporada": "2026"
+    },
+    {
+        "pais": "sweden",
+        "liga": "superettan",
+        "temporada": "2025"
+    },
+    {
+        "pais": "sweden",
+        "liga": "superettan",
+        "temporada": "2024"
+    },
+    {
+        "pais": "sweden",
+        "liga": "superettan",
+        "temporada": "2023"
+    },
+    {
+        "pais": "sweden",
+        "liga": "superettan",
+        "temporada": "2022"
+    },
+    {
+        "pais": "sweden",
+        "liga": "superettan",
+        "temporada": "2021"
+    },
+    {
+        "pais": "switzerland",
+        "liga": "challenge-league",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "switzerland",
+        "liga": "challenge-league",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "switzerland",
+        "liga": "challenge-league",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "switzerland",
+        "liga": "challenge-league",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "switzerland",
+        "liga": "challenge-league",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "switzerland",
+        "liga": "super-league",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "switzerland",
+        "liga": "super-league",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "switzerland",
+        "liga": "super-league",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "switzerland",
+        "liga": "super-league",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "switzerland",
+        "liga": "super-league",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "turkey",
+        "liga": "1-lig",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "turkey",
+        "liga": "1-lig",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "turkey",
+        "liga": "1-lig",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "turkey",
+        "liga": "1-lig",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "turkey",
+        "liga": "1-lig",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "turkey",
+        "liga": "super-lig",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "turkey",
+        "liga": "super-lig",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "turkey",
+        "liga": "super-lig",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "turkey",
+        "liga": "super-lig",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "turkey",
+        "liga": "super-lig",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "turkey",
+        "liga": "turkish-cup",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "turkey",
+        "liga": "turkish-cup",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "turkey",
+        "liga": "turkish-cup",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "turkey",
+        "liga": "turkish-cup",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "turkey",
+        "liga": "turkish-cup",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "ukraine",
+        "liga": "persha-liga",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "ukraine",
+        "liga": "persha-liga",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "ukraine",
+        "liga": "persha-liga",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "ukraine",
+        "liga": "persha-liga",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "ukraine",
+        "liga": "persha-liga",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "ukraine",
+        "liga": "premier-league",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "ukraine",
+        "liga": "premier-league",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "ukraine",
+        "liga": "premier-league",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "ukraine",
+        "liga": "premier-league",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "ukraine",
+        "liga": "premier-league",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "uruguay",
+        "liga": "liga-auf-uruguaya",
+        "temporada": "2026"
+    },
+    {
+        "pais": "uruguay",
+        "liga": "liga-auf-uruguaya",
+        "temporada": "2025"
+    },
+    {
+        "pais": "uruguay",
+        "liga": "liga-auf-uruguaya",
+        "temporada": "2024"
+    },
+    {
+        "pais": "uruguay",
+        "liga": "liga-auf-uruguaya",
+        "temporada": "2023"
+    },
+    {
+        "pais": "uruguay",
+        "liga": "liga-auf-uruguaya",
+        "temporada": "2022"
+    },
+    {
+        "pais": "uruguay",
+        "liga": "liga-auf-uruguaya",
+        "temporada": "2021"
+    },
+    {
+        "pais": "uruguay",
+        "liga": "segunda-division",
+        "temporada": "2026"
+    },
+    {
+        "pais": "uruguay",
+        "liga": "segunda-division",
+        "temporada": "2025"
+    },
+    {
+        "pais": "uruguay",
+        "liga": "segunda-division",
+        "temporada": "2024"
+    },
+    {
+        "pais": "uruguay",
+        "liga": "segunda-division",
+        "temporada": "2023"
+    },
+    {
+        "pais": "uruguay",
+        "liga": "segunda-division",
+        "temporada": "2022"
+    },
+    {
+        "pais": "uruguay",
+        "liga": "segunda-division",
+        "temporada": "2021"
+    },
+    {
+        "pais": "usa",
+        "liga": "mls",
+        "temporada": "2026"
+    },
+    {
+        "pais": "usa",
+        "liga": "mls",
+        "temporada": "2025"
+    },
+    {
+        "pais": "usa",
+        "liga": "mls",
+        "temporada": "2024"
+    },
+    {
+        "pais": "usa",
+        "liga": "mls",
+        "temporada": "2023"
+    },
+    {
+        "pais": "usa",
+        "liga": "mls",
+        "temporada": "2022"
+    },
+    {
+        "pais": "usa",
+        "liga": "mls",
+        "temporada": "2021"
+    },
+    {
+        "pais": "usa",
+        "liga": "nwsl-women",
+        "temporada": "2026"
+    },
+    {
+        "pais": "usa",
+        "liga": "nwsl-women",
+        "temporada": "2025"
+    },
+    {
+        "pais": "usa",
+        "liga": "nwsl-women",
+        "temporada": "2024"
+    },
+    {
+        "pais": "usa",
+        "liga": "nwsl-women",
+        "temporada": "2023"
+    },
+    {
+        "pais": "usa",
+        "liga": "nwsl-women",
+        "temporada": "2022"
+    },
+    {
+        "pais": "usa",
+        "liga": "nwsl-women",
+        "temporada": "2021"
+    },
+    {
+        "pais": "usa",
+        "liga": "usl-championship",
+        "temporada": "2026"
+    },
+    {
+        "pais": "usa",
+        "liga": "usl-championship",
+        "temporada": "2025"
+    },
+    {
+        "pais": "usa",
+        "liga": "usl-championship",
+        "temporada": "2024"
+    },
+    {
+        "pais": "usa",
+        "liga": "usl-championship",
+        "temporada": "2023"
+    },
+    {
+        "pais": "usa",
+        "liga": "usl-championship",
+        "temporada": "2022"
+    },
+    {
+        "pais": "usa",
+        "liga": "usl-championship",
+        "temporada": "2021"
+    },
+    {
+        "pais": "venezuela",
+        "liga": "liga-futve",
+        "temporada": "2026"
+    },
+    {
+        "pais": "venezuela",
+        "liga": "liga-futve",
+        "temporada": "2025"
+    },
+    {
+        "pais": "venezuela",
+        "liga": "liga-futve",
+        "temporada": "2024"
+    },
+    {
+        "pais": "venezuela",
+        "liga": "liga-futve",
+        "temporada": "2023"
+    },
+    {
+        "pais": "venezuela",
+        "liga": "liga-futve",
+        "temporada": "2022"
+    },
+    {
+        "pais": "venezuela",
+        "liga": "liga-futve",
+        "temporada": "2021"
+    },
+    {
+        "pais": "venezuela",
+        "liga": "liga-futve-2",
+        "temporada": "2026"
+    },
+    {
+        "pais": "venezuela",
+        "liga": "liga-futve-2",
+        "temporada": "2025"
+    },
+    {
+        "pais": "venezuela",
+        "liga": "liga-futve-2",
+        "temporada": "2024"
+    },
+    {
+        "pais": "venezuela",
+        "liga": "liga-futve-2",
+        "temporada": "2023"
+    },
+    {
+        "pais": "venezuela",
+        "liga": "liga-futve-2",
+        "temporada": "2022"
+    },
+    {
+        "pais": "venezuela",
+        "liga": "liga-futve-2",
+        "temporada": "2021"
+    },
+    {
+        "pais": "wales",
+        "liga": "cymru-premier",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "wales",
+        "liga": "cymru-premier",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "wales",
+        "liga": "cymru-premier",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "wales",
+        "liga": "cymru-premier",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "wales",
+        "liga": "cymru-premier",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "wales",
+        "liga": "fa-cup",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "wales",
+        "liga": "fa-cup",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "wales",
+        "liga": "fa-cup",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "wales",
+        "liga": "fa-cup",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "wales",
+        "liga": "fa-cup",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "wales",
+        "liga": "league-cup",
+        "temporada": "2025-2026"
+    },
+    {
+        "pais": "wales",
+        "liga": "league-cup",
+        "temporada": "2024-2025"
+    },
+    {
+        "pais": "wales",
+        "liga": "league-cup",
+        "temporada": "2023-2024"
+    },
+    {
+        "pais": "wales",
+        "liga": "league-cup",
+        "temporada": "2022-2023"
+    },
+    {
+        "pais": "wales",
+        "liga": "league-cup",
+        "temporada": "2021-2022"
+    },
+    {
+        "pais": "world",
+        "liga": "world-championship",
+        "temporada": "2026"
+    },
+    {
+        "pais": "world",
+        "liga": "world-championship",
+        "temporada": "2022"
+    },
+    {
+        "pais": "world",
+        "liga": "world-championship",
+        "temporada": "2018"
+    },
+    {
+        "pais": "world",
+        "liga": "world-championship",
+        "temporada": "2014"
+    },
+    {
+        "pais": "world",
+        "liga": "world-championship",
+        "temporada": "2010"
+    },
+    {
+        "pais": "world",
+        "liga": "world-championship",
+        "temporada": "2006"
+    },
+    {
+        "pais": "world",
+        "liga": "world-championship",
+        "temporada": "2002"
+    }
+]

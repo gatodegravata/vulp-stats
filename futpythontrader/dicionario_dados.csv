@@ -1,0 +1,262 @@
+﻿Categoria,Coluna,Descrição
+Informações da Partida,Match_ID,ID da partida
+Informações da Partida,Country,País
+Informações da Partida,Season,Temporada
+Informações da Partida,Div,Nome do Torneio
+Informações da Partida,League,Liga
+Informações da Partida,Date,Data da partida
+Informações da Partida,Time,Horário da partida
+Informações da Partida,Round,Rodada
+Informações da Partida,Home,Time Mandante
+Informações da Partida,Away,Time Visitante
+Informações da Partida,Home_Score,Gols Mandante
+Informações da Partida,Away_Score,Gols Visitante
+Informações da Partida,Min_Goals_Home,Minutos dos Goals do Mandante
+Informações da Partida,Min_Goals_Away,Minutos dos Goals do Visitante
+Odds e Mercados,Bookie_1X2_HT,Bookie
+Odds e Mercados,Odd_1_HT,Odd Mandante vencer no Intervalo
+Odds e Mercados,Odd_X_HT,Odd Empate no Intervalo
+Odds e Mercados,Odd_2_HT,Odd Visitante vencer no Intervalo
+Odds e Mercados,Bookie_1X2_FT,Bookies
+Odds e Mercados,Odd_1_FT,Odd Mandante vencer
+Odds e Mercados,Odd_X_FT,Odd Empate
+Odds e Mercados,Odd_2_FT,Odd Visitante vencer
+Odds e Mercados,Bookie_OU_HT_0_5,Bookie
+Odds e Mercados,Over_HT_0_5,Odd Over 0.5 HT
+Odds e Mercados,Under_HT_0_5,Odd Under 0.5 HT
+Odds e Mercados,Bookie_OU_HT_1_5,Bookie
+Odds e Mercados,Over_HT_1_5,Odd Over 1.5 HT
+Odds e Mercados,Under_HT_1_5,Odd Under 1.5 HT
+Odds e Mercados,Bookie_OU_HT_2_5,Bookie
+Odds e Mercados,Over_HT_2_5,Odd Over HT_2_5
+Odds e Mercados,Under_HT_2_5,Odd Under HT_2_5
+Odds e Mercados,Bookie_OU_FT_0_5,Bookie
+Odds e Mercados,Over_FT_0_5,Odd Over 0.5 FT
+Odds e Mercados,Under_FT_0_5,Odd Under 0.5 FT
+Odds e Mercados,Bookie_OU_FT_1_5,Bookie
+Odds e Mercados,Over_FT_1_5,Odd Over 1.5 FT
+Odds e Mercados,Under_FT_1_5,Odd Under 1.5 FT
+Odds e Mercados,Bookie_OU_FT_2_5,Bookie
+Odds e Mercados,Over_FT_2_5,Odd Over 2.5 FT
+Odds e Mercados,Under_FT_2_5,Odd Under 2.5 FT
+Odds e Mercados,Bookie_OU_FT_3_5,Bookie
+Odds e Mercados,Over_FT_3_5,Odd Over 3.5 FT
+Odds e Mercados,Under_FT_3_5,Odd Under 3.5 FT
+Odds e Mercados,Bookie_OU_FT_4_5,Bookie
+Odds e Mercados,Over_FT_4_5,Odd Over 4.5 FT
+Odds e Mercados,Under_FT_4_5,Odd Under 4.5 FT
+Odds e Mercados,Bookie_BTTS,Bookie
+Odds e Mercados,BTTS_Yes,Odd Ambas Marcam Sim
+Odds e Mercados,BTTS_No,Odd Ambas Marcam Não
+Odds e Mercados,Bookie_DC,Bookie
+Odds e Mercados,DC_1X,Odd Dupla Chance Mandante e Empate
+Odds e Mercados,DC_12,Odd Dupla Chance Mandante e Visitante
+Odds e Mercados,DC_X2,Odd Dupla Chance Visitante e Empate
+Odds e Mercados,Bookie_CS_0_0,Bookie
+Odds e Mercados,CS_0_0,Odd Placar Exato 0x0
+Odds e Mercados,Bookie_CS_0_1,Bookie
+Odds e Mercados,CS_0_1,Odd Placar Exato 0x1
+Odds e Mercados,Bookie_CS_0_2,Bookie
+Odds e Mercados,CS_0_2,Odd Placar Exato 0x2
+Odds e Mercados,Bookie_CS_0_3,Bookie
+Odds e Mercados,CS_0_3,Odd Placar Exato 0x3
+Odds e Mercados,Bookie_CS_1_0,Bookie
+Odds e Mercados,CS_1_0,Odd Placar Exato 1x0
+Odds e Mercados,Bookie_CS_1_1,Bookie
+Odds e Mercados,CS_1_1,Odd Placar Exato 1x1
+Odds e Mercados,Bookie_CS_1_2,Bookie
+Odds e Mercados,CS_1_2,Odd Placar Exato 1x2
+Odds e Mercados,Bookie_CS_1_3,Bookie
+Odds e Mercados,CS_1_3,Odd Placar Exato 1x3
+Odds e Mercados,Bookie_CS_2_0,Bookie
+Odds e Mercados,CS_2_0,Odd Placar Exato 2x0
+Odds e Mercados,Bookie_CS_2_1,Bookie
+Odds e Mercados,CS_2_1,Odd Placar Exato 2x1
+Odds e Mercados,Bookie_CS_2_2,Bookie
+Odds e Mercados,CS_2_2,Odd Placar Exato 2x2
+Odds e Mercados,Bookie_CS_2_3,Bookie
+Odds e Mercados,CS_2_3,Odd Placar Exato 2x3
+Odds e Mercados,Bookie_CS_3_0,Bookie
+Odds e Mercados,CS_3_0,Odd Placar Exato 3x0
+Odds e Mercados,Bookie_CS_3_1,Bookie
+Odds e Mercados,CS_3_1,Odd Placar Exato 3x1
+Odds e Mercados,Bookie_CS_3_2,Bookie
+Odds e Mercados,CS_3_2,Odd Placar Exato 3x2
+Odds e Mercados,Bookie_CS_3_3,Bookie
+Odds e Mercados,CS_3_3,Odd Placar Exato 3x3
+Odds e Mercados,Bookie_AH_neg_2_5,Bookie
+Odds e Mercados,AH_Home_neg_2_5,Odd Handicap Asiático Home -2.5
+Odds e Mercados,AH_Away_neg_2_5,Odd Handicap Asiático Away -2.5
+Odds e Mercados,Bookie_AH_neg_2,Bookie
+Odds e Mercados,AH_Home_neg_2,Odd Handicap Asiático Home -2
+Odds e Mercados,AH_Away_neg_2,Odd Handicap Asiático Away -2
+Odds e Mercados,Bookie_AH_neg_1_5,Bookie
+Odds e Mercados,AH_Home_neg_1_5,Odd Handicap Asiático Home -1.5
+Odds e Mercados,AH_Away_neg_1_5,Odd Handicap Asiático Away -1.5
+Odds e Mercados,Bookie_AH_neg_1,Bookie
+Odds e Mercados,AH_Home_neg_1,Odd Handicap Asiático Home -1
+Odds e Mercados,AH_Away_neg_1,Odd Handicap Asiático Away -1
+Odds e Mercados,Bookie_AH_neg_0_5,Bookie
+Odds e Mercados,AH_Home_neg_0_5,Odd Handicap Asiático Home -0.5
+Odds e Mercados,AH_Away_neg_0_5,Odd Handicap Asiático Away -0.5
+Odds e Mercados,Bookie_AH_pos_0_5,Bookie
+Odds e Mercados,AH_Home_pos_0_5,Odd Handicap Asiático Home 0.5
+Odds e Mercados,AH_Away_pos_0_5,Odd Handicap Asiático Away 0.5
+Odds e Mercados,Bookie_AH_pos_1,Bookie
+Odds e Mercados,AH_Home_pos_1,Odd Handicap Asiático Home 1
+Odds e Mercados,AH_Away_pos_1,Odd Handicap Asiático Away 1
+Odds e Mercados,Bookie_AH_pos_1_5,Bookie
+Odds e Mercados,AH_Home_pos_1_5,Odd Handicap Asiático Home 1.5
+Odds e Mercados,AH_Away_pos_1_5,Odd Handicap Asiático Away 1.5
+Odds e Mercados,Bookie_AH_pos_2,Bookie
+Odds e Mercados,AH_Home_pos_2,Odd Handicap Asiático Home 2
+Odds e Mercados,AH_Away_pos_2,Odd Handicap Asiático Away 2
+Odds e Mercados,Bookie_AH_pos_2_5,Bookie
+Odds e Mercados,AH_Home_pos_2_5,Odd Handicap Asiático Home 2.5
+Odds e Mercados,AH_Away_pos_2_5,Odd Handicap Asiático Away 2.5
+Odds e Mercados,Bookie_EH_neg_3,Bookie
+Odds e Mercados,EH_Home_neg_3,Handicap Europeu Mandante -3
+Odds e Mercados,EH_Draw_neg_3,Handicap Europeu Empate -3
+Odds e Mercados,EH_Away_neg_3,Handicap Europeu Visitante -3
+Odds e Mercados,Bookie_EH_neg_2,Bookie
+Odds e Mercados,EH_Home_neg_2,Handicap Europeu Mandante -2
+Odds e Mercados,EH_Draw_neg_2,Handicap Europeu Empate -2
+Odds e Mercados,EH_Away_neg_2,Handicap Europeu Visitante -2
+Odds e Mercados,Bookie_EH_neg_1,Bookie
+Odds e Mercados,EH_Home_neg_1,Handicap Europeu Mandante -1
+Odds e Mercados,EH_Draw_neg_1,Handicap Europeu Empate -1
+Odds e Mercados,EH_Away_neg_1,Handicap Europeu Visitante -1
+Odds e Mercados,Bookie_EH_1,Bookie
+Odds e Mercados,EH_Home_1,Handicap Europeu Mandante 1
+Odds e Mercados,EH_Draw_1,Handicap Europeu Empate 1
+Odds e Mercados,EH_Away_1,Handicap Europeu Visitante 1
+Odds e Mercados,Bookie_EH_2,Bookie
+Odds e Mercados,EH_Home_2,Handicap Europeu Mandante 2
+Odds e Mercados,EH_Draw_2,Handicap Europeu Empate 2
+Odds e Mercados,EH_Away_2,Handicap Europeu Visitante 2
+Odds e Mercados,Bookie_EH_3,Bookie
+Odds e Mercados,EH_Home_3,Handicap Europeu Mandante 3
+Odds e Mercados,EH_Draw_3,Handicap Europeu Empate 3
+Odds e Mercados,EH_Away_3,Handicap Europeu Visitante 3
+Estatísticas - Jogo Completo (FT),xG_Home_FT,Gols Esperados (xG) - Mandante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),xG_Away_FT,Gols Esperados (xG) - Visitante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),xGOT_Home_FT,xG no Alvo - Mandante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),xGOT_Away_FT,xG no Alvo - Visitante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),xA_Home_FT,Assistências Esperadas - Mandante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),xA_Away_FT,Assistências Esperadas - Visitante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),xGOT_Faced_Home_FT,xG Enfrentado (Goleiro) - Mandante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),xGOT_Faced_Away_FT,xG Enfrentado (Goleiro) - Visitante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Goals_Prevented_Home_FT,Gols Evitados (Goleiro) - Mandante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Goals_Prevented_Away_FT,Gols Evitados (Goleiro) - Visitante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Possession_Home_FT,Posse de Bola (%) - Mandante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Possession_Away_FT,Posse de Bola (%) - Visitante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Passes_Pct_Home_FT,Precisão de Passes (%) - Mandante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Passes_Pct_Away_FT,Precisão de Passes (%) - Visitante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Long_Passes_Pct_Home_FT,Passes Longos (%) - Mandante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Long_Passes_Pct_Away_FT,Passes Longos (%) - Visitante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Passes_Final_Third_Pct_Home_FT,Passes no Terço Final (%) - Mandante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Passes_Final_Third_Pct_Away_FT,Passes no Terço Final (%) - Visitante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Through_Passes_Home_FT,Passes em profundidade - Mandante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Through_Passes_Away_FT,Passes em profundidade - Visitante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Crosses_Pct_Home_FT,Cruzamentos (%) - Mandante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Crosses_Pct_Away_FT,Cruzamentos (%) - Visitante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Total_Shots_Home_FT,Total de Chutes - Mandante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Total_Shots_Away_FT,Total de Chutes - Visitante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Shots_On_Target_Home_FT,Chutes no Gol - Mandante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Shots_On_Target_Away_FT,Chutes no Gol - Visitante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Shots_Off_Target_Home_FT,Chutes Fora - Mandante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Shots_Off_Target_Away_FT,Chutes Fora - Visitante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Blocked_Shots_Home_FT,Chutes Bloqueados - Mandante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Blocked_Shots_Away_FT,Chutes Bloqueados - Visitante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Shots_Inside_Box_Home_FT,Chutes Dentro da Área - Mandante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Shots_Inside_Box_Away_FT,Chutes Dentro da Área - Visitante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Shots_Outside_Box_Home_FT,Chutes Fora da Área - Mandante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Shots_Outside_Box_Away_FT,Chutes Fora da Área - Visitante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Big_Chances_Home_FT,Grandes Chances - Mandante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Big_Chances_Away_FT,Grandes Chances - Visitante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Hit_Woodwork_Home_FT,Bola na Trave - Mandante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Hit_Woodwork_Away_FT,Bola na Trave - Visitante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Touches_Box_Home_FT,Toques na Área - Mandante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Touches_Box_Away_FT,Toques na Área - Visitante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Corners_Home_FT,Escanteios - Mandante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Corners_Away_FT,Escanteios - Visitante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Free_Kicks_Home_FT,Faltas Cobradas - Mandante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Free_Kicks_Away_FT,Faltas Cobradas - Visitante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Throw_Ins_Home_FT,Laterais - Mandante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Throw_Ins_Away_FT,Laterais - Visitante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Fouls_Home_FT,Faltas - Mandante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Fouls_Away_FT,Faltas - Visitante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Yellow_Cards_Home_FT,Cartões Amarelos - Mandante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Yellow_Cards_Away_FT,Cartões Amarelos - Visitante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Red_Cards_Home_FT,Cartões Vermelhos - Mandante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Red_Cards_Away_FT,Cartões Vermelhos - Visitante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Offsides_Home_FT,Impedimentos - Mandante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Offsides_Away_FT,Impedimentos - Visitante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Goalkeeper_Saves_Home_FT,Defesas do Goleiro - Mandante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Goalkeeper_Saves_Away_FT,Defesas do Goleiro - Visitante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Tackles_Pct_Home_FT,Desarmes (%) - Mandante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Tackles_Pct_Away_FT,Desarmes (%) - Visitante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Duels_Won_Home_FT,Duelos Ganhos - Mandante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Duels_Won_Away_FT,Duelos Ganhos - Visitante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Clearances_Home_FT,Cortes / Afastadas - Mandante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Clearances_Away_FT,Cortes / Afastadas - Visitante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Interceptions_Home_FT,Interceptações - Mandante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Interceptions_Away_FT,Interceptações - Visitante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Errors_Shot_Home_FT,Erros que levaram a chute - Mandante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Errors_Shot_Away_FT,Erros que levaram a chute - Visitante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Errors_Goal_Home_FT,Erros que levaram a gol - Mandante (Jogo Completo)
+Estatísticas - Jogo Completo (FT),Errors_Goal_Away_FT,Erros que levaram a gol - Visitante (Jogo Completo)
+Estatísticas - 1º Tempo (HT),xG_Home_HT,Gols Esperados (xG) - Mandante (1º Tempo)
+Estatísticas - 1º Tempo (HT),xG_Away_HT,Gols Esperados (xG) - Visitante (1º Tempo)
+Estatísticas - 1º Tempo (HT),xGOT_Home_HT,xG no Alvo - Mandante (1º Tempo)
+Estatísticas - 1º Tempo (HT),xGOT_Away_HT,xG no Alvo - Visitante (1º Tempo)
+Estatísticas - 1º Tempo (HT),xA_Home_HT,Assistências Esperadas - Mandante (1º Tempo)
+Estatísticas - 1º Tempo (HT),xA_Away_HT,Assistências Esperadas - Visitante (1º Tempo)
+Estatísticas - 1º Tempo (HT),Possession_Home_HT,Posse de Bola (%) - Mandante (1º Tempo)
+Estatísticas - 1º Tempo (HT),Possession_Away_HT,Posse de Bola (%) - Visitante (1º Tempo)
+Estatísticas - 1º Tempo (HT),Total_Shots_Home_HT,Total de Chutes - Mandante (1º Tempo)
+Estatísticas - 1º Tempo (HT),Total_Shots_Away_HT,Total de Chutes - Visitante (1º Tempo)
+Estatísticas - 1º Tempo (HT),Shots_On_Target_Home_HT,Chutes no Gol - Mandante (1º Tempo)
+Estatísticas - 1º Tempo (HT),Shots_On_Target_Away_HT,Chutes no Gol - Visitante (1º Tempo)
+Estatísticas - 1º Tempo (HT),Shots_Off_Target_Home_HT,Chutes Fora - Mandante (1º Tempo)
+Estatísticas - 1º Tempo (HT),Shots_Off_Target_Away_HT,Chutes Fora - Visitante (1º Tempo)
+Estatísticas - 1º Tempo (HT),Big_Chances_Home_HT,Grandes Chances - Mandante (1º Tempo)
+Estatísticas - 1º Tempo (HT),Big_Chances_Away_HT,Grandes Chances - Visitante (1º Tempo)
+Estatísticas - 1º Tempo (HT),Corners_Home_HT,Escanteios - Mandante (1º Tempo)
+Estatísticas - 1º Tempo (HT),Corners_Away_HT,Escanteios - Visitante (1º Tempo)
+Estatísticas - 1º Tempo (HT),Yellow_Cards_Home_HT,Cartões Amarelos - Mandante (1º Tempo)
+Estatísticas - 1º Tempo (HT),Yellow_Cards_Away_HT,Cartões Amarelos - Visitante (1º Tempo)
+Estatísticas - 1º Tempo (HT),Fouls_Home_HT,Faltas - Mandante (1º Tempo)
+Estatísticas - 1º Tempo (HT),Fouls_Away_HT,Faltas - Visitante (1º Tempo)
+Estatísticas - 1º Tempo (HT),Offsides_Home_HT,Impedimentos - Mandante (1º Tempo)
+Estatísticas - 1º Tempo (HT),Offsides_Away_HT,Impedimentos - Visitante (1º Tempo)
+Estatísticas - 1º Tempo (HT),Goalkeeper_Saves_Home_HT,Defesas do Goleiro - Mandante (1º Tempo)
+Estatísticas - 1º Tempo (HT),Goalkeeper_Saves_Away_HT,Defesas do Goleiro - Visitante (1º Tempo)
+Estatísticas - 2º Tempo (2T),xG_Home_2T,Gols Esperados (xG) - Mandante (2º Tempo)
+Estatísticas - 2º Tempo (2T),xG_Away_2T,Gols Esperados (xG) - Visitante (2º Tempo)
+Estatísticas - 2º Tempo (2T),xGOT_Home_2T,xG no Alvo - Mandante (2º Tempo)
+Estatísticas - 2º Tempo (2T),xGOT_Away_2T,xG no Alvo - Visitante (2º Tempo)
+Estatísticas - 2º Tempo (2T),xA_Home_2T,Assistências Esperadas - Mandante (2º Tempo)
+Estatísticas - 2º Tempo (2T),xA_Away_2T,Assistências Esperadas - Visitante (2º Tempo)
+Estatísticas - 2º Tempo (2T),Possession_Home_2T,Posse de Bola (%) - Mandante (2º Tempo)
+Estatísticas - 2º Tempo (2T),Possession_Away_2T,Posse de Bola (%) - Visitante (2º Tempo)
+Estatísticas - 2º Tempo (2T),Total_Shots_Home_2T,Total de Chutes - Mandante (2º Tempo)
+Estatísticas - 2º Tempo (2T),Total_Shots_Away_2T,Total de Chutes - Visitante (2º Tempo)
+Estatísticas - 2º Tempo (2T),Shots_On_Target_Home_2T,Chutes no Gol - Mandante (2º Tempo)
+Estatísticas - 2º Tempo (2T),Shots_On_Target_Away_2T,Chutes no Gol - Visitante (2º Tempo)
+Estatísticas - 2º Tempo (2T),Shots_Off_Target_Home_2T,Chutes Fora - Mandante (2º Tempo)
+Estatísticas - 2º Tempo (2T),Shots_Off_Target_Away_2T,Chutes Fora - Visitante (2º Tempo)
+Estatísticas - 2º Tempo (2T),Big_Chances_Home_2T,Grandes Chances - Mandante (2º Tempo)
+Estatísticas - 2º Tempo (2T),Big_Chances_Away_2T,Grandes Chances - Visitante (2º Tempo)
+Estatísticas - 2º Tempo (2T),Corners_Home_2T,Escanteios - Mandante (2º Tempo)
+Estatísticas - 2º Tempo (2T),Corners_Away_2T,Escanteios - Visitante (2º Tempo)
+Estatísticas - 2º Tempo (2T),Yellow_Cards_Home_2T,Cartões Amarelos - Mandante (2º Tempo)
+Estatísticas - 2º Tempo (2T),Yellow_Cards_Away_2T,Cartões Amarelos - Visitante (2º Tempo)
+Estatísticas - 2º Tempo (2T),Red_Cards_Home_2T,Cartões Vermelhos - Mandante (2º Tempo)
+Estatísticas - 2º Tempo (2T),Red_Cards_Away_2T,Cartões Vermelhos - Visitante (2º Tempo)
+Estatísticas - 2º Tempo (2T),Fouls_Home_2T,Faltas - Mandante (2º Tempo)
+Estatísticas - 2º Tempo (2T),Fouls_Away_2T,Faltas - Visitante (2º Tempo)
+Estatísticas - 2º Tempo (2T),Offsides_Home_2T,Impedimentos - Mandante (2º Tempo)
+Estatísticas - 2º Tempo (2T),Offsides_Away_2T,Impedimentos - Visitante (2º Tempo)
+Estatísticas - 2º Tempo (2T),Goalkeeper_Saves_Home_2T,Defesas do Goleiro - Mandante (2º Tempo)
+Estatísticas - 2º Tempo (2T),Goalkeeper_Saves_Away_2T,Defesas do Goleiro - Visitante (2º Tempo)
