@@ -12,7 +12,7 @@
 !colab/
 !.github
 !futpythontrader/
-!queries/
+!queries/*
 futpythontrader/*
 !futpythontrader/base_fut_trader_consolidada.parquet
 !futpythontrader/dicionario_dados.csv
